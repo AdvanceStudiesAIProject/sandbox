@@ -1,0 +1,2190 @@
+#filename,region_count,region_shape_attributes
+frame1.jpg,0,
+frame2.jpg,0,
+frame3.jpg,0,
+frame4.jpg,0,
+frame5.jpg,0,
+frame6.jpg,0,
+frame7.jpg,0,
+frame8.jpg,0,
+frame9.jpg,0,
+frame10.jpg,0,
+frame11.jpg,0,
+frame12.jpg,0,
+frame13.jpg,0,
+frame14.jpg,0,
+frame15.jpg,0,
+frame16.jpg,0,
+frame17.jpg,0,
+frame18.jpg,0,
+frame19.jpg,0,
+frame20.jpg,0,
+frame21.jpg,0,
+frame22.jpg,0,
+frame23.jpg,0,
+frame24.jpg,0,
+frame25.jpg,0,
+frame26.jpg,0,
+frame27.jpg,0,
+frame28.jpg,0,
+frame29.jpg,0,
+frame30.jpg,0,
+frame31.jpg,0,
+frame32.jpg,0,
+frame33.jpg,0,
+frame34.jpg,0,
+frame35.jpg,0,
+frame36.jpg,0,
+frame37.jpg,0,
+frame38.jpg,0,
+frame39.jpg,0,
+frame40.jpg,0,
+frame41.jpg,0,
+frame42.jpg,0,
+frame43.jpg,0,
+frame44.jpg,0,
+frame45.jpg,0,
+frame46.jpg,0,
+frame47.jpg,0,
+frame48.jpg,0,
+frame49.jpg,0,
+frame50.jpg,0,
+frame51.jpg,0,
+frame52.jpg,0,
+frame53.jpg,0,
+frame54.jpg,0,
+frame55.jpg,0,
+frame56.jpg,0,
+frame57.jpg,0,
+frame58.jpg,0,
+frame59.jpg,0,
+frame60.jpg,0,
+frame61.jpg,0,
+frame62.jpg,0,
+frame63.jpg,0,
+frame64.jpg,0,
+frame65.jpg,0,
+frame66.jpg,0,
+frame67.jpg,0,
+frame68.jpg,0,
+frame69.jpg,0,
+frame70.jpg,0,
+frame71.jpg,0,
+frame72.jpg,0,
+frame73.jpg,0,
+frame74.jpg,0,
+frame75.jpg,0,
+frame76.jpg,0,
+frame77.jpg,0,
+frame78.jpg,0,
+frame79.jpg,0,
+frame80.jpg,0,
+frame81.jpg,0,
+frame82.jpg,0,
+frame83.jpg,0,
+frame84.jpg,0,
+frame85.jpg,0,
+frame86.jpg,0,
+frame87.jpg,0,
+frame88.jpg,0,
+frame89.jpg,0,
+frame90.jpg,0,
+frame91.jpg,0,
+frame92.jpg,0,
+frame93.jpg,0,
+frame94.jpg,0,
+frame95.jpg,0,
+frame96.jpg,0,
+frame97.jpg,0,
+frame98.jpg,0,
+frame99.jpg,0,
+frame100.jpg,0,
+frame101.jpg,0,
+frame102.jpg,0,
+frame103.jpg,0,
+frame104.jpg,0,
+frame105.jpg,0,
+frame106.jpg,0,
+frame107.jpg,0,
+frame108.jpg,0,
+frame109.jpg,0,
+frame110.jpg,0,
+frame111.jpg,0,
+frame112.jpg,0,
+frame113.jpg,0,
+frame114.jpg,0,
+frame115.jpg,0,
+frame116.jpg,0,
+frame117.jpg,0,
+frame118.jpg,0,
+frame119.jpg,0,
+frame120.jpg,0,
+frame121.jpg,0,
+frame122.jpg,0,
+frame123.jpg,0,
+frame124.jpg,0,
+frame125.jpg,0,
+frame126.jpg,0,
+frame127.jpg,0,
+frame128.jpg,0,
+frame129.jpg,0,
+frame130.jpg,0,
+frame131.jpg,0,
+frame132.jpg,0,
+frame133.jpg,0,
+frame134.jpg,0,
+frame135.jpg,0,
+frame136.jpg,0,
+frame137.jpg,0,
+frame138.jpg,0,
+frame139.jpg,0,
+frame140.jpg,0,
+frame141.jpg,0,
+frame142.jpg,0,
+frame143.jpg,0,
+frame144.jpg,0,
+frame145.jpg,0,
+frame146.jpg,0,
+frame147.jpg,0,
+frame148.jpg,0,
+frame149.jpg,0,
+frame150.jpg,0,
+frame151.jpg,0,
+frame152.jpg,0,
+frame153.jpg,0,
+frame154.jpg,0,
+frame155.jpg,0,
+frame156.jpg,0,
+frame157.jpg,0,
+frame158.jpg,0,
+frame159.jpg,0,
+frame160.jpg,0,
+frame161.jpg,0,
+frame162.jpg,0,
+frame163.jpg,0,
+frame164.jpg,0,
+frame165.jpg,0,
+frame166.jpg,0,
+frame167.jpg,0,
+frame168.jpg,0,
+frame169.jpg,0,
+frame170.jpg,0,
+frame171.jpg,0,
+frame172.jpg,0,
+frame173.jpg,0,
+frame174.jpg,0,
+frame175.jpg,0,
+frame176.jpg,0,
+frame177.jpg,0,
+frame178.jpg,0,
+frame179.jpg,0,
+frame180.jpg,0,
+frame181.jpg,0,
+frame182.jpg,0,
+frame183.jpg,0,
+frame184.jpg,0,
+frame185.jpg,0,
+frame186.jpg,0,
+frame187.jpg,0,
+frame188.jpg,0,
+frame189.jpg,0,
+frame190.jpg,0,
+frame191.jpg,0,
+frame192.jpg,0,
+frame193.jpg,0,
+frame194.jpg,0,
+frame195.jpg,0,
+frame196.jpg,0,
+frame197.jpg,0,
+frame198.jpg,0,
+frame199.jpg,0,
+frame200.jpg,0,
+frame201.jpg,0,
+frame202.jpg,0,
+frame203.jpg,0,
+frame204.jpg,0,
+frame205.jpg,0,
+frame206.jpg,0,
+frame207.jpg,0,
+frame208.jpg,0,
+frame209.jpg,0,
+frame210.jpg,0,
+frame211.jpg,0,
+frame212.jpg,0,
+frame213.jpg,0,
+frame214.jpg,0,
+frame215.jpg,0,
+frame216.jpg,0,
+frame217.jpg,0,
+frame218.jpg,0,
+frame219.jpg,0,
+frame220.jpg,0,
+frame221.jpg,0,
+frame222.jpg,0,
+frame223.jpg,0,
+frame224.jpg,0,
+frame225.jpg,0,
+frame226.jpg,0,
+frame227.jpg,0,
+frame228.jpg,0,
+frame229.jpg,0,
+frame230.jpg,0,
+frame231.jpg,0,
+frame232.jpg,0,
+frame233.jpg,0,
+frame234.jpg,0,
+frame235.jpg,0,
+frame236.jpg,0,
+frame237.jpg,0,
+frame238.jpg,0,
+frame239.jpg,0,
+frame240.jpg,0,
+frame241.jpg,0,
+frame242.jpg,0,
+frame243.jpg,0,
+frame244.jpg,0,
+frame245.jpg,0,
+frame246.jpg,0,
+frame247.jpg,0,
+frame248.jpg,0,
+frame249.jpg,0,
+frame250.jpg,0,
+frame251.jpg,0,
+frame252.jpg,0,
+frame253.jpg,0,
+frame254.jpg,0,
+frame255.jpg,0,
+frame256.jpg,0,
+frame257.jpg,0,
+frame258.jpg,0,
+frame259.jpg,0,
+frame260.jpg,0,
+frame261.jpg,0,
+frame262.jpg,0,
+frame263.jpg,0,
+frame264.jpg,0,
+frame265.jpg,0,
+frame266.jpg,0,
+frame267.jpg,0,
+frame268.jpg,0,
+frame269.jpg,0,
+frame270.jpg,0,
+frame271.jpg,0,
+frame272.jpg,0,
+frame273.jpg,0,
+frame274.jpg,0,
+frame275.jpg,0,
+frame276.jpg,0,
+frame277.jpg,0,
+frame278.jpg,0,
+frame279.jpg,0,
+frame280.jpg,0,
+frame281.jpg,0,
+frame282.jpg,0,
+frame283.jpg,0,
+frame284.jpg,0,
+frame285.jpg,0,
+frame286.jpg,0,
+frame287.jpg,0,
+frame288.jpg,0,
+frame289.jpg,0,
+frame290.jpg,0,
+frame291.jpg,0,
+frame292.jpg,0,
+frame293.jpg,0,
+frame294.jpg,0,
+frame295.jpg,0,
+frame296.jpg,0,
+frame297.jpg,0,
+frame298.jpg,0,
+frame299.jpg,0,
+frame300.jpg,0,
+frame301.jpg,0,
+frame302.jpg,0,
+frame303.jpg,0,
+frame304.jpg,0,
+frame305.jpg,0,
+frame306.jpg,0,
+frame307.jpg,0,
+frame308.jpg,0,
+frame309.jpg,0,
+frame310.jpg,0,
+frame311.jpg,0,
+frame312.jpg,0,
+frame313.jpg,0,
+frame314.jpg,0,
+frame315.jpg,0,
+frame316.jpg,0,
+frame317.jpg,0,
+frame318.jpg,0,
+frame319.jpg,0,
+frame320.jpg,0,
+frame321.jpg,0,
+frame322.jpg,0,
+frame323.jpg,0,
+frame324.jpg,0,
+frame325.jpg,0,
+frame326.jpg,0,
+frame327.jpg,0,
+frame328.jpg,0,
+frame329.jpg,0,
+frame330.jpg,0,
+frame331.jpg,0,
+frame332.jpg,0,
+frame333.jpg,0,
+frame334.jpg,0,
+frame335.jpg,0,
+frame336.jpg,0,
+frame337.jpg,0,
+frame338.jpg,0,
+frame339.jpg,0,
+frame340.jpg,0,
+frame341.jpg,0,
+frame342.jpg,0,
+frame343.jpg,0,
+frame344.jpg,0,
+frame345.jpg,0,
+frame346.jpg,0,
+frame347.jpg,0,
+frame348.jpg,0,
+frame349.jpg,0,
+frame350.jpg,0,
+frame351.jpg,0,
+frame352.jpg,0,
+frame353.jpg,0,
+frame354.jpg,0,
+frame355.jpg,0,
+frame356.jpg,0,
+frame357.jpg,0,
+frame358.jpg,0,
+frame359.jpg,0,
+frame360.jpg,0,
+frame361.jpg,0,
+frame362.jpg,0,
+frame363.jpg,0,
+frame364.jpg,0,
+frame365.jpg,0,
+frame366.jpg,0,
+frame367.jpg,0,
+frame368.jpg,0,
+frame369.jpg,0,
+frame370.jpg,0,
+frame371.jpg,0,
+frame372.jpg,0,
+frame373.jpg,0,
+frame374.jpg,0,
+frame375.jpg,0,
+frame376.jpg,0,
+frame377.jpg,0,
+frame378.jpg,0,
+frame379.jpg,0,
+frame380.jpg,0,
+frame381.jpg,0,
+frame382.jpg,0,
+frame383.jpg,0,
+frame384.jpg,0,
+frame385.jpg,0,
+frame386.jpg,0,
+frame387.jpg,0,
+frame388.jpg,0,
+frame389.jpg,0,
+frame390.jpg,0,
+frame391.jpg,0,
+frame392.jpg,0,
+frame393.jpg,0,
+frame394.jpg,0,
+frame395.jpg,0,
+frame396.jpg,0,
+frame397.jpg,0,
+frame398.jpg,0,
+frame399.jpg,0,
+frame400.jpg,0,
+frame401.jpg,0,
+frame402.jpg,0,
+frame403.jpg,0,
+frame404.jpg,0,
+frame405.jpg,0,
+frame406.jpg,0,
+frame407.jpg,0,
+frame408.jpg,0,
+frame409.jpg,0,
+frame410.jpg,0,
+frame411.jpg,0,
+frame412.jpg,0,
+frame413.jpg,0,
+frame414.jpg,0,
+frame415.jpg,0,
+frame416.jpg,0,
+frame417.jpg,0,
+frame418.jpg,0,
+frame419.jpg,0,
+frame420.jpg,0,
+frame421.jpg,0,
+frame422.jpg,0,
+frame423.jpg,0,
+frame424.jpg,0,
+frame425.jpg,0,
+frame426.jpg,0,
+frame427.jpg,0,
+frame428.jpg,0,
+frame429.jpg,0,
+frame430.jpg,0,
+frame431.jpg,0,
+frame432.jpg,0,
+frame433.jpg,0,
+frame434.jpg,0,
+frame435.jpg,0,
+frame436.jpg,0,
+frame437.jpg,0,
+frame438.jpg,0,
+frame439.jpg,0,
+frame440.jpg,0,
+frame441.jpg,0,
+frame442.jpg,0,
+frame443.jpg,0,
+frame444.jpg,0,
+frame445.jpg,0,
+frame446.jpg,0,
+frame447.jpg,0,
+frame448.jpg,0,
+frame449.jpg,0,
+frame450.jpg,0,
+frame451.jpg,0,
+frame452.jpg,0,
+frame453.jpg,0,
+frame454.jpg,0,
+frame455.jpg,0,
+frame456.jpg,0,
+frame457.jpg,0,
+frame458.jpg,0,
+frame459.jpg,0,
+frame460.jpg,0,
+frame461.jpg,0,
+frame462.jpg,0,
+frame463.jpg,0,
+frame464.jpg,0,
+frame465.jpg,0,
+frame466.jpg,0,
+frame467.jpg,0,
+frame468.jpg,0,
+frame469.jpg,0,
+frame470.jpg,0,
+frame471.jpg,0,
+frame472.jpg,0,
+frame473.jpg,0,
+frame474.jpg,0,
+frame475.jpg,0,
+frame476.jpg,0,
+frame477.jpg,0,
+frame478.jpg,0,
+frame479.jpg,0,
+frame480.jpg,0,
+frame481.jpg,0,
+frame482.jpg,0,
+frame483.jpg,0,
+frame484.jpg,0,
+frame485.jpg,0,
+frame486.jpg,0,
+frame487.jpg,0,
+frame488.jpg,0,
+frame489.jpg,0,
+frame490.jpg,0,
+frame491.jpg,0,
+frame492.jpg,0,
+frame493.jpg,0,
+frame494.jpg,0,
+frame495.jpg,0,
+frame496.jpg,0,
+frame497.jpg,0,
+frame498.jpg,0,
+frame499.jpg,0,
+frame500.jpg,0,
+frame501.jpg,0,
+frame502.jpg,0,
+frame503.jpg,0,
+frame504.jpg,0,
+frame505.jpg,0,
+frame506.jpg,0,
+frame507.jpg,0,
+frame508.jpg,0,
+frame509.jpg,0,
+frame510.jpg,0,
+frame511.jpg,0,
+frame512.jpg,0,
+frame513.jpg,0,
+frame514.jpg,0,
+frame515.jpg,0,
+frame516.jpg,0,
+frame517.jpg,0,
+frame518.jpg,0,
+frame519.jpg,0,
+frame520.jpg,0,
+frame521.jpg,0,
+frame522.jpg,0,
+frame523.jpg,0,
+frame524.jpg,0,
+frame525.jpg,0,
+frame526.jpg,0,
+frame527.jpg,0,
+frame528.jpg,0,
+frame529.jpg,0,
+frame530.jpg,0,
+frame531.jpg,0,
+frame532.jpg,0,
+frame533.jpg,0,
+frame534.jpg,0,
+frame535.jpg,0,
+frame536.jpg,0,
+frame537.jpg,0,
+frame538.jpg,0,
+frame539.jpg,0,
+frame540.jpg,0,
+frame541.jpg,0,
+frame542.jpg,0,
+frame543.jpg,0,
+frame544.jpg,0,
+frame545.jpg,0,
+frame546.jpg,0,
+frame547.jpg,0,
+frame548.jpg,0,
+frame549.jpg,0,
+frame550.jpg,0,
+frame551.jpg,0,
+frame552.jpg,0,
+frame553.jpg,0,
+frame554.jpg,0,
+frame555.jpg,0,
+frame556.jpg,0,
+frame557.jpg,0,
+frame558.jpg,0,
+frame559.jpg,0,
+frame560.jpg,0,
+frame561.jpg,0,
+frame562.jpg,0,
+frame563.jpg,0,
+frame564.jpg,0,
+frame565.jpg,0,
+frame566.jpg,0,
+frame567.jpg,0,
+frame568.jpg,0,
+frame569.jpg,0,
+frame570.jpg,0,
+frame571.jpg,0,
+frame572.jpg,0,
+frame573.jpg,0,
+frame574.jpg,0,
+frame575.jpg,0,
+frame576.jpg,0,
+frame577.jpg,0,
+frame578.jpg,0,
+frame579.jpg,0,
+frame580.jpg,0,
+frame581.jpg,0,
+frame582.jpg,0,
+frame583.jpg,0,
+frame584.jpg,0,
+frame585.jpg,0,
+frame586.jpg,0,
+frame587.jpg,0,
+frame588.jpg,0,
+frame589.jpg,0,
+frame590.jpg,0,
+frame591.jpg,0,
+frame592.jpg,0,
+frame593.jpg,1,"name:rect,x: 29 ,y: 58,width: 46, height: 133"
+frame594.jpg,1,"name:rect,x: 29 ,y: 62,width: 52, height: 124"
+frame595.jpg,1,"name:rect,x: 27 ,y: 60,width: 51, height: 124"
+frame596.jpg,1,"name:rect,x: 30 ,y: 56,width: 49, height: 130"
+frame597.jpg,1,"name:rect,x: 31 ,y: 56,width: 50, height: 133"
+frame598.jpg,1,"name:rect,x: 35 ,y: 57,width: 54, height: 131"
+frame599.jpg,1,"name:rect,x: 37 ,y: 55,width: 54, height: 133"
+frame600.jpg,1,"name:rect,x: 35 ,y: 57,width: 59, height: 129"
+frame601.jpg,1,"name:rect,x: 35 ,y: 56,width: 60, height: 130"
+frame602.jpg,1,"name:rect,x: 37 ,y: 52,width: 59, height: 136"
+frame603.jpg,1,"name:rect,x: 37 ,y: 55,width: 60, height: 131"
+frame604.jpg,1,"name:rect,x: 39 ,y: 54,width: 59, height: 134"
+frame605.jpg,1,"name:rect,x: 38 ,y: 56,width: 63, height: 133"
+frame606.jpg,1,"name:rect,x: 38 ,y: 57,width: 69, height: 130"
+frame607.jpg,1,"name:rect,x: 40 ,y: 56,width: 68, height: 131"
+frame608.jpg,1,"name:rect,x: 39 ,y: 58,width: 70, height: 129"
+frame609.jpg,1,"name:rect,x: 39 ,y: 58,width: 71, height: 128"
+frame610.jpg,1,"name:rect,x: 40 ,y: 57,width: 75, height: 128"
+frame611.jpg,1,"name:rect,x: 41 ,y: 57,width: 75, height: 128"
+frame612.jpg,1,"name:rect,x: 43 ,y: 56,width: 76, height: 131"
+frame613.jpg,1,"name:rect,x: 44 ,y: 55,width: 78, height: 136"
+frame614.jpg,1,"name:rect,x: 45 ,y: 57,width: 79, height: 133"
+frame615.jpg,1,"name:rect,x: 46 ,y: 51,width: 81, height: 140"
+frame616.jpg,1,"name:rect,x: 46 ,y: 54,width: 84, height: 136"
+frame617.jpg,1,"name:rect,x: 48 ,y: 48,width: 85, height: 142"
+frame618.jpg,1,"name:rect,x: 48 ,y: 49,width: 86, height: 141"
+frame619.jpg,1,"name:rect,x: 50 ,y: 47,width: 83, height: 141"
+frame620.jpg,1,"name:rect,x: 51 ,y: 47,width: 83, height: 142"
+frame621.jpg,1,"name:rect,x: 49 ,y: 47,width: 87, height: 141"
+frame622.jpg,1,"name:rect,x: 49 ,y: 47,width: 88, height: 142"
+frame623.jpg,1,"name:rect,x: 50 ,y: 47,width: 91, height: 143"
+frame624.jpg,1,"name:rect,x: 49 ,y: 49,width: 96, height: 142"
+frame625.jpg,1,"name:rect,x: 52 ,y: 48,width: 91, height: 142"
+frame626.jpg,1,"name:rect,x: 54 ,y: 48,width: 91, height: 142"
+frame627.jpg,1,"name:rect,x: 57 ,y: 48,width: 88, height: 141"
+frame628.jpg,1,"name:rect,x: 58 ,y: 49,width: 88, height: 139"
+frame629.jpg,1,"name:rect,x: 58 ,y: 50,width: 88, height: 137"
+frame630.jpg,1,"name:rect,x: 64 ,y: 48,width: 83, height: 141"
+frame631.jpg,1,"name:rect,x: 65 ,y: 47,width: 82, height: 143"
+frame632.jpg,1,"name:rect,x: 65 ,y: 46,width: 82, height: 145"
+frame633.jpg,1,"name:rect,x: 66 ,y: 45,width: 81, height: 147"
+frame634.jpg,1,"name:rect,x: 64 ,y: 43,width: 86, height: 150"
+frame635.jpg,1,"name:rect,x: 65 ,y: 41,width: 84, height: 151"
+frame636.jpg,1,"name:rect,x: 67 ,y: 40,width: 83, height: 153"
+frame637.jpg,1,"name:rect,x: 67 ,y: 39,width: 83, height: 153"
+frame638.jpg,1,"name:rect,x: 68 ,y: 39,width: 82, height: 153"
+frame639.jpg,1,"name:rect,x: 68 ,y: 38,width: 83, height: 153"
+frame640.jpg,1,"name:rect,x: 69 ,y: 39,width: 82, height: 153"
+frame641.jpg,1,"name:rect,x: 71 ,y: 39,width: 81, height: 155"
+frame642.jpg,1,"name:rect,x: 72 ,y: 38,width: 84, height: 154"
+frame643.jpg,1,"name:rect,x: 74 ,y: 38,width: 87, height: 156"
+frame644.jpg,1,"name:rect,x: 75 ,y: 39,width: 87, height: 153"
+frame645.jpg,1,"name:rect,x: 81 ,y: 39,width: 87, height: 155"
+frame646.jpg,1,"name:rect,x: 83 ,y: 40,width: 88, height: 157"
+frame647.jpg,1,"name:rect,x: 86 ,y: 38,width: 88, height: 161"
+frame648.jpg,1,"name:rect,x: 87 ,y: 38,width: 92, height: 165"
+frame649.jpg,1,"name:rect,x: 87 ,y: 37,width: 95, height: 174"
+frame650.jpg,1,"name:rect,x: 84 ,y: 37,width: 103, height: 170"
+frame651.jpg,1,"name:rect,x: 84 ,y: 35,width: 103, height: 200"
+frame652.jpg,0,
+frame653.jpg,0,
+frame654.jpg,0,
+frame655.jpg,1,"name:rect,x: 102 ,y: 35,width: 95, height: 198"
+frame656.jpg,1,"name:rect,x: 101 ,y: 35,width: 97, height: 197"
+frame657.jpg,1,"name:rect,x: 103 ,y: 35,width: 96, height: 187"
+frame658.jpg,1,"name:rect,x: 107 ,y: 35,width: 92, height: 180"
+frame659.jpg,1,"name:rect,x: 114 ,y: 36,width: 86, height: 186"
+frame660.jpg,1,"name:rect,x: 122 ,y: 36,width: 79, height: 189"
+frame661.jpg,1,"name:rect,x: 128 ,y: 37,width: 75, height: 181"
+frame662.jpg,1,"name:rect,x: 131 ,y: 37,width: 72, height: 198"
+frame663.jpg,1,"name:rect,x: 135 ,y: 37,width: 73, height: 200"
+frame664.jpg,1,"name:rect,x: 139 ,y: 35,width: 69, height: 196"
+frame665.jpg,1,"name:rect,x: 139 ,y: 34,width: 74, height: 202"
+frame666.jpg,1,"name:rect,x: 140 ,y: 33,width: 78, height: 203"
+frame667.jpg,1,"name:rect,x: 139 ,y: 33,width: 81, height: 202"
+frame668.jpg,1,"name:rect,x: 134 ,y: 33,width: 92, height: 206"
+frame669.jpg,1,"name:rect,x: 134 ,y: 32,width: 107, height: 205"
+frame670.jpg,1,"name:rect,x: 132 ,y: 35,width: 127, height: 202"
+frame671.jpg,1,"name:rect,x: 129 ,y: 40,width: 141, height: 198"
+frame672.jpg,1,"name:rect,x: 129 ,y: 38,width: 153, height: 200"
+frame673.jpg,1,"name:rect,x: 127 ,y: 40,width: 158, height: 198"
+frame674.jpg,1,"name:rect,x: 124 ,y: 40,width: 175, height: 197"
+frame675.jpg,1,"name:rect,x: 125 ,y: 41,width: 174, height: 198"
+frame676.jpg,1,"name:rect,x: 124 ,y: 42,width: 177, height: 197"
+frame677.jpg,1,"name:rect,x: 125 ,y: 43,width: 173, height: 198"
+frame678.jpg,1,"name:rect,x: 126 ,y: 43,width: 176, height: 196"
+frame679.jpg,1,"name:rect,x: 127 ,y: 43,width: 174, height: 195"
+frame680.jpg,1,"name:rect,x: 123 ,y: 43,width: 179, height: 196"
+frame681.jpg,1,"name:rect,x: 125 ,y: 43,width: 179, height: 196"
+frame682.jpg,1,"name:rect,x: 123 ,y: 43,width: 181, height: 198"
+frame683.jpg,1,"name:rect,x: 123 ,y: 44,width: 180, height: 196"
+frame684.jpg,1,"name:rect,x: 122 ,y: 43,width: 182, height: 196"
+frame685.jpg,1,"name:rect,x: 121 ,y: 44,width: 183, height: 196"
+frame686.jpg,1,"name:rect,x: 120 ,y: 44,width: 184, height: 196"
+frame687.jpg,1,"name:rect,x: 121 ,y: 44,width: 184, height: 196"
+frame688.jpg,1,"name:rect,x: 124 ,y: 44,width: 180, height: 195"
+frame689.jpg,1,"name:rect,x: 124 ,y: 44,width: 179, height: 195"
+frame690.jpg,1,"name:rect,x: 124 ,y: 43,width: 181, height: 195"
+frame691.jpg,1,"name:rect,x: 128 ,y: 43,width: 179, height: 196"
+frame692.jpg,1,"name:rect,x: 127 ,y: 43,width: 175, height: 196"
+frame693.jpg,1,"name:rect,x: 129 ,y: 43,width: 176, height: 196"
+frame694.jpg,1,"name:rect,x: 125 ,y: 44,width: 178, height: 196"
+frame695.jpg,1,"name:rect,x: 125 ,y: 44,width: 175, height: 196"
+frame696.jpg,1,"name:rect,x: 131 ,y: 43,width: 166, height: 197"
+frame697.jpg,1,"name:rect,x: 128 ,y: 42,width: 172, height: 198"
+frame698.jpg,1,"name:rect,x: 126 ,y: 47,width: 154, height: 194"
+frame699.jpg,1,"name:rect,x: 129 ,y: 47,width: 140, height: 189"
+frame700.jpg,1,"name:rect,x: 130 ,y: 44,width: 129, height: 197"
+frame701.jpg,1,"name:rect,x: 132 ,y: 44,width: 124, height: 194"
+frame702.jpg,1,"name:rect,x: 131 ,y: 43,width: 120, height: 193"
+frame703.jpg,1,"name:rect,x: 133 ,y: 44,width: 120, height: 196"
+frame704.jpg,1,"name:rect,x: 133 ,y: 48,width: 118, height: 191"
+frame705.jpg,1,"name:rect,x: 132 ,y: 45,width: 120, height: 193"
+frame706.jpg,1,"name:rect,x: 131 ,y: 48,width: 121, height: 192"
+frame707.jpg,1,"name:rect,x: 130 ,y: 48,width: 121, height: 190"
+frame708.jpg,1,"name:rect,x: 132 ,y: 48,width: 116, height: 191"
+frame709.jpg,1,"name:rect,x: 133 ,y: 48,width: 111, height: 190"
+frame710.jpg,1,"name:rect,x: 131 ,y: 48,width: 107, height: 189"
+frame711.jpg,1,"name:rect,x: 132 ,y: 47,width: 103, height: 191"
+frame712.jpg,1,"name:rect,x: 129 ,y: 46,width: 103, height: 192"
+frame713.jpg,1,"name:rect,x: 128 ,y: 44,width: 99, height: 195"
+frame714.jpg,1,"name:rect,x: 125 ,y: 37,width: 102, height: 196"
+frame715.jpg,1,"name:rect,x: 125 ,y: 36,width: 102, height: 201"
+frame716.jpg,1,"name:rect,x: 126 ,y: 35,width: 99, height: 203"
+frame717.jpg,1,"name:rect,x: 126 ,y: 36,width: 95, height: 202"
+frame718.jpg,1,"name:rect,x: 126 ,y: 35,width: 92, height: 201"
+frame719.jpg,1,"name:rect,x: 125 ,y: 35,width: 90, height: 201"
+frame720.jpg,1,"name:rect,x: 124 ,y: 36,width: 92, height: 202"
+frame721.jpg,1,"name:rect,x: 125 ,y: 35,width: 87, height: 200"
+frame722.jpg,1,"name:rect,x: 124 ,y: 35,width: 87, height: 200"
+frame723.jpg,1,"name:rect,x: 123 ,y: 35,width: 86, height: 200"
+frame724.jpg,1,"name:rect,x: 123 ,y: 35,width: 82, height: 200"
+frame725.jpg,1,"name:rect,x: 121 ,y: 36,width: 83, height: 195"
+frame726.jpg,1,"name:rect,x: 121 ,y: 37,width: 81, height: 193"
+frame727.jpg,1,"name:rect,x: 120 ,y: 36,width: 82, height: 193"
+frame728.jpg,1,"name:rect,x: 121 ,y: 36,width: 84, height: 195"
+frame729.jpg,1,"name:rect,x: 120 ,y: 35,width: 84, height: 196"
+frame730.jpg,1,"name:rect,x: 117 ,y: 35,width: 87, height: 199"
+frame731.jpg,1,"name:rect,x: 118 ,y: 35,width: 86, height: 197"
+frame732.jpg,1,"name:rect,x: 117 ,y: 34,width: 85, height: 191"
+frame733.jpg,1,"name:rect,x: 115 ,y: 34,width: 88, height: 191"
+frame734.jpg,1,"name:rect,x: 114 ,y: 34,width: 88, height: 188"
+frame735.jpg,1,"name:rect,x: 112 ,y: 34,width: 91, height: 183"
+frame736.jpg,1,"name:rect,x: 113 ,y: 34,width: 90, height: 188"
+frame737.jpg,1,"name:rect,x: 115 ,y: 32,width: 86, height: 205"
+frame738.jpg,1,"name:rect,x: 115 ,y: 33,width: 89, height: 204"
+frame739.jpg,1,"name:rect,x: 116 ,y: 34,width: 93, height: 204"
+frame740.jpg,1,"name:rect,x: 114 ,y: 35,width: 97, height: 205"
+frame741.jpg,1,"name:rect,x: 114 ,y: 34,width: 99, height: 205"
+frame742.jpg,1,"name:rect,x: 114 ,y: 34,width: 99, height: 204"
+frame743.jpg,1,"name:rect,x: 112 ,y: 35,width: 104, height: 204"
+frame744.jpg,1,"name:rect,x: 112 ,y: 35,width: 104, height: 200"
+frame745.jpg,1,"name:rect,x: 112 ,y: 36,width: 105, height: 200"
+frame746.jpg,1,"name:rect,x: 112 ,y: 35,width: 105, height: 201"
+frame747.jpg,1,"name:rect,x: 112 ,y: 35,width: 106, height: 200"
+frame748.jpg,1,"name:rect,x: 112 ,y: 34,width: 108, height: 203"
+frame749.jpg,1,"name:rect,x: 113 ,y: 34,width: 108, height: 205"
+frame750.jpg,1,"name:rect,x: 114 ,y: 35,width: 115, height: 205"
+frame751.jpg,1,"name:rect,x: 117 ,y: 35,width: 111, height: 203"
+frame752.jpg,1,"name:rect,x: 117 ,y: 34,width: 117, height: 203"
+frame753.jpg,1,"name:rect,x: 118 ,y: 34,width: 110, height: 204"
+frame754.jpg,1,"name:rect,x: 119 ,y: 35,width: 110, height: 203"
+frame755.jpg,1,"name:rect,x: 118 ,y: 35,width: 115, height: 201"
+frame756.jpg,1,"name:rect,x: 120 ,y: 35,width: 111, height: 203"
+frame757.jpg,1,"name:rect,x: 121 ,y: 34,width: 109, height: 203"
+frame758.jpg,1,"name:rect,x: 123 ,y: 32,width: 106, height: 205"
+frame759.jpg,1,"name:rect,x: 124 ,y: 30,width: 105, height: 208"
+frame760.jpg,1,"name:rect,x: 127 ,y: 32,width: 103, height: 206"
+frame761.jpg,1,"name:rect,x: 129 ,y: 34,width: 102, height: 203"
+frame762.jpg,1,"name:rect,x: 129 ,y: 37,width: 109, height: 197"
+frame763.jpg,1,"name:rect,x: 131 ,y: 36,width: 108, height: 200"
+frame764.jpg,1,"name:rect,x: 133 ,y: 37,width: 108, height: 199"
+frame765.jpg,1,"name:rect,x: 134 ,y: 37,width: 106, height: 200"
+frame766.jpg,1,"name:rect,x: 134 ,y: 35,width: 106, height: 201"
+frame767.jpg,1,"name:rect,x: 137 ,y: 37,width: 98, height: 199"
+frame768.jpg,1,"name:rect,x: 138 ,y: 37,width: 94, height: 199"
+frame769.jpg,1,"name:rect,x: 138 ,y: 37,width: 94, height: 201"
+frame770.jpg,1,"name:rect,x: 139 ,y: 37,width: 91, height: 201"
+frame771.jpg,1,"name:rect,x: 139 ,y: 38,width: 92, height: 199"
+frame772.jpg,1,"name:rect,x: 139 ,y: 38,width: 93, height: 200"
+frame773.jpg,1,"name:rect,x: 138 ,y: 39,width: 104, height: 197"
+frame774.jpg,1,"name:rect,x: 139 ,y: 39,width: 108, height: 198"
+frame775.jpg,1,"name:rect,x: 140 ,y: 38,width: 103, height: 201"
+frame776.jpg,1,"name:rect,x: 141 ,y: 37,width: 102, height: 201"
+frame777.jpg,1,"name:rect,x: 143 ,y: 38,width: 104, height: 201"
+frame778.jpg,1,"name:rect,x: 141 ,y: 37,width: 105, height: 201"
+frame779.jpg,1,"name:rect,x: 142 ,y: 38,width: 107, height: 201"
+frame780.jpg,1,"name:rect,x: 144 ,y: 38,width: 108, height: 200"
+frame781.jpg,1,"name:rect,x: 144 ,y: 38,width: 108, height: 199"
+frame782.jpg,1,"name:rect,x: 144 ,y: 38,width: 104, height: 200"
+frame783.jpg,1,"name:rect,x: 143 ,y: 38,width: 108, height: 200"
+frame784.jpg,1,"name:rect,x: 143 ,y: 38,width: 106, height: 201"
+frame785.jpg,1,"name:rect,x: 145 ,y: 38,width: 107, height: 202"
+frame786.jpg,1,"name:rect,x: 147 ,y: 39,width: 111, height: 198"
+frame787.jpg,1,"name:rect,x: 143 ,y: 38,width: 109, height: 202"
+frame788.jpg,1,"name:rect,x: 145 ,y: 38,width: 107, height: 200"
+frame789.jpg,1,"name:rect,x: 145 ,y: 39,width: 110, height: 199"
+frame790.jpg,1,"name:rect,x: 145 ,y: 39,width: 107, height: 199"
+frame791.jpg,1,"name:rect,x: 144 ,y: 37,width: 105, height: 202"
+frame792.jpg,1,"name:rect,x: 143 ,y: 38,width: 105, height: 201"
+frame793.jpg,1,"name:rect,x: 142 ,y: 39,width: 107, height: 201"
+frame794.jpg,1,"name:rect,x: 143 ,y: 38,width: 105, height: 200"
+frame795.jpg,1,"name:rect,x: 143 ,y: 37,width: 105, height: 202"
+frame796.jpg,1,"name:rect,x: 144 ,y: 38,width: 105, height: 200"
+frame797.jpg,1,"name:rect,x: 144 ,y: 38,width: 110, height: 201"
+frame798.jpg,1,"name:rect,x: 147 ,y: 41,width: 115, height: 195"
+frame799.jpg,1,"name:rect,x: 147 ,y: 40,width: 119, height: 197"
+frame800.jpg,1,"name:rect,x: 149 ,y: 40,width: 115, height: 196"
+frame801.jpg,1,"name:rect,x: 148 ,y: 40,width: 112, height: 195"
+frame802.jpg,1,"name:rect,x: 148 ,y: 39,width: 116, height: 197"
+frame803.jpg,1,"name:rect,x: 148 ,y: 39,width: 112, height: 197"
+frame804.jpg,1,"name:rect,x: 146 ,y: 38,width: 112, height: 199"
+frame805.jpg,1,"name:rect,x: 145 ,y: 39,width: 109, height: 198"
+frame806.jpg,1,"name:rect,x: 144 ,y: 39,width: 108, height: 197"
+frame807.jpg,1,"name:rect,x: 144 ,y: 38,width: 105, height: 199"
+frame808.jpg,1,"name:rect,x: 142 ,y: 38,width: 108, height: 200"
+frame809.jpg,1,"name:rect,x: 143 ,y: 38,width: 107, height: 199"
+frame810.jpg,1,"name:rect,x: 143 ,y: 38,width: 105, height: 199"
+frame811.jpg,1,"name:rect,x: 142 ,y: 38,width: 108, height: 199"
+frame812.jpg,1,"name:rect,x: 143 ,y: 36,width: 106, height: 203"
+frame813.jpg,1,"name:rect,x: 142 ,y: 36,width: 108, height: 204"
+frame814.jpg,1,"name:rect,x: 142 ,y: 37,width: 107, height: 201"
+frame815.jpg,1,"name:rect,x: 142 ,y: 37,width: 106, height: 202"
+frame816.jpg,1,"name:rect,x: 142 ,y: 36,width: 108, height: 204"
+frame817.jpg,1,"name:rect,x: 143 ,y: 37,width: 106, height: 201"
+frame818.jpg,1,"name:rect,x: 143 ,y: 36,width: 107, height: 203"
+frame819.jpg,1,"name:rect,x: 144 ,y: 37,width: 106, height: 202"
+frame820.jpg,1,"name:rect,x: 143 ,y: 37,width: 106, height: 204"
+frame821.jpg,1,"name:rect,x: 142 ,y: 36,width: 108, height: 205"
+frame822.jpg,1,"name:rect,x: 141 ,y: 37,width: 108, height: 203"
+frame823.jpg,1,"name:rect,x: 141 ,y: 37,width: 106, height: 202"
+frame824.jpg,1,"name:rect,x: 140 ,y: 37,width: 106, height: 203"
+frame825.jpg,1,"name:rect,x: 141 ,y: 37,width: 104, height: 202"
+frame826.jpg,1,"name:rect,x: 142 ,y: 37,width: 104, height: 203"
+frame827.jpg,1,"name:rect,x: 142 ,y: 37,width: 105, height: 203"
+frame828.jpg,1,"name:rect,x: 144 ,y: 37,width: 107, height: 204"
+frame829.jpg,1,"name:rect,x: 144 ,y: 37,width: 106, height: 203"
+frame830.jpg,1,"name:rect,x: 146 ,y: 37,width: 101, height: 202"
+frame831.jpg,1,"name:rect,x: 144 ,y: 37,width: 103, height: 201"
+frame832.jpg,1,"name:rect,x: 143 ,y: 37,width: 105, height: 202"
+frame833.jpg,1,"name:rect,x: 144 ,y: 38,width: 105, height: 201"
+frame834.jpg,1,"name:rect,x: 142 ,y: 38,width: 106, height: 200"
+frame835.jpg,1,"name:rect,x: 141 ,y: 38,width: 107, height: 201"
+frame836.jpg,1,"name:rect,x: 142 ,y: 37,width: 107, height: 201"
+frame837.jpg,1,"name:rect,x: 142 ,y: 38,width: 112, height: 199"
+frame838.jpg,1,"name:rect,x: 144 ,y: 39,width: 111, height: 197"
+frame839.jpg,1,"name:rect,x: 142 ,y: 39,width: 110, height: 200"
+frame840.jpg,1,"name:rect,x: 147 ,y: 39,width: 116, height: 197"
+frame841.jpg,1,"name:rect,x: 151 ,y: 38,width: 114, height: 197"
+frame842.jpg,1,"name:rect,x: 145 ,y: 38,width: 112, height: 199"
+frame843.jpg,1,"name:rect,x: 143 ,y: 37,width: 106, height: 203"
+frame844.jpg,1,"name:rect,x: 142 ,y: 38,width: 108, height: 201"
+frame845.jpg,1,"name:rect,x: 144 ,y: 39,width: 107, height: 200"
+frame846.jpg,1,"name:rect,x: 144 ,y: 38,width: 108, height: 202"
+frame847.jpg,1,"name:rect,x: 143 ,y: 38,width: 108, height: 202"
+frame848.jpg,1,"name:rect,x: 144 ,y: 38,width: 106, height: 200"
+frame849.jpg,1,"name:rect,x: 145 ,y: 39,width: 109, height: 198"
+frame850.jpg,1,"name:rect,x: 145 ,y: 39,width: 110, height: 200"
+frame851.jpg,1,"name:rect,x: 144 ,y: 38,width: 107, height: 202"
+frame852.jpg,1,"name:rect,x: 143 ,y: 38,width: 106, height: 202"
+frame853.jpg,1,"name:rect,x: 144 ,y: 38,width: 108, height: 202"
+frame854.jpg,1,"name:rect,x: 144 ,y: 38,width: 108, height: 202"
+frame855.jpg,1,"name:rect,x: 143 ,y: 37,width: 109, height: 202"
+frame856.jpg,1,"name:rect,x: 144 ,y: 37,width: 108, height: 201"
+frame857.jpg,1,"name:rect,x: 144 ,y: 37,width: 110, height: 202"
+frame858.jpg,1,"name:rect,x: 144 ,y: 37,width: 110, height: 203"
+frame859.jpg,1,"name:rect,x: 144 ,y: 38,width: 108, height: 201"
+frame860.jpg,1,"name:rect,x: 144 ,y: 37,width: 109, height: 202"
+frame861.jpg,1,"name:rect,x: 144 ,y: 37,width: 106, height: 202"
+frame862.jpg,1,"name:rect,x: 144 ,y: 37,width: 105, height: 202"
+frame863.jpg,1,"name:rect,x: 144 ,y: 38,width: 105, height: 201"
+frame864.jpg,1,"name:rect,x: 143 ,y: 38,width: 106, height: 202"
+frame865.jpg,1,"name:rect,x: 143 ,y: 37,width: 109, height: 203"
+frame866.jpg,1,"name:rect,x: 142 ,y: 38,width: 109, height: 202"
+frame867.jpg,1,"name:rect,x: 141 ,y: 38,width: 109, height: 202"
+frame868.jpg,1,"name:rect,x: 141 ,y: 38,width: 110, height: 202"
+frame869.jpg,1,"name:rect,x: 142 ,y: 37,width: 108, height: 203"
+frame870.jpg,1,"name:rect,x: 144 ,y: 38,width: 106, height: 201"
+frame871.jpg,1,"name:rect,x: 143 ,y: 38,width: 108, height: 202"
+frame872.jpg,1,"name:rect,x: 143 ,y: 38,width: 108, height: 202"
+frame873.jpg,1,"name:rect,x: 142 ,y: 38,width: 109, height: 203"
+frame874.jpg,1,"name:rect,x: 143 ,y: 38,width: 107, height: 202"
+frame875.jpg,1,"name:rect,x: 144 ,y: 39,width: 106, height: 200"
+frame876.jpg,1,"name:rect,x: 144 ,y: 39,width: 107, height: 200"
+frame877.jpg,1,"name:rect,x: 144 ,y: 38,width: 106, height: 200"
+frame878.jpg,1,"name:rect,x: 143 ,y: 39,width: 108, height: 200"
+frame879.jpg,1,"name:rect,x: 144 ,y: 39,width: 107, height: 200"
+frame880.jpg,1,"name:rect,x: 143 ,y: 39,width: 108, height: 200"
+frame881.jpg,1,"name:rect,x: 143 ,y: 39,width: 108, height: 201"
+frame882.jpg,1,"name:rect,x: 144 ,y: 39,width: 108, height: 199"
+frame883.jpg,1,"name:rect,x: 144 ,y: 39,width: 109, height: 200"
+frame884.jpg,1,"name:rect,x: 144 ,y: 40,width: 109, height: 200"
+frame885.jpg,1,"name:rect,x: 143 ,y: 40,width: 111, height: 200"
+frame886.jpg,1,"name:rect,x: 145 ,y: 40,width: 110, height: 200"
+frame887.jpg,1,"name:rect,x: 145 ,y: 40,width: 110, height: 200"
+frame888.jpg,1,"name:rect,x: 145 ,y: 41,width: 111, height: 198"
+frame889.jpg,1,"name:rect,x: 145 ,y: 40,width: 111, height: 200"
+frame890.jpg,1,"name:rect,x: 145 ,y: 40,width: 110, height: 200"
+frame891.jpg,1,"name:rect,x: 145 ,y: 40,width: 111, height: 200"
+frame892.jpg,1,"name:rect,x: 144 ,y: 40,width: 112, height: 200"
+frame893.jpg,1,"name:rect,x: 143 ,y: 40,width: 114, height: 199"
+frame894.jpg,1,"name:rect,x: 143 ,y: 40,width: 111, height: 200"
+frame895.jpg,1,"name:rect,x: 145 ,y: 40,width: 110, height: 199"
+frame896.jpg,1,"name:rect,x: 144 ,y: 40,width: 109, height: 199"
+frame897.jpg,1,"name:rect,x: 146 ,y: 41,width: 109, height: 198"
+frame898.jpg,1,"name:rect,x: 145 ,y: 40,width: 110, height: 198"
+frame899.jpg,1,"name:rect,x: 145 ,y: 40,width: 110, height: 199"
+frame900.jpg,1,"name:rect,x: 144 ,y: 40,width: 110, height: 200"
+frame901.jpg,1,"name:rect,x: 145 ,y: 40,width: 109, height: 199"
+frame902.jpg,1,"name:rect,x: 144 ,y: 40,width: 109, height: 199"
+frame903.jpg,1,"name:rect,x: 144 ,y: 40,width: 109, height: 200"
+frame904.jpg,1,"name:rect,x: 144 ,y: 40,width: 108, height: 199"
+frame905.jpg,1,"name:rect,x: 144 ,y: 39,width: 109, height: 200"
+frame906.jpg,1,"name:rect,x: 144 ,y: 40,width: 109, height: 199"
+frame907.jpg,1,"name:rect,x: 144 ,y: 40,width: 108, height: 199"
+frame908.jpg,1,"name:rect,x: 144 ,y: 40,width: 109, height: 200"
+frame909.jpg,1,"name:rect,x: 144 ,y: 40,width: 110, height: 200"
+frame910.jpg,1,"name:rect,x: 144 ,y: 40,width: 109, height: 198"
+frame911.jpg,1,"name:rect,x: 143 ,y: 40,width: 110, height: 199"
+frame912.jpg,1,"name:rect,x: 143 ,y: 40,width: 109, height: 198"
+frame913.jpg,1,"name:rect,x: 144 ,y: 40,width: 108, height: 199"
+frame914.jpg,1,"name:rect,x: 143 ,y: 39,width: 109, height: 202"
+frame915.jpg,1,"name:rect,x: 144 ,y: 39,width: 107, height: 200"
+frame916.jpg,1,"name:rect,x: 144 ,y: 39,width: 109, height: 200"
+frame917.jpg,1,"name:rect,x: 144 ,y: 39,width: 108, height: 201"
+frame918.jpg,1,"name:rect,x: 145 ,y: 40,width: 110, height: 199"
+frame919.jpg,1,"name:rect,x: 145 ,y: 41,width: 110, height: 198"
+frame920.jpg,1,"name:rect,x: 150 ,y: 41,width: 114, height: 195"
+frame921.jpg,1,"name:rect,x: 149 ,y: 41,width: 112, height: 195"
+frame922.jpg,1,"name:rect,x: 144 ,y: 40,width: 112, height: 198"
+frame923.jpg,1,"name:rect,x: 144 ,y: 39,width: 112, height: 199"
+frame924.jpg,1,"name:rect,x: 143 ,y: 39,width: 111, height: 198"
+frame925.jpg,1,"name:rect,x: 147 ,y: 39,width: 116, height: 197"
+frame926.jpg,1,"name:rect,x: 147 ,y: 39,width: 117, height: 197"
+frame927.jpg,1,"name:rect,x: 142 ,y: 40,width: 116, height: 198"
+frame928.jpg,1,"name:rect,x: 148 ,y: 39,width: 115, height: 197"
+frame929.jpg,1,"name:rect,x: 147 ,y: 39,width: 116, height: 197"
+frame930.jpg,1,"name:rect,x: 144 ,y: 40,width: 111, height: 199"
+frame931.jpg,1,"name:rect,x: 147 ,y: 39,width: 121, height: 196"
+frame932.jpg,1,"name:rect,x: 146 ,y: 39,width: 119, height: 196"
+frame933.jpg,1,"name:rect,x: 145 ,y: 41,width: 118, height: 195"
+frame934.jpg,1,"name:rect,x: 146 ,y: 40,width: 117, height: 196"
+frame935.jpg,1,"name:rect,x: 149 ,y: 39,width: 114, height: 197"
+frame936.jpg,1,"name:rect,x: 145 ,y: 39,width: 121, height: 197"
+frame937.jpg,1,"name:rect,x: 145 ,y: 41,width: 116, height: 195"
+frame938.jpg,1,"name:rect,x: 142 ,y: 40,width: 107, height: 198"
+frame939.jpg,1,"name:rect,x: 143 ,y: 41,width: 109, height: 195"
+frame940.jpg,1,"name:rect,x: 143 ,y: 41,width: 112, height: 195"
+frame941.jpg,1,"name:rect,x: 144 ,y: 40,width: 106, height: 198"
+frame942.jpg,1,"name:rect,x: 144 ,y: 41,width: 111, height: 195"
+frame943.jpg,1,"name:rect,x: 148 ,y: 40,width: 115, height: 196"
+frame944.jpg,1,"name:rect,x: 147 ,y: 40,width: 116, height: 196"
+frame945.jpg,1,"name:rect,x: 144 ,y: 41,width: 115, height: 194"
+frame946.jpg,1,"name:rect,x: 147 ,y: 40,width: 115, height: 196"
+frame947.jpg,1,"name:rect,x: 147 ,y: 39,width: 118, height: 197"
+frame948.jpg,1,"name:rect,x: 145 ,y: 40,width: 120, height: 196"
+frame949.jpg,1,"name:rect,x: 144 ,y: 42,width: 112, height: 193"
+frame950.jpg,1,"name:rect,x: 145 ,y: 42,width: 110, height: 194"
+frame951.jpg,1,"name:rect,x: 144 ,y: 40,width: 106, height: 198"
+frame952.jpg,1,"name:rect,x: 144 ,y: 40,width: 108, height: 198"
+frame953.jpg,1,"name:rect,x: 145 ,y: 40,width: 108, height: 197"
+frame954.jpg,1,"name:rect,x: 144 ,y: 39,width: 108, height: 198"
+frame955.jpg,1,"name:rect,x: 143 ,y: 39,width: 107, height: 198"
+frame956.jpg,1,"name:rect,x: 144 ,y: 40,width: 109, height: 196"
+frame957.jpg,1,"name:rect,x: 145 ,y: 39,width: 109, height: 198"
+frame958.jpg,1,"name:rect,x: 144 ,y: 39,width: 108, height: 198"
+frame959.jpg,1,"name:rect,x: 144 ,y: 39,width: 108, height: 199"
+frame960.jpg,1,"name:rect,x: 144 ,y: 39,width: 108, height: 198"
+frame961.jpg,1,"name:rect,x: 143 ,y: 38,width: 108, height: 200"
+frame962.jpg,1,"name:rect,x: 143 ,y: 38,width: 105, height: 199"
+frame963.jpg,1,"name:rect,x: 142 ,y: 37,width: 105, height: 199"
+frame964.jpg,1,"name:rect,x: 142 ,y: 37,width: 104, height: 201"
+frame965.jpg,1,"name:rect,x: 142 ,y: 38,width: 104, height: 199"
+frame966.jpg,1,"name:rect,x: 142 ,y: 37,width: 104, height: 201"
+frame967.jpg,1,"name:rect,x: 142 ,y: 37,width: 102, height: 199"
+frame968.jpg,1,"name:rect,x: 144 ,y: 37,width: 100, height: 197"
+frame969.jpg,1,"name:rect,x: 142 ,y: 37,width: 103, height: 198"
+frame970.jpg,1,"name:rect,x: 144 ,y: 36,width: 102, height: 201"
+frame971.jpg,1,"name:rect,x: 143 ,y: 36,width: 101, height: 200"
+frame972.jpg,1,"name:rect,x: 144 ,y: 36,width: 102, height: 200"
+frame973.jpg,1,"name:rect,x: 143 ,y: 36,width: 102, height: 201"
+frame974.jpg,1,"name:rect,x: 145 ,y: 36,width: 101, height: 200"
+frame975.jpg,1,"name:rect,x: 145 ,y: 37,width: 100, height: 198"
+frame976.jpg,1,"name:rect,x: 144 ,y: 36,width: 102, height: 201"
+frame977.jpg,1,"name:rect,x: 144 ,y: 36,width: 101, height: 201"
+frame978.jpg,1,"name:rect,x: 144 ,y: 36,width: 102, height: 202"
+frame979.jpg,1,"name:rect,x: 145 ,y: 35,width: 99, height: 202"
+frame980.jpg,1,"name:rect,x: 144 ,y: 36,width: 102, height: 204"
+frame981.jpg,1,"name:rect,x: 143 ,y: 36,width: 102, height: 203"
+frame982.jpg,1,"name:rect,x: 143 ,y: 35,width: 100, height: 204"
+frame983.jpg,1,"name:rect,x: 144 ,y: 34,width: 102, height: 204"
+frame984.jpg,1,"name:rect,x: 143 ,y: 35,width: 103, height: 203"
+frame985.jpg,1,"name:rect,x: 144 ,y: 35,width: 102, height: 203"
+frame986.jpg,1,"name:rect,x: 143 ,y: 35,width: 105, height: 205"
+frame987.jpg,1,"name:rect,x: 145 ,y: 37,width: 105, height: 201"
+frame988.jpg,1,"name:rect,x: 146 ,y: 38,width: 110, height: 199"
+frame989.jpg,1,"name:rect,x: 150 ,y: 40,width: 118, height: 196"
+frame990.jpg,1,"name:rect,x: 153 ,y: 39,width: 111, height: 196"
+frame991.jpg,1,"name:rect,x: 152 ,y: 40,width: 113, height: 194"
+frame992.jpg,1,"name:rect,x: 152 ,y: 39,width: 112, height: 196"
+frame993.jpg,1,"name:rect,x: 150 ,y: 39,width: 116, height: 195"
+frame994.jpg,1,"name:rect,x: 150 ,y: 39,width: 116, height: 194"
+frame995.jpg,1,"name:rect,x: 143 ,y: 40,width: 119, height: 191"
+frame996.jpg,1,"name:rect,x: 146 ,y: 40,width: 113, height: 192"
+frame997.jpg,1,"name:rect,x: 144 ,y: 41,width: 117, height: 191"
+frame998.jpg,1,"name:rect,x: 145 ,y: 41,width: 113, height: 192"
+frame999.jpg,1,"name:rect,x: 144 ,y: 41,width: 113, height: 194"
+frame1000.jpg,1,"name:rect,x: 144 ,y: 41,width: 109, height: 194"
+frame1001.jpg,1,"name:rect,x: 146 ,y: 40,width: 112, height: 194"
+frame1002.jpg,1,"name:rect,x: 146 ,y: 41,width: 115, height: 191"
+frame1003.jpg,2,"name:rect,x: 150 ,y: 39,width: 114, height: 195"
+frame1003.jpg,2,"name:rect,x: 149 ,y: 39,width: 116, height: 69"
+frame1004.jpg,2,"name:rect,x: 144 ,y: 41,width: 115, height: 190"
+frame1004.jpg,2,"name:rect,x: 150 ,y: 39,width: 112, height: 68"
+frame1005.jpg,1,"name:rect,x: 147 ,y: 40,width: 111, height: 195"
+frame1006.jpg,1,"name:rect,x: 148 ,y: 38,width: 108, height: 196"
+frame1007.jpg,1,"name:rect,x: 146 ,y: 39,width: 109, height: 196"
+frame1008.jpg,1,"name:rect,x: 147 ,y: 39,width: 109, height: 195"
+frame1009.jpg,1,"name:rect,x: 146 ,y: 38,width: 105, height: 199"
+frame1010.jpg,1,"name:rect,x: 147 ,y: 38,width: 104, height: 198"
+frame1011.jpg,1,"name:rect,x: 146 ,y: 38,width: 99, height: 199"
+frame1012.jpg,1,"name:rect,x: 146 ,y: 39,width: 100, height: 197"
+frame1013.jpg,1,"name:rect,x: 146 ,y: 38,width: 103, height: 199"
+frame1014.jpg,1,"name:rect,x: 146 ,y: 38,width: 102, height: 199"
+frame1015.jpg,1,"name:rect,x: 146 ,y: 38,width: 107, height: 198"
+frame1016.jpg,1,"name:rect,x: 144 ,y: 39,width: 107, height: 197"
+frame1017.jpg,1,"name:rect,x: 144 ,y: 39,width: 107, height: 198"
+frame1018.jpg,1,"name:rect,x: 144 ,y: 39,width: 107, height: 197"
+frame1019.jpg,1,"name:rect,x: 145 ,y: 38,width: 107, height: 200"
+frame1020.jpg,2,"name:rect,x: 144 ,y: 40,width: 107, height: 196"
+frame1020.jpg,2,"name:rect,x: 151 ,y: 38,width: 103, height: 67"
+frame1021.jpg,2,"name:rect,x: 150 ,y: 37,width: 114, height: 199"
+frame1021.jpg,2,"name:rect,x: 151 ,y: 38,width: 109, height: 68"
+frame1022.jpg,1,"name:rect,x: 145 ,y: 39,width: 113, height: 197"
+frame1023.jpg,1,"name:rect,x: 145 ,y: 39,width: 110, height: 196"
+frame1024.jpg,1,"name:rect,x: 145 ,y: 40,width: 111, height: 195"
+frame1025.jpg,1,"name:rect,x: 145 ,y: 39,width: 109, height: 196"
+frame1026.jpg,1,"name:rect,x: 148 ,y: 37,width: 120, height: 198"
+frame1027.jpg,1,"name:rect,x: 144 ,y: 40,width: 112, height: 194"
+frame1028.jpg,1,"name:rect,x: 144 ,y: 41,width: 110, height: 193"
+frame1029.jpg,1,"name:rect,x: 143 ,y: 40,width: 113, height: 194"
+frame1030.jpg,1,"name:rect,x: 144 ,y: 40,width: 102, height: 195"
+frame1031.jpg,1,"name:rect,x: 142 ,y: 39,width: 105, height: 197"
+frame1032.jpg,1,"name:rect,x: 142 ,y: 39,width: 99, height: 197"
+frame1033.jpg,1,"name:rect,x: 142 ,y: 37,width: 96, height: 199"
+frame1034.jpg,1,"name:rect,x: 141 ,y: 37,width: 96, height: 198"
+frame1035.jpg,1,"name:rect,x: 141 ,y: 37,width: 98, height: 200"
+frame1036.jpg,1,"name:rect,x: 141 ,y: 38,width: 103, height: 199"
+frame1037.jpg,1,"name:rect,x: 139 ,y: 37,width: 100, height: 201"
+frame1038.jpg,1,"name:rect,x: 138 ,y: 38,width: 107, height: 199"
+frame1039.jpg,1,"name:rect,x: 139 ,y: 37,width: 93, height: 201"
+frame1040.jpg,1,"name:rect,x: 137 ,y: 37,width: 96, height: 201"
+frame1041.jpg,1,"name:rect,x: 136 ,y: 37,width: 108, height: 200"
+frame1042.jpg,1,"name:rect,x: 137 ,y: 36,width: 102, height: 202"
+frame1043.jpg,1,"name:rect,x: 136 ,y: 36,width: 102, height: 201"
+frame1044.jpg,1,"name:rect,x: 135 ,y: 37,width: 101, height: 200"
+frame1045.jpg,1,"name:rect,x: 133 ,y: 37,width: 101, height: 201"
+frame1046.jpg,1,"name:rect,x: 131 ,y: 33,width: 100, height: 206"
+frame1047.jpg,1,"name:rect,x: 133 ,y: 37,width: 94, height: 201"
+frame1048.jpg,1,"name:rect,x: 129 ,y: 38,width: 87, height: 199"
+frame1049.jpg,1,"name:rect,x: 129 ,y: 36,width: 96, height: 200"
+frame1050.jpg,1,"name:rect,x: 128 ,y: 36,width: 94, height: 200"
+frame1051.jpg,1,"name:rect,x: 127 ,y: 37,width: 94, height: 197"
+frame1052.jpg,1,"name:rect,x: 128 ,y: 36,width: 93, height: 199"
+frame1053.jpg,1,"name:rect,x: 125 ,y: 37,width: 91, height: 196"
+frame1054.jpg,1,"name:rect,x: 125 ,y: 37,width: 88, height: 196"
+frame1055.jpg,1,"name:rect,x: 123 ,y: 36,width: 89, height: 197"
+frame1056.jpg,1,"name:rect,x: 123 ,y: 35,width: 86, height: 196"
+frame1057.jpg,1,"name:rect,x: 122 ,y: 36,width: 87, height: 195"
+frame1058.jpg,1,"name:rect,x: 120 ,y: 34,width: 93, height: 198"
+frame1059.jpg,1,"name:rect,x: 118 ,y: 34,width: 98, height: 197"
+frame1060.jpg,1,"name:rect,x: 117 ,y: 34,width: 99, height: 197"
+frame1061.jpg,1,"name:rect,x: 116 ,y: 33,width: 96, height: 199"
+frame1062.jpg,1,"name:rect,x: 114 ,y: 35,width: 101, height: 198"
+frame1063.jpg,1,"name:rect,x: 114 ,y: 35,width: 99, height: 197"
+frame1064.jpg,1,"name:rect,x: 115 ,y: 35,width: 93, height: 197"
+frame1065.jpg,1,"name:rect,x: 115 ,y: 35,width: 96, height: 199"
+frame1066.jpg,1,"name:rect,x: 114 ,y: 36,width: 95, height: 197"
+frame1067.jpg,1,"name:rect,x: 114 ,y: 35,width: 98, height: 202"
+frame1068.jpg,1,"name:rect,x: 113 ,y: 35,width: 98, height: 201"
+frame1069.jpg,1,"name:rect,x: 114 ,y: 35,width: 102, height: 204"
+frame1070.jpg,1,"name:rect,x: 116 ,y: 34,width: 99, height: 202"
+frame1071.jpg,1,"name:rect,x: 117 ,y: 34,width: 100, height: 204"
+frame1072.jpg,1,"name:rect,x: 120 ,y: 35,width: 100, height: 204"
+frame1073.jpg,1,"name:rect,x: 121 ,y: 35,width: 99, height: 205"
+frame1074.jpg,1,"name:rect,x: 119 ,y: 35,width: 107, height: 203"
+frame1075.jpg,1,"name:rect,x: 122 ,y: 35,width: 105, height: 201"
+frame1076.jpg,1,"name:rect,x: 125 ,y: 35,width: 102, height: 202"
+frame1077.jpg,1,"name:rect,x: 127 ,y: 35,width: 106, height: 203"
+frame1078.jpg,1,"name:rect,x: 128 ,y: 35,width: 109, height: 202"
+frame1079.jpg,1,"name:rect,x: 129 ,y: 35,width: 109, height: 202"
+frame1080.jpg,1,"name:rect,x: 130 ,y: 35,width: 110, height: 202"
+frame1081.jpg,1,"name:rect,x: 134 ,y: 34,width: 106, height: 200"
+frame1082.jpg,1,"name:rect,x: 135 ,y: 36,width: 107, height: 200"
+frame1083.jpg,1,"name:rect,x: 137 ,y: 37,width: 110, height: 199"
+frame1084.jpg,1,"name:rect,x: 137 ,y: 36,width: 113, height: 199"
+frame1085.jpg,1,"name:rect,x: 139 ,y: 37,width: 112, height: 197"
+frame1086.jpg,1,"name:rect,x: 142 ,y: 38,width: 110, height: 195"
+frame1087.jpg,1,"name:rect,x: 141 ,y: 38,width: 111, height: 195"
+frame1088.jpg,1,"name:rect,x: 142 ,y: 39,width: 109, height: 194"
+frame1089.jpg,1,"name:rect,x: 142 ,y: 39,width: 109, height: 195"
+frame1090.jpg,1,"name:rect,x: 143 ,y: 38,width: 109, height: 197"
+frame1091.jpg,1,"name:rect,x: 144 ,y: 39,width: 111, height: 198"
+frame1092.jpg,1,"name:rect,x: 144 ,y: 40,width: 109, height: 194"
+frame1093.jpg,1,"name:rect,x: 146 ,y: 40,width: 110, height: 196"
+frame1094.jpg,1,"name:rect,x: 146 ,y: 41,width: 110, height: 195"
+frame1095.jpg,1,"name:rect,x: 147 ,y: 40,width: 110, height: 197"
+frame1096.jpg,1,"name:rect,x: 147 ,y: 41,width: 109, height: 196"
+frame1097.jpg,1,"name:rect,x: 144 ,y: 41,width: 110, height: 198"
+frame1098.jpg,1,"name:rect,x: 145 ,y: 41,width: 109, height: 198"
+frame1099.jpg,1,"name:rect,x: 145 ,y: 41,width: 108, height: 197"
+frame1100.jpg,1,"name:rect,x: 145 ,y: 40,width: 109, height: 198"
+frame1101.jpg,1,"name:rect,x: 144 ,y: 39,width: 107, height: 200"
+frame1102.jpg,1,"name:rect,x: 144 ,y: 40,width: 108, height: 198"
+frame1103.jpg,1,"name:rect,x: 143 ,y: 40,width: 107, height: 198"
+frame1104.jpg,1,"name:rect,x: 143 ,y: 40,width: 107, height: 198"
+frame1105.jpg,1,"name:rect,x: 142 ,y: 40,width: 109, height: 198"
+frame1106.jpg,1,"name:rect,x: 141 ,y: 39,width: 106, height: 199"
+frame1107.jpg,1,"name:rect,x: 143 ,y: 40,width: 106, height: 198"
+frame1108.jpg,1,"name:rect,x: 142 ,y: 40,width: 105, height: 198"
+frame1109.jpg,1,"name:rect,x: 142 ,y: 40,width: 107, height: 199"
+frame1110.jpg,1,"name:rect,x: 143 ,y: 39,width: 106, height: 199"
+frame1111.jpg,1,"name:rect,x: 143 ,y: 39,width: 106, height: 198"
+frame1112.jpg,1,"name:rect,x: 142 ,y: 40,width: 107, height: 198"
+frame1113.jpg,1,"name:rect,x: 142 ,y: 40,width: 107, height: 198"
+frame1114.jpg,1,"name:rect,x: 142 ,y: 40,width: 108, height: 199"
+frame1115.jpg,1,"name:rect,x: 141 ,y: 41,width: 109, height: 197"
+frame1116.jpg,1,"name:rect,x: 141 ,y: 42,width: 112, height: 196"
+frame1117.jpg,1,"name:rect,x: 142 ,y: 42,width: 111, height: 196"
+frame1118.jpg,1,"name:rect,x: 142 ,y: 42,width: 110, height: 196"
+frame1119.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1120.jpg,1,"name:rect,x: 143 ,y: 42,width: 110, height: 196"
+frame1121.jpg,1,"name:rect,x: 143 ,y: 42,width: 111, height: 196"
+frame1122.jpg,1,"name:rect,x: 142 ,y: 42,width: 110, height: 195"
+frame1123.jpg,1,"name:rect,x: 143 ,y: 42,width: 109, height: 195"
+frame1124.jpg,1,"name:rect,x: 143 ,y: 42,width: 110, height: 195"
+frame1125.jpg,1,"name:rect,x: 142 ,y: 42,width: 111, height: 195"
+frame1126.jpg,1,"name:rect,x: 142 ,y: 42,width: 110, height: 196"
+frame1127.jpg,1,"name:rect,x: 143 ,y: 42,width: 108, height: 195"
+frame1128.jpg,1,"name:rect,x: 143 ,y: 42,width: 109, height: 195"
+frame1129.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1130.jpg,1,"name:rect,x: 143 ,y: 41,width: 109, height: 196"
+frame1131.jpg,1,"name:rect,x: 143 ,y: 42,width: 109, height: 196"
+frame1132.jpg,1,"name:rect,x: 142 ,y: 42,width: 109, height: 196"
+frame1133.jpg,1,"name:rect,x: 142 ,y: 42,width: 110, height: 195"
+frame1134.jpg,1,"name:rect,x: 143 ,y: 41,width: 110, height: 197"
+frame1135.jpg,1,"name:rect,x: 143 ,y: 41,width: 109, height: 197"
+frame1136.jpg,1,"name:rect,x: 143 ,y: 42,width: 111, height: 196"
+frame1137.jpg,1,"name:rect,x: 143 ,y: 42,width: 110, height: 196"
+frame1138.jpg,1,"name:rect,x: 142 ,y: 42,width: 110, height: 196"
+frame1139.jpg,1,"name:rect,x: 142 ,y: 42,width: 111, height: 196"
+frame1140.jpg,1,"name:rect,x: 143 ,y: 41,width: 110, height: 197"
+frame1141.jpg,1,"name:rect,x: 142 ,y: 42,width: 111, height: 196"
+frame1142.jpg,1,"name:rect,x: 142 ,y: 42,width: 111, height: 196"
+frame1143.jpg,1,"name:rect,x: 142 ,y: 42,width: 112, height: 196"
+frame1144.jpg,1,"name:rect,x: 142 ,y: 42,width: 111, height: 196"
+frame1145.jpg,1,"name:rect,x: 142 ,y: 42,width: 112, height: 196"
+frame1146.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 196"
+frame1147.jpg,1,"name:rect,x: 143 ,y: 41,width: 110, height: 197"
+frame1148.jpg,1,"name:rect,x: 143 ,y: 41,width: 110, height: 196"
+frame1149.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1150.jpg,1,"name:rect,x: 143 ,y: 41,width: 110, height: 197"
+frame1151.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1152.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1153.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 198"
+frame1154.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1155.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1156.jpg,1,"name:rect,x: 143 ,y: 41,width: 110, height: 198"
+frame1157.jpg,1,"name:rect,x: 141 ,y: 41,width: 112, height: 197"
+frame1158.jpg,1,"name:rect,x: 142 ,y: 42,width: 111, height: 196"
+frame1159.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1160.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1161.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1162.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1163.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1164.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1165.jpg,1,"name:rect,x: 143 ,y: 41,width: 110, height: 197"
+frame1166.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1167.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1168.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1169.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1170.jpg,1,"name:rect,x: 142 ,y: 40,width: 112, height: 198"
+frame1171.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 199"
+frame1172.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 199"
+frame1173.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1174.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 198"
+frame1175.jpg,1,"name:rect,x: 141 ,y: 40,width: 113, height: 198"
+frame1176.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1177.jpg,1,"name:rect,x: 142 ,y: 40,width: 112, height: 198"
+frame1178.jpg,1,"name:rect,x: 142 ,y: 40,width: 113, height: 198"
+frame1179.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1180.jpg,1,"name:rect,x: 141 ,y: 41,width: 114, height: 197"
+frame1181.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1182.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1183.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 198"
+frame1184.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 199"
+frame1185.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1186.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1187.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1188.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1189.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1190.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 198"
+frame1191.jpg,1,"name:rect,x: 143 ,y: 41,width: 110, height: 197"
+frame1192.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 198"
+frame1193.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 198"
+frame1194.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 198"
+frame1195.jpg,1,"name:rect,x: 143 ,y: 40,width: 111, height: 198"
+frame1196.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 199"
+frame1197.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1198.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 198"
+frame1199.jpg,1,"name:rect,x: 142 ,y: 40,width: 112, height: 198"
+frame1200.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 198"
+frame1201.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1202.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 198"
+frame1203.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1204.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 199"
+frame1205.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1206.jpg,1,"name:rect,x: 142 ,y: 40,width: 112, height: 198"
+frame1207.jpg,1,"name:rect,x: 142 ,y: 40,width: 112, height: 198"
+frame1208.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1209.jpg,1,"name:rect,x: 141 ,y: 40,width: 112, height: 199"
+frame1210.jpg,1,"name:rect,x: 141 ,y: 40,width: 112, height: 198"
+frame1211.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1212.jpg,1,"name:rect,x: 141 ,y: 40,width: 111, height: 198"
+frame1213.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1214.jpg,1,"name:rect,x: 142 ,y: 41,width: 112, height: 197"
+frame1215.jpg,1,"name:rect,x: 142 ,y: 40,width: 112, height: 198"
+frame1216.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1217.jpg,1,"name:rect,x: 140 ,y: 40,width: 115, height: 198"
+frame1218.jpg,1,"name:rect,x: 142 ,y: 40,width: 111, height: 198"
+frame1219.jpg,1,"name:rect,x: 141 ,y: 40,width: 111, height: 198"
+frame1220.jpg,1,"name:rect,x: 141 ,y: 40,width: 113, height: 198"
+frame1221.jpg,1,"name:rect,x: 141 ,y: 41,width: 112, height: 197"
+frame1222.jpg,1,"name:rect,x: 141 ,y: 40,width: 112, height: 198"
+frame1223.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 198"
+frame1224.jpg,1,"name:rect,x: 141 ,y: 40,width: 112, height: 199"
+frame1225.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 197"
+frame1226.jpg,1,"name:rect,x: 142 ,y: 41,width: 111, height: 198"
+frame1227.jpg,1,"name:rect,x: 141 ,y: 40,width: 112, height: 199"
+frame1228.jpg,1,"name:rect,x: 141 ,y: 40,width: 111, height: 198"
+frame1229.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 199"
+frame1230.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 199"
+frame1231.jpg,1,"name:rect,x: 141 ,y: 42,width: 110, height: 194"
+frame1232.jpg,1,"name:rect,x: 141 ,y: 40,width: 111, height: 199"
+frame1233.jpg,1,"name:rect,x: 141 ,y: 41,width: 111, height: 196"
+frame1234.jpg,1,"name:rect,x: 141 ,y: 41,width: 110, height: 196"
+frame1235.jpg,1,"name:rect,x: 142 ,y: 41,width: 110, height: 197"
+frame1236.jpg,1,"name:rect,x: 142 ,y: 41,width: 110, height: 198"
+frame1237.jpg,1,"name:rect,x: 142 ,y: 42,width: 110, height: 194"
+frame1238.jpg,1,"name:rect,x: 141 ,y: 41,width: 111, height: 195"
+frame1239.jpg,1,"name:rect,x: 142 ,y: 41,width: 110, height: 198"
+frame1240.jpg,1,"name:rect,x: 142 ,y: 41,width: 110, height: 198"
+frame1241.jpg,1,"name:rect,x: 142 ,y: 41,width: 109, height: 198"
+frame1242.jpg,1,"name:rect,x: 141 ,y: 42,width: 110, height: 194"
+frame1243.jpg,1,"name:rect,x: 141 ,y: 41,width: 111, height: 195"
+frame1244.jpg,1,"name:rect,x: 141 ,y: 42,width: 110, height: 194"
+frame1245.jpg,1,"name:rect,x: 140 ,y: 42,width: 112, height: 194"
+frame1246.jpg,1,"name:rect,x: 141 ,y: 41,width: 111, height: 198"
+frame1247.jpg,1,"name:rect,x: 139 ,y: 41,width: 112, height: 195"
+frame1248.jpg,1,"name:rect,x: 141 ,y: 40,width: 110, height: 199"
+frame1249.jpg,1,"name:rect,x: 142 ,y: 40,width: 110, height: 198"
+frame1250.jpg,1,"name:rect,x: 141 ,y: 40,width: 110, height: 195"
+frame1251.jpg,1,"name:rect,x: 142 ,y: 41,width: 109, height: 196"
+frame1252.jpg,1,"name:rect,x: 142 ,y: 41,width: 109, height: 196"
+frame1253.jpg,1,"name:rect,x: 144 ,y: 40,width: 108, height: 197"
+frame1254.jpg,1,"name:rect,x: 144 ,y: 41,width: 107, height: 197"
+frame1255.jpg,1,"name:rect,x: 143 ,y: 41,width: 108, height: 194"
+frame1256.jpg,1,"name:rect,x: 144 ,y: 40,width: 110, height: 198"
+frame1257.jpg,1,"name:rect,x: 144 ,y: 40,width: 111, height: 197"
+frame1258.jpg,1,"name:rect,x: 145 ,y: 40,width: 109, height: 195"
+frame1259.jpg,2,"name:rect,x: 145 ,y: 41,width: 111, height: 198"
+frame1259.jpg,2,"name:rect,x: 142 ,y: 41,width: 116, height: 71"
+frame1260.jpg,1,"name:rect,x: 145 ,y: 41,width: 111, height: 197"
+frame1261.jpg,1,"name:rect,x: 145 ,y: 41,width: 112, height: 196"
+frame1262.jpg,1,"name:rect,x: 144 ,y: 41,width: 112, height: 195"
+frame1263.jpg,2,"name:rect,x: 142 ,y: 40,width: 113, height: 197"
+frame1263.jpg,2,"name:rect,x: 143 ,y: 41,width: 115, height: 68"
+frame1264.jpg,2,"name:rect,x: 143 ,y: 39,width: 113, height: 198"
+frame1264.jpg,2,"name:rect,x: 143 ,y: 40,width: 114, height: 69"
+frame1265.jpg,1,"name:rect,x: 143 ,y: 39,width: 109, height: 199"
+frame1266.jpg,1,"name:rect,x: 143 ,y: 39,width: 111, height: 198"
+frame1267.jpg,1,"name:rect,x: 143 ,y: 39,width: 110, height: 198"
+frame1268.jpg,1,"name:rect,x: 143 ,y: 37,width: 107, height: 200"
+frame1269.jpg,1,"name:rect,x: 142 ,y: 38,width: 109, height: 202"
+frame1270.jpg,2,"name:rect,x: 143 ,y: 39,width: 106, height: 197"
+frame1270.jpg,2,"name:rect,x: 141 ,y: 39,width: 115, height: 76"
+frame1271.jpg,1,"name:rect,x: 141 ,y: 38,width: 108, height: 198"
+frame1272.jpg,1,"name:rect,x: 141 ,y: 39,width: 106, height: 198"
+frame1273.jpg,1,"name:rect,x: 141 ,y: 38,width: 106, height: 199"
+frame1274.jpg,1,"name:rect,x: 139 ,y: 39,width: 109, height: 198"
+frame1275.jpg,1,"name:rect,x: 138 ,y: 36,width: 105, height: 201"
+frame1276.jpg,1,"name:rect,x: 137 ,y: 35,width: 105, height: 202"
+frame1277.jpg,1,"name:rect,x: 136 ,y: 35,width: 105, height: 203"
+frame1278.jpg,1,"name:rect,x: 134 ,y: 36,width: 104, height: 201"
+frame1279.jpg,1,"name:rect,x: 132 ,y: 36,width: 105, height: 200"
+frame1280.jpg,1,"name:rect,x: 130 ,y: 31,width: 100, height: 207"
+frame1281.jpg,1,"name:rect,x: 128 ,y: 34,width: 100, height: 204"
+frame1282.jpg,1,"name:rect,x: 124 ,y: 36,width: 103, height: 200"
+frame1283.jpg,1,"name:rect,x: 125 ,y: 36,width: 100, height: 199"
+frame1284.jpg,1,"name:rect,x: 125 ,y: 35,width: 99, height: 200"
+frame1285.jpg,1,"name:rect,x: 121 ,y: 34,width: 98, height: 201"
+frame1286.jpg,1,"name:rect,x: 119 ,y: 34,width: 98, height: 201"
+frame1287.jpg,1,"name:rect,x: 118 ,y: 35,width: 99, height: 199"
+frame1288.jpg,1,"name:rect,x: 117 ,y: 35,width: 96, height: 197"
+frame1289.jpg,1,"name:rect,x: 116 ,y: 36,width: 97, height: 198"
+frame1290.jpg,1,"name:rect,x: 113 ,y: 37,width: 105, height: 197"
+frame1291.jpg,2,"name:rect,x: 113 ,y: 38,width: 106, height: 198"
+frame1291.jpg,2,"name:rect,x: 114 ,y: 39,width: 92, height: 99"
+frame1292.jpg,1,"name:rect,x: 114 ,y: 39,width: 102, height: 198"
+frame1293.jpg,1,"name:rect,x: 112 ,y: 38,width: 102, height: 199"
+frame1294.jpg,1,"name:rect,x: 112 ,y: 39,width: 104, height: 198"
+frame1295.jpg,1,"name:rect,x: 111 ,y: 38,width: 106, height: 201"
+frame1296.jpg,2,"name:rect,x: 110 ,y: 39,width: 111, height: 199"
+frame1296.jpg,2,"name:rect,x: 111 ,y: 37,width: 87, height: 94"
+frame1297.jpg,1,"name:rect,x: 111 ,y: 37,width: 103, height: 202"
+frame1298.jpg,1,"name:rect,x: 112 ,y: 37,width: 97, height: 201"
+frame1299.jpg,1,"name:rect,x: 112 ,y: 37,width: 101, height: 200"
+frame1300.jpg,1,"name:rect,x: 113 ,y: 39,width: 98, height: 194"
+frame1301.jpg,1,"name:rect,x: 111 ,y: 38,width: 100, height: 198"
+frame1302.jpg,1,"name:rect,x: 109 ,y: 36,width: 88, height: 174"
+frame1303.jpg,1,"name:rect,x: 108 ,y: 36,width: 88, height: 173"
+frame1304.jpg,1,"name:rect,x: 107 ,y: 35,width: 90, height: 179"
+frame1305.jpg,1,"name:rect,x: 108 ,y: 35,width: 89, height: 179"
+frame1306.jpg,1,"name:rect,x: 109 ,y: 36,width: 90, height: 179"
+frame1307.jpg,1,"name:rect,x: 110 ,y: 37,width: 89, height: 179"
+frame1308.jpg,1,"name:rect,x: 110 ,y: 38,width: 88, height: 174"
+frame1309.jpg,1,"name:rect,x: 114 ,y: 37,width: 88, height: 179"
+frame1310.jpg,1,"name:rect,x: 114 ,y: 38,width: 89, height: 174"
+frame1311.jpg,1,"name:rect,x: 116 ,y: 38,width: 93, height: 196"
+frame1312.jpg,1,"name:rect,x: 113 ,y: 39,width: 91, height: 176"
+frame1313.jpg,1,"name:rect,x: 115 ,y: 40,width: 87, height: 168"
+frame1314.jpg,1,"name:rect,x: 115 ,y: 39,width: 89, height: 172"
+frame1315.jpg,1,"name:rect,x: 115 ,y: 39,width: 87, height: 171"
+frame1316.jpg,1,"name:rect,x: 114 ,y: 40,width: 88, height: 165"
+frame1317.jpg,1,"name:rect,x: 116 ,y: 39,width: 92, height: 192"
+frame1318.jpg,1,"name:rect,x: 117 ,y: 37,width: 88, height: 195"
+frame1319.jpg,1,"name:rect,x: 112 ,y: 37,width: 89, height: 176"
+frame1320.jpg,1,"name:rect,x: 112 ,y: 37,width: 88, height: 175"
+frame1321.jpg,1,"name:rect,x: 112 ,y: 38,width: 89, height: 174"
+frame1322.jpg,1,"name:rect,x: 112 ,y: 38,width: 91, height: 175"
+frame1323.jpg,1,"name:rect,x: 113 ,y: 38,width: 90, height: 176"
+frame1324.jpg,1,"name:rect,x: 112 ,y: 38,width: 91, height: 174"
+frame1325.jpg,1,"name:rect,x: 114 ,y: 38,width: 92, height: 197"
+frame1326.jpg,1,"name:rect,x: 111 ,y: 38,width: 93, height: 176"
+frame1327.jpg,1,"name:rect,x: 110 ,y: 38,width: 94, height: 176"
+frame1328.jpg,1,"name:rect,x: 111 ,y: 38,width: 94, height: 177"
+frame1329.jpg,1,"name:rect,x: 110 ,y: 38,width: 92, height: 174"
+frame1330.jpg,1,"name:rect,x: 110 ,y: 38,width: 91, height: 177"
+frame1331.jpg,1,"name:rect,x: 111 ,y: 39,width: 92, height: 175"
+frame1332.jpg,1,"name:rect,x: 113 ,y: 37,width: 95, height: 201"
+frame1333.jpg,1,"name:rect,x: 111 ,y: 39,width: 92, height: 174"
+frame1334.jpg,1,"name:rect,x: 114 ,y: 37,width: 96, height: 201"
+frame1335.jpg,1,"name:rect,x: 113 ,y: 38,width: 96, height: 198"
+frame1336.jpg,1,"name:rect,x: 115 ,y: 38,width: 91, height: 197"
+frame1337.jpg,1,"name:rect,x: 113 ,y: 38,width: 95, height: 197"
+frame1338.jpg,1,"name:rect,x: 115 ,y: 38,width: 92, height: 196"
+frame1339.jpg,1,"name:rect,x: 114 ,y: 38,width: 95, height: 198"
+frame1340.jpg,1,"name:rect,x: 114 ,y: 37,width: 96, height: 198"
+frame1341.jpg,1,"name:rect,x: 113 ,y: 37,width: 99, height: 200"
+frame1342.jpg,1,"name:rect,x: 114 ,y: 37,width: 97, height: 201"
+frame1343.jpg,1,"name:rect,x: 114 ,y: 38,width: 97, height: 200"
+frame1344.jpg,1,"name:rect,x: 114 ,y: 37,width: 97, height: 200"
+frame1345.jpg,1,"name:rect,x: 115 ,y: 38,width: 94, height: 199"
+frame1346.jpg,1,"name:rect,x: 114 ,y: 37,width: 98, height: 200"
+frame1347.jpg,1,"name:rect,x: 114 ,y: 37,width: 96, height: 202"
+frame1348.jpg,1,"name:rect,x: 114 ,y: 38,width: 96, height: 198"
+frame1349.jpg,1,"name:rect,x: 113 ,y: 39,width: 91, height: 174"
+frame1350.jpg,1,"name:rect,x: 112 ,y: 38,width: 92, height: 177"
+frame1351.jpg,1,"name:rect,x: 115 ,y: 37,width: 93, height: 200"
+frame1352.jpg,1,"name:rect,x: 112 ,y: 39,width: 91, height: 175"
+frame1353.jpg,1,"name:rect,x: 112 ,y: 38,width: 89, height: 175"
+frame1354.jpg,1,"name:rect,x: 114 ,y: 37,width: 94, height: 202"
+frame1355.jpg,1,"name:rect,x: 115 ,y: 37,width: 93, height: 202"
+frame1356.jpg,1,"name:rect,x: 115 ,y: 38,width: 92, height: 200"
+frame1357.jpg,1,"name:rect,x: 112 ,y: 37,width: 90, height: 184"
+frame1358.jpg,1,"name:rect,x: 112 ,y: 38,width: 89, height: 176"
+frame1359.jpg,1,"name:rect,x: 112 ,y: 38,width: 88, height: 180"
+frame1360.jpg,1,"name:rect,x: 112 ,y: 38,width: 88, height: 180"
+frame1361.jpg,1,"name:rect,x: 117 ,y: 37,width: 89, height: 199"
+frame1362.jpg,1,"name:rect,x: 113 ,y: 38,width: 88, height: 182"
+frame1363.jpg,1,"name:rect,x: 113 ,y: 38,width: 87, height: 182"
+frame1364.jpg,1,"name:rect,x: 116 ,y: 37,width: 91, height: 200"
+frame1365.jpg,1,"name:rect,x: 116 ,y: 37,width: 93, height: 200"
+frame1366.jpg,1,"name:rect,x: 116 ,y: 37,width: 89, height: 200"
+frame1367.jpg,1,"name:rect,x: 116 ,y: 37,width: 91, height: 202"
+frame1368.jpg,1,"name:rect,x: 116 ,y: 37,width: 90, height: 200"
+frame1369.jpg,1,"name:rect,x: 116 ,y: 37,width: 94, height: 201"
+frame1370.jpg,1,"name:rect,x: 115 ,y: 37,width: 95, height: 202"
+frame1371.jpg,1,"name:rect,x: 117 ,y: 37,width: 91, height: 198"
+frame1372.jpg,1,"name:rect,x: 117 ,y: 37,width: 92, height: 199"
+frame1373.jpg,1,"name:rect,x: 116 ,y: 37,width: 93, height: 202"
+frame1374.jpg,1,"name:rect,x: 116 ,y: 37,width: 93, height: 199"
+frame1375.jpg,1,"name:rect,x: 116 ,y: 37,width: 93, height: 202"
+frame1376.jpg,1,"name:rect,x: 117 ,y: 37,width: 90, height: 200"
+frame1377.jpg,1,"name:rect,x: 116 ,y: 37,width: 95, height: 201"
+frame1378.jpg,1,"name:rect,x: 116 ,y: 37,width: 92, height: 200"
+frame1379.jpg,1,"name:rect,x: 116 ,y: 36,width: 93, height: 202"
+frame1380.jpg,1,"name:rect,x: 116 ,y: 37,width: 95, height: 201"
+frame1381.jpg,1,"name:rect,x: 116 ,y: 36,width: 93, height: 201"
+frame1382.jpg,1,"name:rect,x: 117 ,y: 36,width: 88, height: 200"
+frame1383.jpg,1,"name:rect,x: 116 ,y: 37,width: 95, height: 201"
+frame1384.jpg,1,"name:rect,x: 117 ,y: 37,width: 91, height: 198"
+frame1385.jpg,1,"name:rect,x: 116 ,y: 36,width: 93, height: 201"
+frame1386.jpg,1,"name:rect,x: 114 ,y: 38,width: 88, height: 177"
+frame1387.jpg,1,"name:rect,x: 117 ,y: 36,width: 91, height: 202"
+frame1388.jpg,1,"name:rect,x: 117 ,y: 37,width: 89, height: 196"
+frame1389.jpg,1,"name:rect,x: 116 ,y: 37,width: 95, height: 202"
+frame1390.jpg,1,"name:rect,x: 117 ,y: 37,width: 91, height: 200"
+frame1391.jpg,1,"name:rect,x: 116 ,y: 36,width: 93, height: 201"
+frame1392.jpg,1,"name:rect,x: 116 ,y: 37,width: 90, height: 199"
+frame1393.jpg,1,"name:rect,x: 116 ,y: 37,width: 93, height: 201"
+frame1394.jpg,1,"name:rect,x: 116 ,y: 37,width: 92, height: 199"
+frame1395.jpg,1,"name:rect,x: 117 ,y: 36,width: 91, height: 202"
+frame1396.jpg,1,"name:rect,x: 116 ,y: 36,width: 94, height: 203"
+frame1397.jpg,1,"name:rect,x: 116 ,y: 37,width: 93, height: 200"
+frame1398.jpg,1,"name:rect,x: 117 ,y: 37,width: 90, height: 200"
+frame1399.jpg,1,"name:rect,x: 117 ,y: 37,width: 91, height: 200"
+frame1400.jpg,1,"name:rect,x: 114 ,y: 38,width: 89, height: 175"
+frame1401.jpg,1,"name:rect,x: 113 ,y: 37,width: 89, height: 181"
+frame1402.jpg,1,"name:rect,x: 117 ,y: 37,width: 90, height: 200"
+frame1403.jpg,1,"name:rect,x: 114 ,y: 37,width: 87, height: 184"
+frame1404.jpg,1,"name:rect,x: 113 ,y: 37,width: 88, height: 183"
+frame1405.jpg,1,"name:rect,x: 117 ,y: 36,width: 90, height: 203"
+frame1406.jpg,1,"name:rect,x: 117 ,y: 36,width: 91, height: 202"
+frame1407.jpg,1,"name:rect,x: 117 ,y: 36,width: 91, height: 202"
+frame1408.jpg,1,"name:rect,x: 117 ,y: 36,width: 89, height: 204"
+frame1409.jpg,1,"name:rect,x: 117 ,y: 37,width: 89, height: 201"
+frame1410.jpg,1,"name:rect,x: 113 ,y: 37,width: 88, height: 180"
+frame1411.jpg,1,"name:rect,x: 113 ,y: 37,width: 88, height: 180"
+frame1412.jpg,1,"name:rect,x: 113 ,y: 37,width: 88, height: 181"
+frame1413.jpg,1,"name:rect,x: 113 ,y: 37,width: 88, height: 183"
+frame1414.jpg,1,"name:rect,x: 113 ,y: 37,width: 87, height: 182"
+frame1415.jpg,1,"name:rect,x: 114 ,y: 37,width: 86, height: 179"
+frame1416.jpg,1,"name:rect,x: 116 ,y: 37,width: 93, height: 200"
+frame1417.jpg,1,"name:rect,x: 116 ,y: 37,width: 92, height: 200"
+frame1418.jpg,1,"name:rect,x: 115 ,y: 37,width: 91, height: 199"
+frame1419.jpg,1,"name:rect,x: 116 ,y: 37,width: 91, height: 199"
+frame1420.jpg,1,"name:rect,x: 116 ,y: 37,width: 91, height: 198"
+frame1421.jpg,1,"name:rect,x: 115 ,y: 37,width: 94, height: 201"
+frame1422.jpg,1,"name:rect,x: 115 ,y: 37,width: 95, height: 201"
+frame1423.jpg,1,"name:rect,x: 115 ,y: 37,width: 97, height: 201"
+frame1424.jpg,1,"name:rect,x: 114 ,y: 38,width: 95, height: 199"
+frame1425.jpg,1,"name:rect,x: 116 ,y: 35,width: 86, height: 196"
+frame1426.jpg,1,"name:rect,x: 116 ,y: 36,width: 90, height: 198"
+frame1427.jpg,1,"name:rect,x: 114 ,y: 35,width: 92, height: 199"
+frame1428.jpg,1,"name:rect,x: 116 ,y: 34,width: 90, height: 200"
+frame1429.jpg,1,"name:rect,x: 114 ,y: 34,width: 96, height: 202"
+frame1430.jpg,1,"name:rect,x: 113 ,y: 34,width: 99, height: 202"
+frame1431.jpg,1,"name:rect,x: 113 ,y: 36,width: 99, height: 198"
+frame1432.jpg,1,"name:rect,x: 113 ,y: 34,width: 100, height: 201"
+frame1433.jpg,1,"name:rect,x: 113 ,y: 34,width: 100, height: 202"
+frame1434.jpg,1,"name:rect,x: 113 ,y: 34,width: 100, height: 201"
+frame1435.jpg,1,"name:rect,x: 115 ,y: 34,width: 99, height: 202"
+frame1436.jpg,1,"name:rect,x: 115 ,y: 34,width: 100, height: 202"
+frame1437.jpg,1,"name:rect,x: 117 ,y: 34,width: 100, height: 203"
+frame1438.jpg,1,"name:rect,x: 118 ,y: 34,width: 103, height: 203"
+frame1439.jpg,1,"name:rect,x: 118 ,y: 35,width: 107, height: 202"
+frame1440.jpg,1,"name:rect,x: 119 ,y: 35,width: 105, height: 201"
+frame1441.jpg,1,"name:rect,x: 122 ,y: 37,width: 101, height: 198"
+frame1442.jpg,1,"name:rect,x: 123 ,y: 37,width: 105, height: 199"
+frame1443.jpg,1,"name:rect,x: 124 ,y: 36,width: 103, height: 201"
+frame1444.jpg,1,"name:rect,x: 125 ,y: 36,width: 104, height: 200"
+frame1445.jpg,1,"name:rect,x: 130 ,y: 36,width: 100, height: 200"
+frame1446.jpg,1,"name:rect,x: 130 ,y: 36,width: 109, height: 202"
+frame1447.jpg,1,"name:rect,x: 134 ,y: 35,width: 109, height: 204"
+frame1448.jpg,1,"name:rect,x: 138 ,y: 35,width: 105, height: 204"
+frame1449.jpg,1,"name:rect,x: 137 ,y: 35,width: 106, height: 203"
+frame1450.jpg,1,"name:rect,x: 139 ,y: 34,width: 107, height: 203"
+frame1451.jpg,1,"name:rect,x: 139 ,y: 36,width: 107, height: 201"
+frame1452.jpg,1,"name:rect,x: 140 ,y: 37,width: 107, height: 201"
+frame1453.jpg,1,"name:rect,x: 140 ,y: 38,width: 109, height: 198"
+frame1454.jpg,1,"name:rect,x: 142 ,y: 39,width: 108, height: 197"
+frame1455.jpg,1,"name:rect,x: 142 ,y: 37,width: 108, height: 201"
+frame1456.jpg,1,"name:rect,x: 142 ,y: 37,width: 110, height: 199"
+frame1457.jpg,1,"name:rect,x: 143 ,y: 36,width: 112, height: 204"
+frame1458.jpg,1,"name:rect,x: 144 ,y: 37,width: 109, height: 199"
+frame1459.jpg,1,"name:rect,x: 144 ,y: 36,width: 112, height: 203"
+frame1460.jpg,1,"name:rect,x: 144 ,y: 35,width: 114, height: 204"
+frame1461.jpg,1,"name:rect,x: 145 ,y: 37,width: 112, height: 202"
+frame1462.jpg,1,"name:rect,x: 147 ,y: 37,width: 110, height: 202"
+frame1463.jpg,1,"name:rect,x: 148 ,y: 37,width: 110, height: 201"
+frame1464.jpg,1,"name:rect,x: 149 ,y: 37,width: 108, height: 201"
+frame1465.jpg,1,"name:rect,x: 150 ,y: 37,width: 107, height: 202"
+frame1466.jpg,1,"name:rect,x: 151 ,y: 38,width: 106, height: 200"
+frame1467.jpg,1,"name:rect,x: 150 ,y: 38,width: 106, height: 200"
+frame1468.jpg,1,"name:rect,x: 150 ,y: 38,width: 108, height: 198"
+frame1469.jpg,1,"name:rect,x: 149 ,y: 39,width: 111, height: 199"
+frame1470.jpg,1,"name:rect,x: 148 ,y: 39,width: 109, height: 199"
+frame1471.jpg,1,"name:rect,x: 148 ,y: 39,width: 109, height: 199"
+frame1472.jpg,1,"name:rect,x: 145 ,y: 38,width: 113, height: 201"
+frame1473.jpg,1,"name:rect,x: 146 ,y: 38,width: 113, height: 201"
+frame1474.jpg,1,"name:rect,x: 147 ,y: 38,width: 112, height: 200"
+frame1475.jpg,1,"name:rect,x: 146 ,y: 38,width: 113, height: 200"
+frame1476.jpg,1,"name:rect,x: 146 ,y: 38,width: 113, height: 200"
+frame1477.jpg,1,"name:rect,x: 144 ,y: 38,width: 115, height: 201"
+frame1478.jpg,1,"name:rect,x: 146 ,y: 38,width: 113, height: 200"
+frame1479.jpg,1,"name:rect,x: 146 ,y: 39,width: 113, height: 200"
+frame1480.jpg,1,"name:rect,x: 145 ,y: 40,width: 115, height: 198"
+frame1481.jpg,1,"name:rect,x: 146 ,y: 39,width: 113, height: 199"
+frame1482.jpg,1,"name:rect,x: 146 ,y: 40,width: 117, height: 198"
+frame1483.jpg,1,"name:rect,x: 145 ,y: 39,width: 115, height: 199"
+frame1484.jpg,1,"name:rect,x: 145 ,y: 40,width: 115, height: 198"
+frame1485.jpg,1,"name:rect,x: 144 ,y: 40,width: 116, height: 199"
+frame1486.jpg,1,"name:rect,x: 146 ,y: 40,width: 113, height: 198"
+frame1487.jpg,1,"name:rect,x: 145 ,y: 40,width: 115, height: 198"
+frame1488.jpg,1,"name:rect,x: 146 ,y: 40,width: 114, height: 197"
+frame1489.jpg,1,"name:rect,x: 148 ,y: 40,width: 115, height: 198"
+frame1490.jpg,1,"name:rect,x: 147 ,y: 40,width: 115, height: 198"
+frame1491.jpg,1,"name:rect,x: 146 ,y: 40,width: 114, height: 198"
+frame1492.jpg,1,"name:rect,x: 146 ,y: 40,width: 115, height: 198"
+frame1493.jpg,1,"name:rect,x: 146 ,y: 40,width: 114, height: 198"
+frame1494.jpg,1,"name:rect,x: 144 ,y: 40,width: 117, height: 198"
+frame1495.jpg,1,"name:rect,x: 147 ,y: 40,width: 117, height: 198"
+frame1496.jpg,1,"name:rect,x: 147 ,y: 39,width: 117, height: 199"
+frame1497.jpg,1,"name:rect,x: 147 ,y: 39,width: 116, height: 199"
+frame1498.jpg,1,"name:rect,x: 148 ,y: 39,width: 116, height: 199"
+frame1499.jpg,1,"name:rect,x: 147 ,y: 39,width: 117, height: 199"
+frame1500.jpg,1,"name:rect,x: 146 ,y: 39,width: 118, height: 199"
+frame1501.jpg,1,"name:rect,x: 147 ,y: 39,width: 116, height: 199"
+frame1502.jpg,1,"name:rect,x: 146 ,y: 38,width: 117, height: 200"
+frame1503.jpg,1,"name:rect,x: 146 ,y: 39,width: 117, height: 199"
+frame1504.jpg,1,"name:rect,x: 147 ,y: 38,width: 118, height: 200"
+frame1505.jpg,1,"name:rect,x: 146 ,y: 39,width: 118, height: 198"
+frame1506.jpg,1,"name:rect,x: 147 ,y: 39,width: 118, height: 199"
+frame1507.jpg,1,"name:rect,x: 147 ,y: 39,width: 117, height: 199"
+frame1508.jpg,1,"name:rect,x: 148 ,y: 37,width: 116, height: 201"
+frame1509.jpg,1,"name:rect,x: 147 ,y: 38,width: 117, height: 200"
+frame1510.jpg,1,"name:rect,x: 149 ,y: 38,width: 115, height: 200"
+frame1511.jpg,1,"name:rect,x: 149 ,y: 38,width: 115, height: 200"
+frame1512.jpg,1,"name:rect,x: 147 ,y: 39,width: 117, height: 199"
+frame1513.jpg,1,"name:rect,x: 148 ,y: 37,width: 116, height: 201"
+frame1514.jpg,1,"name:rect,x: 148 ,y: 37,width: 115, height: 201"
+frame1515.jpg,1,"name:rect,x: 147 ,y: 37,width: 117, height: 201"
+frame1516.jpg,1,"name:rect,x: 149 ,y: 38,width: 115, height: 200"
+frame1517.jpg,1,"name:rect,x: 148 ,y: 38,width: 116, height: 200"
+frame1518.jpg,1,"name:rect,x: 148 ,y: 38,width: 117, height: 200"
+frame1519.jpg,1,"name:rect,x: 148 ,y: 38,width: 116, height: 200"
+frame1520.jpg,1,"name:rect,x: 148 ,y: 38,width: 117, height: 200"
+frame1521.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 200"
+frame1522.jpg,1,"name:rect,x: 144 ,y: 39,width: 117, height: 199"
+frame1523.jpg,1,"name:rect,x: 147 ,y: 38,width: 117, height: 200"
+frame1524.jpg,1,"name:rect,x: 148 ,y: 37,width: 115, height: 201"
+frame1525.jpg,1,"name:rect,x: 150 ,y: 38,width: 113, height: 200"
+frame1526.jpg,1,"name:rect,x: 149 ,y: 38,width: 114, height: 200"
+frame1527.jpg,1,"name:rect,x: 149 ,y: 38,width: 114, height: 200"
+frame1528.jpg,1,"name:rect,x: 149 ,y: 37,width: 114, height: 201"
+frame1529.jpg,1,"name:rect,x: 149 ,y: 36,width: 114, height: 202"
+frame1530.jpg,1,"name:rect,x: 149 ,y: 37,width: 114, height: 201"
+frame1531.jpg,1,"name:rect,x: 149 ,y: 37,width: 115, height: 201"
+frame1532.jpg,1,"name:rect,x: 149 ,y: 38,width: 116, height: 200"
+frame1533.jpg,1,"name:rect,x: 148 ,y: 37,width: 116, height: 201"
+frame1534.jpg,1,"name:rect,x: 149 ,y: 39,width: 114, height: 199"
+frame1535.jpg,1,"name:rect,x: 149 ,y: 38,width: 114, height: 200"
+frame1536.jpg,1,"name:rect,x: 149 ,y: 38,width: 115, height: 200"
+frame1537.jpg,1,"name:rect,x: 149 ,y: 37,width: 114, height: 201"
+frame1538.jpg,1,"name:rect,x: 145 ,y: 39,width: 115, height: 199"
+frame1539.jpg,1,"name:rect,x: 147 ,y: 36,width: 115, height: 202"
+frame1540.jpg,1,"name:rect,x: 149 ,y: 37,width: 115, height: 201"
+frame1541.jpg,1,"name:rect,x: 146 ,y: 39,width: 115, height: 199"
+frame1542.jpg,1,"name:rect,x: 147 ,y: 36,width: 115, height: 202"
+frame1543.jpg,1,"name:rect,x: 148 ,y: 37,width: 114, height: 201"
+frame1544.jpg,1,"name:rect,x: 149 ,y: 35,width: 113, height: 203"
+frame1545.jpg,2,"name:rect,x: 148 ,y: 36,width: 114, height: 202"
+frame1545.jpg,2,"name:rect,x: 146 ,y: 39,width: 113, height: 68"
+frame1546.jpg,2,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1546.jpg,2,"name:rect,x: 145 ,y: 40,width: 113, height: 68"
+frame1547.jpg,1,"name:rect,x: 146 ,y: 38,width: 114, height: 200"
+frame1548.jpg,2,"name:rect,x: 147 ,y: 39,width: 112, height: 200"
+frame1548.jpg,2,"name:rect,x: 146 ,y: 39,width: 112, height: 69"
+frame1549.jpg,1,"name:rect,x: 145 ,y: 38,width: 115, height: 200"
+frame1550.jpg,2,"name:rect,x: 145 ,y: 39,width: 115, height: 199"
+frame1550.jpg,2,"name:rect,x: 145 ,y: 39,width: 113, height: 69"
+frame1551.jpg,1,"name:rect,x: 146 ,y: 39,width: 113, height: 199"
+frame1552.jpg,1,"name:rect,x: 145 ,y: 38,width: 115, height: 200"
+frame1553.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 200"
+frame1554.jpg,1,"name:rect,x: 147 ,y: 37,width: 114, height: 201"
+frame1555.jpg,1,"name:rect,x: 150 ,y: 37,width: 113, height: 201"
+frame1556.jpg,1,"name:rect,x: 145 ,y: 39,width: 115, height: 200"
+frame1557.jpg,1,"name:rect,x: 146 ,y: 38,width: 114, height: 200"
+frame1558.jpg,1,"name:rect,x: 147 ,y: 37,width: 116, height: 201"
+frame1559.jpg,1,"name:rect,x: 148 ,y: 37,width: 114, height: 201"
+frame1560.jpg,1,"name:rect,x: 148 ,y: 36,width: 113, height: 202"
+frame1561.jpg,1,"name:rect,x: 144 ,y: 38,width: 117, height: 201"
+frame1562.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 200"
+frame1563.jpg,1,"name:rect,x: 149 ,y: 37,width: 114, height: 201"
+frame1564.jpg,1,"name:rect,x: 145 ,y: 38,width: 115, height: 200"
+frame1565.jpg,1,"name:rect,x: 145 ,y: 39,width: 115, height: 200"
+frame1566.jpg,1,"name:rect,x: 149 ,y: 37,width: 114, height: 201"
+frame1567.jpg,1,"name:rect,x: 146 ,y: 39,width: 115, height: 199"
+frame1568.jpg,1,"name:rect,x: 148 ,y: 37,width: 114, height: 201"
+frame1569.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1570.jpg,1,"name:rect,x: 147 ,y: 37,width: 115, height: 201"
+frame1571.jpg,1,"name:rect,x: 146 ,y: 39,width: 115, height: 199"
+frame1572.jpg,1,"name:rect,x: 149 ,y: 37,width: 113, height: 201"
+frame1573.jpg,1,"name:rect,x: 144 ,y: 39,width: 115, height: 200"
+frame1574.jpg,1,"name:rect,x: 149 ,y: 36,width: 113, height: 202"
+frame1575.jpg,1,"name:rect,x: 148 ,y: 37,width: 114, height: 201"
+frame1576.jpg,1,"name:rect,x: 149 ,y: 38,width: 114, height: 200"
+frame1577.jpg,1,"name:rect,x: 148 ,y: 37,width: 115, height: 201"
+frame1578.jpg,1,"name:rect,x: 145 ,y: 38,width: 115, height: 201"
+frame1579.jpg,1,"name:rect,x: 149 ,y: 37,width: 113, height: 201"
+frame1580.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1581.jpg,1,"name:rect,x: 145 ,y: 39,width: 115, height: 200"
+frame1582.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 200"
+frame1583.jpg,1,"name:rect,x: 148 ,y: 37,width: 114, height: 201"
+frame1584.jpg,1,"name:rect,x: 150 ,y: 37,width: 112, height: 201"
+frame1585.jpg,1,"name:rect,x: 147 ,y: 38,width: 115, height: 200"
+frame1586.jpg,1,"name:rect,x: 148 ,y: 38,width: 114, height: 200"
+frame1587.jpg,1,"name:rect,x: 148 ,y: 38,width: 115, height: 200"
+frame1588.jpg,2,"name:rect,x: 148 ,y: 37,width: 114, height: 201"
+frame1588.jpg,2,"name:rect,x: 144 ,y: 40,width: 114, height: 67"
+frame1589.jpg,2,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1589.jpg,2,"name:rect,x: 145 ,y: 40,width: 112, height: 67"
+frame1590.jpg,1,"name:rect,x: 147 ,y: 37,width: 115, height: 201"
+frame1591.jpg,1,"name:rect,x: 146 ,y: 39,width: 115, height: 199"
+frame1592.jpg,1,"name:rect,x: 145 ,y: 39,width: 116, height: 199"
+frame1593.jpg,1,"name:rect,x: 149 ,y: 37,width: 114, height: 201"
+frame1594.jpg,1,"name:rect,x: 149 ,y: 37,width: 113, height: 201"
+frame1595.jpg,1,"name:rect,x: 146 ,y: 40,width: 114, height: 197"
+frame1596.jpg,2,"name:rect,x: 146 ,y: 37,width: 115, height: 201"
+frame1596.jpg,2,"name:rect,x: 145 ,y: 40,width: 113, height: 67"
+frame1597.jpg,2,"name:rect,x: 146 ,y: 40,width: 113, height: 198"
+frame1597.jpg,2,"name:rect,x: 145 ,y: 40,width: 113, height: 67"
+frame1598.jpg,2,"name:rect,x: 146 ,y: 40,width: 114, height: 198"
+frame1598.jpg,2,"name:rect,x: 144 ,y: 40,width: 113, height: 67"
+frame1599.jpg,1,"name:rect,x: 145 ,y: 39,width: 115, height: 199"
+frame1600.jpg,1,"name:rect,x: 147 ,y: 37,width: 115, height: 201"
+frame1601.jpg,1,"name:rect,x: 149 ,y: 37,width: 113, height: 201"
+frame1602.jpg,1,"name:rect,x: 146 ,y: 39,width: 113, height: 200"
+frame1603.jpg,1,"name:rect,x: 148 ,y: 38,width: 114, height: 200"
+frame1604.jpg,1,"name:rect,x: 145 ,y: 40,width: 115, height: 198"
+frame1605.jpg,1,"name:rect,x: 145 ,y: 39,width: 115, height: 199"
+frame1606.jpg,1,"name:rect,x: 145 ,y: 40,width: 115, height: 198"
+frame1607.jpg,2,"name:rect,x: 146 ,y: 40,width: 113, height: 199"
+frame1607.jpg,2,"name:rect,x: 145 ,y: 40,width: 113, height: 67"
+frame1608.jpg,1,"name:rect,x: 146 ,y: 40,width: 113, height: 198"
+frame1609.jpg,1,"name:rect,x: 146 ,y: 39,width: 113, height: 200"
+frame1610.jpg,1,"name:rect,x: 146 ,y: 39,width: 113, height: 199"
+frame1611.jpg,1,"name:rect,x: 148 ,y: 37,width: 114, height: 201"
+frame1612.jpg,1,"name:rect,x: 147 ,y: 37,width: 115, height: 201"
+frame1613.jpg,1,"name:rect,x: 148 ,y: 38,width: 115, height: 200"
+frame1614.jpg,1,"name:rect,x: 149 ,y: 38,width: 114, height: 200"
+frame1615.jpg,1,"name:rect,x: 148 ,y: 37,width: 115, height: 201"
+frame1616.jpg,1,"name:rect,x: 147 ,y: 40,width: 112, height: 199"
+frame1617.jpg,1,"name:rect,x: 148 ,y: 38,width: 115, height: 200"
+frame1618.jpg,1,"name:rect,x: 146 ,y: 39,width: 113, height: 199"
+frame1619.jpg,1,"name:rect,x: 149 ,y: 37,width: 113, height: 201"
+frame1620.jpg,1,"name:rect,x: 149 ,y: 38,width: 115, height: 199"
+frame1621.jpg,1,"name:rect,x: 147 ,y: 40,width: 113, height: 197"
+frame1622.jpg,1,"name:rect,x: 147 ,y: 39,width: 113, height: 199"
+frame1623.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1624.jpg,1,"name:rect,x: 147 ,y: 39,width: 112, height: 199"
+frame1625.jpg,1,"name:rect,x: 149 ,y: 37,width: 115, height: 200"
+frame1626.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1627.jpg,2,"name:rect,x: 146 ,y: 40,width: 113, height: 198"
+frame1627.jpg,2,"name:rect,x: 145 ,y: 41,width: 113, height: 66"
+frame1628.jpg,1,"name:rect,x: 146 ,y: 40,width: 114, height: 197"
+frame1629.jpg,1,"name:rect,x: 145 ,y: 39,width: 115, height: 199"
+frame1630.jpg,1,"name:rect,x: 148 ,y: 39,width: 115, height: 198"
+frame1631.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1632.jpg,1,"name:rect,x: 146 ,y: 40,width: 113, height: 198"
+frame1633.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 198"
+frame1634.jpg,1,"name:rect,x: 146 ,y: 40,width: 114, height: 198"
+frame1635.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1636.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1637.jpg,1,"name:rect,x: 147 ,y: 39,width: 112, height: 199"
+frame1638.jpg,1,"name:rect,x: 147 ,y: 40,width: 112, height: 198"
+frame1639.jpg,1,"name:rect,x: 145 ,y: 39,width: 115, height: 199"
+frame1640.jpg,1,"name:rect,x: 147 ,y: 39,width: 111, height: 199"
+frame1641.jpg,1,"name:rect,x: 146 ,y: 39,width: 113, height: 199"
+frame1642.jpg,1,"name:rect,x: 147 ,y: 39,width: 111, height: 200"
+frame1643.jpg,1,"name:rect,x: 147 ,y: 39,width: 112, height: 199"
+frame1644.jpg,1,"name:rect,x: 147 ,y: 39,width: 112, height: 199"
+frame1645.jpg,1,"name:rect,x: 146 ,y: 39,width: 113, height: 200"
+frame1646.jpg,1,"name:rect,x: 146 ,y: 39,width: 114, height: 199"
+frame1647.jpg,1,"name:rect,x: 146 ,y: 40,width: 114, height: 198"
+frame1648.jpg,1,"name:rect,x: 146 ,y: 40,width: 114, height: 198"
+frame1649.jpg,1,"name:rect,x: 148 ,y: 39,width: 111, height: 198"
+frame1650.jpg,1,"name:rect,x: 146 ,y: 38,width: 115, height: 199"
+frame1651.jpg,1,"name:rect,x: 146 ,y: 38,width: 114, height: 198"
+frame1652.jpg,1,"name:rect,x: 150 ,y: 38,width: 113, height: 200"
+frame1653.jpg,1,"name:rect,x: 148 ,y: 39,width: 115, height: 199"
+frame1654.jpg,1,"name:rect,x: 149 ,y: 38,width: 114, height: 200"
+frame1655.jpg,1,"name:rect,x: 146 ,y: 38,width: 113, height: 200"
+frame1656.jpg,2,"name:rect,x: 147 ,y: 39,width: 109, height: 200"
+frame1656.jpg,2,"name:rect,x: 147 ,y: 40,width: 105, height: 75"
+frame1657.jpg,1,"name:rect,x: 146 ,y: 39,width: 110, height: 201"
+frame1658.jpg,1,"name:rect,x: 146 ,y: 39,width: 111, height: 200"
+frame1659.jpg,2,"name:rect,x: 145 ,y: 38,width: 110, height: 199"
+frame1659.jpg,2,"name:rect,x: 147 ,y: 40,width: 107, height: 78"
+frame1660.jpg,2,"name:rect,x: 145 ,y: 37,width: 109, height: 200"
+frame1660.jpg,2,"name:rect,x: 148 ,y: 40,width: 106, height: 77"
+frame1661.jpg,2,"name:rect,x: 144 ,y: 39,width: 108, height: 200"
+frame1661.jpg,2,"name:rect,x: 147 ,y: 40,width: 105, height: 79"
+frame1662.jpg,1,"name:rect,x: 146 ,y: 38,width: 107, height: 201"
+frame1663.jpg,1,"name:rect,x: 146 ,y: 37,width: 108, height: 201"
+frame1664.jpg,2,"name:rect,x: 144 ,y: 38,width: 110, height: 202"
+frame1664.jpg,2,"name:rect,x: 143 ,y: 39,width: 112, height: 78"
+frame1665.jpg,2,"name:rect,x: 143 ,y: 38,width: 109, height: 202"
+frame1665.jpg,2,"name:rect,x: 145 ,y: 39,width: 109, height: 80"
+frame1666.jpg,2,"name:rect,x: 143 ,y: 39,width: 110, height: 79"
+frame1666.jpg,2,"name:rect,x: 143 ,y: 37,width: 107, height: 203"
+frame1667.jpg,2,"name:rect,x: 143 ,y: 38,width: 106, height: 202"
+frame1667.jpg,2,"name:rect,x: 143 ,y: 37,width: 111, height: 80"
+frame1668.jpg,2,"name:rect,x: 144 ,y: 37,width: 106, height: 203"
+frame1668.jpg,2,"name:rect,x: 143 ,y: 37,width: 110, height: 76"
+frame1669.jpg,2,"name:rect,x: 143 ,y: 38,width: 106, height: 202"
+frame1669.jpg,2,"name:rect,x: 142 ,y: 38,width: 111, height: 74"
+frame1670.jpg,2,"name:rect,x: 142 ,y: 38,width: 107, height: 202"
+frame1670.jpg,2,"name:rect,x: 141 ,y: 37,width: 114, height: 72"
+frame1671.jpg,2,"name:rect,x: 143 ,y: 39,width: 105, height: 198"
+frame1671.jpg,2,"name:rect,x: 141 ,y: 37,width: 112, height: 72"
+frame1672.jpg,2,"name:rect,x: 142 ,y: 38,width: 105, height: 199"
+frame1672.jpg,2,"name:rect,x: 141 ,y: 37,width: 110, height: 75"
+frame1673.jpg,1,"name:rect,x: 142 ,y: 37,width: 102, height: 202"
+frame1674.jpg,2,"name:rect,x: 144 ,y: 38,width: 99, height: 200"
+frame1674.jpg,2,"name:rect,x: 141 ,y: 38,width: 102, height: 78"
+frame1675.jpg,2,"name:rect,x: 141 ,y: 39,width: 103, height: 199"
+frame1675.jpg,2,"name:rect,x: 141 ,y: 37,width: 103, height: 77"
+frame1676.jpg,2,"name:rect,x: 140 ,y: 39,width: 103, height: 199"
+frame1676.jpg,2,"name:rect,x: 140 ,y: 37,width: 103, height: 78"
+frame1677.jpg,2,"name:rect,x: 140 ,y: 37,width: 104, height: 201"
+frame1677.jpg,2,"name:rect,x: 140 ,y: 37,width: 102, height: 77"
+frame1678.jpg,1,"name:rect,x: 140 ,y: 35,width: 103, height: 202"
+frame1679.jpg,2,"name:rect,x: 139 ,y: 36,width: 104, height: 201"
+frame1679.jpg,2,"name:rect,x: 139 ,y: 36,width: 100, height: 80"
+frame1680.jpg,2,"name:rect,x: 138 ,y: 36,width: 104, height: 201"
+frame1680.jpg,2,"name:rect,x: 139 ,y: 37,width: 99, height: 79"
+frame1681.jpg,1,"name:rect,x: 139 ,y: 35,width: 101, height: 202"
+frame1682.jpg,2,"name:rect,x: 138 ,y: 36,width: 103, height: 201"
+frame1682.jpg,2,"name:rect,x: 138 ,y: 36,width: 100, height: 79"
+frame1683.jpg,2,"name:rect,x: 137 ,y: 37,width: 104, height: 200"
+frame1683.jpg,2,"name:rect,x: 136 ,y: 35,width: 103, height: 77"
+frame1684.jpg,2,"name:rect,x: 137 ,y: 36,width: 104, height: 201"
+frame1684.jpg,2,"name:rect,x: 137 ,y: 36,width: 102, height: 81"
+frame1685.jpg,2,"name:rect,x: 135 ,y: 37,width: 105, height: 199"
+frame1685.jpg,2,"name:rect,x: 136 ,y: 35,width: 103, height: 75"
+frame1686.jpg,2,"name:rect,x: 136 ,y: 37,width: 105, height: 200"
+frame1686.jpg,2,"name:rect,x: 136 ,y: 35,width: 103, height: 74"
+frame1687.jpg,2,"name:rect,x: 135 ,y: 37,width: 106, height: 199"
+frame1687.jpg,2,"name:rect,x: 136 ,y: 35,width: 103, height: 75"
+frame1688.jpg,2,"name:rect,x: 136 ,y: 37,width: 104, height: 198"
+frame1688.jpg,2,"name:rect,x: 136 ,y: 35,width: 104, height: 74"
+frame1689.jpg,2,"name:rect,x: 135 ,y: 37,width: 105, height: 199"
+frame1689.jpg,2,"name:rect,x: 136 ,y: 35,width: 103, height: 74"
+frame1690.jpg,2,"name:rect,x: 135 ,y: 37,width: 104, height: 199"
+frame1690.jpg,2,"name:rect,x: 135 ,y: 36,width: 104, height: 72"
+frame1691.jpg,2,"name:rect,x: 134 ,y: 36,width: 107, height: 200"
+frame1691.jpg,2,"name:rect,x: 135 ,y: 35,width: 104, height: 75"
+frame1692.jpg,2,"name:rect,x: 134 ,y: 36,width: 106, height: 200"
+frame1692.jpg,2,"name:rect,x: 135 ,y: 35,width: 104, height: 75"
+frame1693.jpg,2,"name:rect,x: 135 ,y: 36,width: 106, height: 200"
+frame1693.jpg,2,"name:rect,x: 135 ,y: 35,width: 104, height: 75"
+frame1694.jpg,2,"name:rect,x: 134 ,y: 36,width: 106, height: 200"
+frame1694.jpg,2,"name:rect,x: 135 ,y: 35,width: 105, height: 78"
+frame1695.jpg,2,"name:rect,x: 135 ,y: 36,width: 106, height: 199"
+frame1695.jpg,2,"name:rect,x: 135 ,y: 35,width: 105, height: 78"
+frame1696.jpg,2,"name:rect,x: 136 ,y: 35,width: 105, height: 201"
+frame1696.jpg,2,"name:rect,x: 135 ,y: 35,width: 104, height: 77"
+frame1697.jpg,2,"name:rect,x: 135 ,y: 36,width: 105, height: 200"
+frame1697.jpg,2,"name:rect,x: 135 ,y: 36,width: 104, height: 76"
+frame1698.jpg,2,"name:rect,x: 135 ,y: 36,width: 106, height: 200"
+frame1698.jpg,2,"name:rect,x: 136 ,y: 37,width: 103, height: 79"
+frame1699.jpg,2,"name:rect,x: 135 ,y: 36,width: 106, height: 200"
+frame1699.jpg,2,"name:rect,x: 136 ,y: 37,width: 103, height: 80"
+frame1700.jpg,2,"name:rect,x: 134 ,y: 36,width: 110, height: 200"
+frame1700.jpg,2,"name:rect,x: 135 ,y: 36,width: 106, height: 77"
+frame1701.jpg,2,"name:rect,x: 134 ,y: 35,width: 108, height: 203"
+frame1701.jpg,2,"name:rect,x: 134 ,y: 36,width: 108, height: 78"
+frame1702.jpg,2,"name:rect,x: 135 ,y: 36,width: 109, height: 200"
+frame1702.jpg,2,"name:rect,x: 134 ,y: 37,width: 110, height: 75"
+frame1703.jpg,2,"name:rect,x: 135 ,y: 35,width: 109, height: 203"
+frame1703.jpg,2,"name:rect,x: 135 ,y: 36,width: 111, height: 74"
+frame1704.jpg,2,"name:rect,x: 136 ,y: 36,width: 107, height: 202"
+frame1704.jpg,2,"name:rect,x: 137 ,y: 37,width: 110, height: 72"
+frame1705.jpg,2,"name:rect,x: 138 ,y: 36,width: 106, height: 202"
+frame1705.jpg,2,"name:rect,x: 138 ,y: 37,width: 111, height: 76"
+frame1706.jpg,1,"name:rect,x: 139 ,y: 35,width: 108, height: 201"
+frame1707.jpg,1,"name:rect,x: 137 ,y: 35,width: 112, height: 202"
+frame1708.jpg,1,"name:rect,x: 136 ,y: 37,width: 114, height: 199"
+frame1709.jpg,1,"name:rect,x: 136 ,y: 38,width: 113, height: 196"
+frame1710.jpg,1,"name:rect,x: 137 ,y: 36,width: 112, height: 199"
+frame1711.jpg,1,"name:rect,x: 137 ,y: 36,width: 111, height: 199"
+frame1712.jpg,1,"name:rect,x: 137 ,y: 36,width: 110, height: 200"
+frame1713.jpg,2,"name:rect,x: 137 ,y: 37,width: 111, height: 198"
+frame1713.jpg,2,"name:rect,x: 136 ,y: 37,width: 119, height: 76"
+frame1714.jpg,1,"name:rect,x: 138 ,y: 36,width: 110, height: 201"
+frame1715.jpg,1,"name:rect,x: 137 ,y: 37,width: 112, height: 198"
+frame1716.jpg,1,"name:rect,x: 139 ,y: 36,width: 110, height: 202"
+frame1717.jpg,1,"name:rect,x: 138 ,y: 36,width: 111, height: 202"
+frame1718.jpg,1,"name:rect,x: 137 ,y: 36,width: 110, height: 201"
+frame1719.jpg,1,"name:rect,x: 137 ,y: 37,width: 112, height: 198"
+frame1720.jpg,1,"name:rect,x: 139 ,y: 36,width: 110, height: 201"
+frame1721.jpg,1,"name:rect,x: 138 ,y: 35,width: 109, height: 202"
+frame1722.jpg,2,"name:rect,x: 139 ,y: 37,width: 108, height: 198"
+frame1722.jpg,2,"name:rect,x: 136 ,y: 38,width: 118, height: 75"
+frame1723.jpg,2,"name:rect,x: 138 ,y: 37,width: 110, height: 198"
+frame1723.jpg,2,"name:rect,x: 136 ,y: 38,width: 117, height: 76"
+frame1724.jpg,2,"name:rect,x: 138 ,y: 37,width: 108, height: 199"
+frame1724.jpg,2,"name:rect,x: 136 ,y: 38,width: 116, height: 75"
+frame1725.jpg,2,"name:rect,x: 139 ,y: 37,width: 104, height: 199"
+frame1725.jpg,2,"name:rect,x: 136 ,y: 37,width: 112, height: 77"
+frame1726.jpg,2,"name:rect,x: 139 ,y: 36,width: 103, height: 200"
+frame1726.jpg,2,"name:rect,x: 135 ,y: 37,width: 110, height: 74"
+frame1727.jpg,2,"name:rect,x: 139 ,y: 38,width: 104, height: 199"
+frame1727.jpg,2,"name:rect,x: 135 ,y: 37,width: 110, height: 75"
+frame1728.jpg,2,"name:rect,x: 138 ,y: 27,width: 101, height: 211"
+frame1728.jpg,2,"name:rect,x: 137 ,y: 36,width: 106, height: 72"
+frame1729.jpg,2,"name:rect,x: 138 ,y: 39,width: 105, height: 197"
+frame1729.jpg,2,"name:rect,x: 136 ,y: 37,width: 109, height: 70"
+frame1730.jpg,2,"name:rect,x: 137 ,y: 39,width: 106, height: 198"
+frame1730.jpg,2,"name:rect,x: 136 ,y: 36,width: 108, height: 72"
+frame1731.jpg,2,"name:rect,x: 138 ,y: 32,width: 103, height: 206"
+frame1731.jpg,2,"name:rect,x: 136 ,y: 37,width: 111, height: 71"
+frame1732.jpg,2,"name:rect,x: 138 ,y: 38,width: 107, height: 198"
+frame1732.jpg,2,"name:rect,x: 135 ,y: 38,width: 114, height: 72"
+frame1733.jpg,1,"name:rect,x: 138 ,y: 37,width: 108, height: 199"
+frame1734.jpg,2,"name:rect,x: 139 ,y: 39,width: 108, height: 196"
+frame1734.jpg,2,"name:rect,x: 137 ,y: 38,width: 116, height: 75"
+frame1735.jpg,2,"name:rect,x: 140 ,y: 39,width: 108, height: 196"
+frame1735.jpg,2,"name:rect,x: 136 ,y: 38,width: 119, height: 78"
+frame1736.jpg,2,"name:rect,x: 140 ,y: 39,width: 109, height: 195"
+frame1736.jpg,2,"name:rect,x: 137 ,y: 37,width: 118, height: 79"
+frame1737.jpg,2,"name:rect,x: 139 ,y: 37,width: 109, height: 201"
+frame1737.jpg,2,"name:rect,x: 136 ,y: 37,width: 118, height: 77"
+frame1738.jpg,2,"name:rect,x: 139 ,y: 38,width: 109, height: 197"
+frame1738.jpg,2,"name:rect,x: 136 ,y: 37,width: 118, height: 77"
+frame1739.jpg,1,"name:rect,x: 139 ,y: 37,width: 112, height: 198"
+frame1740.jpg,2,"name:rect,x: 138 ,y: 38,width: 112, height: 197"
+frame1740.jpg,2,"name:rect,x: 136 ,y: 38,width: 120, height: 75"
+frame1741.jpg,2,"name:rect,x: 138 ,y: 39,width: 112, height: 200"
+frame1741.jpg,2,"name:rect,x: 136 ,y: 38,width: 120, height: 78"
+frame1742.jpg,2,"name:rect,x: 137 ,y: 38,width: 118, height: 77"
+frame1742.jpg,2,"name:rect,x: 137 ,y: 39,width: 114, height: 200"
+frame1743.jpg,2,"name:rect,x: 137 ,y: 39,width: 114, height: 199"
+frame1743.jpg,2,"name:rect,x: 137 ,y: 38,width: 118, height: 78"
+frame1744.jpg,2,"name:rect,x: 138 ,y: 39,width: 113, height: 200"
+frame1744.jpg,2,"name:rect,x: 137 ,y: 39,width: 118, height: 78"
+frame1745.jpg,2,"name:rect,x: 136 ,y: 40,width: 115, height: 197"
+frame1745.jpg,2,"name:rect,x: 136 ,y: 38,width: 118, height: 80"
+frame1746.jpg,2,"name:rect,x: 139 ,y: 39,width: 110, height: 196"
+frame1746.jpg,2,"name:rect,x: 137 ,y: 38,width: 117, height: 80"
+frame1747.jpg,2,"name:rect,x: 138 ,y: 38,width: 110, height: 197"
+frame1747.jpg,2,"name:rect,x: 137 ,y: 38,width: 115, height: 80"
+frame1748.jpg,2,"name:rect,x: 138 ,y: 39,width: 111, height: 196"
+frame1748.jpg,2,"name:rect,x: 137 ,y: 38,width: 117, height: 81"
+frame1749.jpg,2,"name:rect,x: 138 ,y: 38,width: 111, height: 200"
+frame1749.jpg,2,"name:rect,x: 137 ,y: 38,width: 116, height: 80"
+frame1750.jpg,2,"name:rect,x: 139 ,y: 38,width: 109, height: 200"
+frame1750.jpg,2,"name:rect,x: 137 ,y: 38,width: 116, height: 81"
+frame1751.jpg,2,"name:rect,x: 139 ,y: 38,width: 109, height: 200"
+frame1751.jpg,2,"name:rect,x: 137 ,y: 38,width: 117, height: 82"
+frame1752.jpg,2,"name:rect,x: 139 ,y: 38,width: 110, height: 201"
+frame1752.jpg,2,"name:rect,x: 137 ,y: 38,width: 117, height: 81"
+frame1753.jpg,2,"name:rect,x: 140 ,y: 37,width: 110, height: 201"
+frame1753.jpg,2,"name:rect,x: 137 ,y: 38,width: 117, height: 80"
+frame1754.jpg,2,"name:rect,x: 141 ,y: 37,width: 108, height: 201"
+frame1754.jpg,2,"name:rect,x: 138 ,y: 37,width: 115, height: 82"
+frame1755.jpg,2,"name:rect,x: 140 ,y: 38,width: 108, height: 200"
+frame1755.jpg,2,"name:rect,x: 138 ,y: 38,width: 115, height: 81"
+frame1756.jpg,2,"name:rect,x: 139 ,y: 39,width: 110, height: 199"
+frame1756.jpg,2,"name:rect,x: 140 ,y: 38,width: 114, height: 82"
+frame1757.jpg,2,"name:rect,x: 141 ,y: 38,width: 107, height: 201"
+frame1757.jpg,2,"name:rect,x: 140 ,y: 39,width: 110, height: 84"
+frame1758.jpg,2,"name:rect,x: 141 ,y: 39,width: 107, height: 200"
+frame1758.jpg,2,"name:rect,x: 140 ,y: 40,width: 111, height: 81"
+frame1759.jpg,2,"name:rect,x: 140 ,y: 40,width: 109, height: 80"
+frame1759.jpg,2,"name:rect,x: 139 ,y: 39,width: 108, height: 200"
+frame1760.jpg,2,"name:rect,x: 141 ,y: 39,width: 107, height: 200"
+frame1760.jpg,2,"name:rect,x: 141 ,y: 40,width: 108, height: 82"
+frame1761.jpg,2,"name:rect,x: 140 ,y: 39,width: 107, height: 201"
+frame1761.jpg,2,"name:rect,x: 140 ,y: 40,width: 109, height: 80"
+frame1762.jpg,2,"name:rect,x: 141 ,y: 39,width: 106, height: 198"
+frame1762.jpg,2,"name:rect,x: 141 ,y: 40,width: 107, height: 81"
+frame1763.jpg,2,"name:rect,x: 141 ,y: 38,width: 105, height: 201"
+frame1763.jpg,2,"name:rect,x: 141 ,y: 40,width: 107, height: 83"
+frame1764.jpg,2,"name:rect,x: 141 ,y: 38,width: 106, height: 201"
+frame1764.jpg,2,"name:rect,x: 142 ,y: 39,width: 107, height: 83"
+frame1765.jpg,1,"name:rect,x: 141 ,y: 37,width: 106, height: 199"
+frame1766.jpg,1,"name:rect,x: 140 ,y: 38,width: 107, height: 201"
+frame1767.jpg,1,"name:rect,x: 140 ,y: 38,width: 107, height: 200"
+frame1768.jpg,2,"name:rect,x: 139 ,y: 39,width: 108, height: 200"
+frame1768.jpg,2,"name:rect,x: 141 ,y: 39,width: 110, height: 76"
+frame1769.jpg,2,"name:rect,x: 141 ,y: 38,width: 107, height: 201"
+frame1769.jpg,2,"name:rect,x: 141 ,y: 39,width: 111, height: 75"
+frame1770.jpg,1,"name:rect,x: 141 ,y: 38,width: 109, height: 198"
+frame1771.jpg,1,"name:rect,x: 140 ,y: 37,width: 110, height: 199"
+frame1772.jpg,1,"name:rect,x: 141 ,y: 37,width: 110, height: 201"
+frame1773.jpg,1,"name:rect,x: 142 ,y: 37,width: 108, height: 201"
+frame1774.jpg,1,"name:rect,x: 140 ,y: 38,width: 111, height: 200"
+frame1775.jpg,1,"name:rect,x: 142 ,y: 36,width: 108, height: 200"
+frame1776.jpg,1,"name:rect,x: 141 ,y: 38,width: 111, height: 201"
+frame1777.jpg,1,"name:rect,x: 139 ,y: 38,width: 114, height: 200"
+frame1778.jpg,1,"name:rect,x: 140 ,y: 37,width: 111, height: 201"
+frame1779.jpg,1,"name:rect,x: 142 ,y: 39,width: 110, height: 199"
+frame1780.jpg,1,"name:rect,x: 139 ,y: 38,width: 112, height: 200"
+frame1781.jpg,1,"name:rect,x: 141 ,y: 38,width: 111, height: 200"
+frame1782.jpg,1,"name:rect,x: 142 ,y: 38,width: 112, height: 200"
+frame1783.jpg,1,"name:rect,x: 142 ,y: 38,width: 110, height: 198"
+frame1784.jpg,1,"name:rect,x: 142 ,y: 38,width: 110, height: 198"
+frame1785.jpg,1,"name:rect,x: 142 ,y: 39,width: 111, height: 200"
+frame1786.jpg,2,"name:rect,x: 142 ,y: 39,width: 110, height: 197"
+frame1786.jpg,2,"name:rect,x: 140 ,y: 40,width: 115, height: 70"
+frame1787.jpg,1,"name:rect,x: 143 ,y: 39,width: 110, height: 199"
+frame1788.jpg,1,"name:rect,x: 143 ,y: 38,width: 111, height: 200"
+frame1789.jpg,1,"name:rect,x: 143 ,y: 39,width: 111, height: 199"
+frame1790.jpg,1,"name:rect,x: 143 ,y: 39,width: 112, height: 199"
+frame1791.jpg,2,"name:rect,x: 143 ,y: 39,width: 109, height: 197"
+frame1791.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 72"
+frame1792.jpg,1,"name:rect,x: 142 ,y: 38,width: 110, height: 198"
+frame1793.jpg,1,"name:rect,x: 141 ,y: 39,width: 109, height: 198"
+frame1794.jpg,2,"name:rect,x: 141 ,y: 39,width: 109, height: 197"
+frame1794.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 72"
+frame1795.jpg,2,"name:rect,x: 142 ,y: 40,width: 109, height: 200"
+frame1795.jpg,2,"name:rect,x: 141 ,y: 41,width: 113, height: 71"
+frame1796.jpg,2,"name:rect,x: 141 ,y: 40,width: 109, height: 197"
+frame1796.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 70"
+frame1797.jpg,2,"name:rect,x: 141 ,y: 39,width: 109, height: 201"
+frame1797.jpg,2,"name:rect,x: 141 ,y: 41,width: 113, height: 70"
+frame1798.jpg,2,"name:rect,x: 142 ,y: 39,width: 110, height: 198"
+frame1798.jpg,2,"name:rect,x: 141 ,y: 40,width: 114, height: 71"
+frame1799.jpg,2,"name:rect,x: 141 ,y: 39,width: 108, height: 198"
+frame1799.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 73"
+frame1800.jpg,2,"name:rect,x: 142 ,y: 39,width: 108, height: 198"
+frame1800.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 71"
+frame1801.jpg,2,"name:rect,x: 142 ,y: 39,width: 109, height: 198"
+frame1801.jpg,2,"name:rect,x: 141 ,y: 40,width: 114, height: 73"
+frame1802.jpg,2,"name:rect,x: 142 ,y: 38,width: 108, height: 199"
+frame1802.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 71"
+frame1803.jpg,2,"name:rect,x: 141 ,y: 38,width: 109, height: 199"
+frame1803.jpg,2,"name:rect,x: 141 ,y: 40,width: 112, height: 71"
+frame1804.jpg,2,"name:rect,x: 142 ,y: 38,width: 108, height: 199"
+frame1804.jpg,2,"name:rect,x: 141 ,y: 40,width: 112, height: 72"
+frame1805.jpg,2,"name:rect,x: 141 ,y: 38,width: 108, height: 198"
+frame1805.jpg,2,"name:rect,x: 141 ,y: 40,width: 112, height: 72"
+frame1806.jpg,2,"name:rect,x: 142 ,y: 39,width: 107, height: 198"
+frame1806.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 74"
+frame1807.jpg,2,"name:rect,x: 143 ,y: 38,width: 106, height: 199"
+frame1807.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 73"
+frame1808.jpg,2,"name:rect,x: 143 ,y: 38,width: 108, height: 199"
+frame1808.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 73"
+frame1809.jpg,2,"name:rect,x: 142 ,y: 38,width: 108, height: 198"
+frame1809.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 74"
+frame1810.jpg,2,"name:rect,x: 141 ,y: 39,width: 108, height: 197"
+frame1810.jpg,2,"name:rect,x: 141 ,y: 40,width: 112, height: 74"
+frame1811.jpg,2,"name:rect,x: 140 ,y: 37,width: 111, height: 200"
+frame1811.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 73"
+frame1812.jpg,2,"name:rect,x: 142 ,y: 37,width: 108, height: 199"
+frame1812.jpg,2,"name:rect,x: 141 ,y: 40,width: 112, height: 73"
+frame1813.jpg,2,"name:rect,x: 141 ,y: 37,width: 108, height: 200"
+frame1813.jpg,2,"name:rect,x: 141 ,y: 40,width: 112, height: 74"
+frame1814.jpg,2,"name:rect,x: 141 ,y: 38,width: 109, height: 198"
+frame1814.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 73"
+frame1815.jpg,2,"name:rect,x: 142 ,y: 38,width: 107, height: 198"
+frame1815.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 73"
+frame1816.jpg,2,"name:rect,x: 143 ,y: 39,width: 106, height: 197"
+frame1816.jpg,2,"name:rect,x: 142 ,y: 40,width: 112, height: 74"
+frame1817.jpg,2,"name:rect,x: 142 ,y: 38,width: 108, height: 198"
+frame1817.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 74"
+frame1818.jpg,2,"name:rect,x: 141 ,y: 38,width: 108, height: 198"
+frame1818.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 74"
+frame1819.jpg,2,"name:rect,x: 142 ,y: 38,width: 108, height: 198"
+frame1819.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 75"
+frame1820.jpg,2,"name:rect,x: 141 ,y: 38,width: 108, height: 198"
+frame1820.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 76"
+frame1821.jpg,2,"name:rect,x: 142 ,y: 38,width: 107, height: 198"
+frame1821.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 77"
+frame1822.jpg,2,"name:rect,x: 142 ,y: 38,width: 108, height: 197"
+frame1822.jpg,2,"name:rect,x: 141 ,y: 40,width: 113, height: 75"
+frame1823.jpg,1,"name:rect,x: 143 ,y: 38,width: 109, height: 198"
+frame1824.jpg,1,"name:rect,x: 142 ,y: 38,width: 109, height: 198"
+frame1825.jpg,1,"name:rect,x: 142 ,y: 38,width: 109, height: 201"
+frame1826.jpg,1,"name:rect,x: 142 ,y: 37,width: 108, height: 199"
+frame1827.jpg,1,"name:rect,x: 143 ,y: 38,width: 106, height: 196"
+frame1828.jpg,1,"name:rect,x: 142 ,y: 37,width: 110, height: 198"
+frame1829.jpg,1,"name:rect,x: 142 ,y: 38,width: 110, height: 197"
+frame1830.jpg,1,"name:rect,x: 143 ,y: 37,width: 110, height: 202"
+frame1831.jpg,1,"name:rect,x: 143 ,y: 38,width: 111, height: 198"
+frame1832.jpg,1,"name:rect,x: 143 ,y: 37,width: 110, height: 198"
+frame1833.jpg,1,"name:rect,x: 143 ,y: 38,width: 109, height: 197"
+frame1834.jpg,1,"name:rect,x: 145 ,y: 37,width: 107, height: 197"
+frame1835.jpg,1,"name:rect,x: 144 ,y: 38,width: 108, height: 196"
+frame1836.jpg,1,"name:rect,x: 145 ,y: 37,width: 109, height: 198"
+frame1837.jpg,1,"name:rect,x: 144 ,y: 37,width: 111, height: 199"
+frame1838.jpg,1,"name:rect,x: 145 ,y: 37,width: 110, height: 198"
+frame1839.jpg,1,"name:rect,x: 146 ,y: 37,width: 108, height: 197"
+frame1840.jpg,1,"name:rect,x: 145 ,y: 37,width: 110, height: 196"
+frame1841.jpg,1,"name:rect,x: 146 ,y: 36,width: 108, height: 198"
+frame1842.jpg,1,"name:rect,x: 145 ,y: 36,width: 108, height: 200"
+frame1843.jpg,1,"name:rect,x: 145 ,y: 36,width: 108, height: 198"
+frame1844.jpg,1,"name:rect,x: 144 ,y: 35,width: 111, height: 202"
+frame1845.jpg,1,"name:rect,x: 145 ,y: 37,width: 109, height: 198"
+frame1846.jpg,1,"name:rect,x: 145 ,y: 36,width: 110, height: 199"
+frame1847.jpg,1,"name:rect,x: 145 ,y: 37,width: 111, height: 198"
+frame1848.jpg,1,"name:rect,x: 145 ,y: 37,width: 112, height: 198"
+frame1849.jpg,1,"name:rect,x: 146 ,y: 37,width: 112, height: 199"
+frame1850.jpg,1,"name:rect,x: 146 ,y: 37,width: 111, height: 199"
+frame1851.jpg,1,"name:rect,x: 147 ,y: 37,width: 110, height: 198"
+frame1852.jpg,1,"name:rect,x: 146 ,y: 37,width: 113, height: 196"
+frame1853.jpg,1,"name:rect,x: 148 ,y: 36,width: 116, height: 200"
+frame1854.jpg,1,"name:rect,x: 146 ,y: 37,width: 115, height: 197"
+frame1855.jpg,1,"name:rect,x: 149 ,y: 35,width: 116, height: 200"
+frame1856.jpg,1,"name:rect,x: 149 ,y: 35,width: 116, height: 200"
+frame1857.jpg,1,"name:rect,x: 145 ,y: 37,width: 115, height: 197"
+frame1858.jpg,1,"name:rect,x: 145 ,y: 35,width: 115, height: 199"
+frame1859.jpg,1,"name:rect,x: 145 ,y: 37,width: 113, height: 196"
+frame1860.jpg,1,"name:rect,x: 146 ,y: 36,width: 112, height: 199"
+frame1861.jpg,1,"name:rect,x: 147 ,y: 36,width: 110, height: 198"
+frame1862.jpg,1,"name:rect,x: 147 ,y: 35,width: 110, height: 201"
+frame1863.jpg,1,"name:rect,x: 147 ,y: 34,width: 111, height: 203"
+frame1864.jpg,1,"name:rect,x: 146 ,y: 33,width: 110, height: 205"
+frame1865.jpg,1,"name:rect,x: 147 ,y: 32,width: 108, height: 205"
+frame1866.jpg,1,"name:rect,x: 146 ,y: 32,width: 108, height: 207"
+frame1867.jpg,1,"name:rect,x: 147 ,y: 33,width: 107, height: 205"
+frame1868.jpg,1,"name:rect,x: 146 ,y: 34,width: 108, height: 205"
+frame1869.jpg,1,"name:rect,x: 147 ,y: 34,width: 106, height: 206"
+frame1870.jpg,1,"name:rect,x: 146 ,y: 33,width: 106, height: 205"
+frame1871.jpg,1,"name:rect,x: 147 ,y: 33,width: 106, height: 206"
+frame1872.jpg,1,"name:rect,x: 148 ,y: 34,width: 104, height: 205"
+frame1873.jpg,1,"name:rect,x: 149 ,y: 34,width: 103, height: 205"
+frame1874.jpg,1,"name:rect,x: 149 ,y: 34,width: 104, height: 206"
+frame1875.jpg,1,"name:rect,x: 151 ,y: 35,width: 104, height: 206"
+frame1876.jpg,1,"name:rect,x: 153 ,y: 35,width: 104, height: 205"
+frame1877.jpg,1,"name:rect,x: 162 ,y: 32,width: 105, height: 207"
+frame1878.jpg,1,"name:rect,x: 164 ,y: 32,width: 105, height: 208"
+frame1879.jpg,1,"name:rect,x: 163 ,y: 39,width: 88, height: 203"
+frame1880.jpg,1,"name:rect,x: 163 ,y: 36,width: 91, height: 204"
+frame1881.jpg,1,"name:rect,x: 163 ,y: 36,width: 94, height: 205"
+frame1882.jpg,1,"name:rect,x: 161 ,y: 39,width: 97, height: 200"
+frame1883.jpg,0,
+frame1884.jpg,1,"name:rect,x: 157 ,y: 41,width: 116, height: 198"
+frame1885.jpg,1,"name:rect,x: 153 ,y: 43,width: 122, height: 195"
+frame1886.jpg,1,"name:rect,x: 149 ,y: 44,width: 128, height: 194"
+frame1887.jpg,1,"name:rect,x: 149 ,y: 44,width: 154, height: 196"
+frame1888.jpg,1,"name:rect,x: 147 ,y: 45,width: 158, height: 195"
+frame1889.jpg,1,"name:rect,x: 146 ,y: 46,width: 156, height: 195"
+frame1890.jpg,1,"name:rect,x: 148 ,y: 48,width: 148, height: 193"
+frame1891.jpg,1,"name:rect,x: 147 ,y: 49,width: 152, height: 192"
+frame1892.jpg,1,"name:rect,x: 146 ,y: 51,width: 152, height: 190"
+frame1893.jpg,1,"name:rect,x: 145 ,y: 53,width: 153, height: 188"
+frame1894.jpg,1,"name:rect,x: 146 ,y: 56,width: 156, height: 184"
+frame1895.jpg,1,"name:rect,x: 145 ,y: 56,width: 155, height: 184"
+frame1896.jpg,1,"name:rect,x: 145 ,y: 59,width: 152, height: 181"
+frame1897.jpg,1,"name:rect,x: 145 ,y: 59,width: 151, height: 181"
+frame1898.jpg,1,"name:rect,x: 144 ,y: 61,width: 151, height: 179"
+frame1899.jpg,1,"name:rect,x: 144 ,y: 61,width: 153, height: 178"
+frame1900.jpg,1,"name:rect,x: 144 ,y: 62,width: 156, height: 177"
+frame1901.jpg,1,"name:rect,x: 144 ,y: 63,width: 153, height: 177"
+frame1902.jpg,1,"name:rect,x: 144 ,y: 64,width: 157, height: 175"
+frame1903.jpg,1,"name:rect,x: 143 ,y: 64,width: 161, height: 175"
+frame1904.jpg,1,"name:rect,x: 143 ,y: 65,width: 162, height: 174"
+frame1905.jpg,1,"name:rect,x: 142 ,y: 64,width: 161, height: 175"
+frame1906.jpg,1,"name:rect,x: 142 ,y: 63,width: 166, height: 175"
+frame1907.jpg,1,"name:rect,x: 142 ,y: 64,width: 168, height: 175"
+frame1908.jpg,1,"name:rect,x: 139 ,y: 62,width: 171, height: 176"
+frame1909.jpg,1,"name:rect,x: 141 ,y: 60,width: 171, height: 179"
+frame1910.jpg,1,"name:rect,x: 142 ,y: 60,width: 172, height: 179"
+frame1911.jpg,1,"name:rect,x: 142 ,y: 61,width: 172, height: 178"
+frame1912.jpg,1,"name:rect,x: 142 ,y: 59,width: 167, height: 179"
+frame1913.jpg,1,"name:rect,x: 143 ,y: 57,width: 166, height: 181"
+frame1914.jpg,1,"name:rect,x: 144 ,y: 57,width: 162, height: 182"
+frame1915.jpg,1,"name:rect,x: 144 ,y: 58,width: 160, height: 180"
+frame1916.jpg,1,"name:rect,x: 142 ,y: 55,width: 176, height: 183"
+frame1917.jpg,1,"name:rect,x: 142 ,y: 59,width: 175, height: 179"
+frame1918.jpg,1,"name:rect,x: 142 ,y: 59,width: 172, height: 179"
+frame1919.jpg,1,"name:rect,x: 142 ,y: 61,width: 177, height: 177"
+frame1920.jpg,1,"name:rect,x: 141 ,y: 61,width: 172, height: 177"
+frame1921.jpg,1,"name:rect,x: 142 ,y: 62,width: 170, height: 176"
+frame1922.jpg,1,"name:rect,x: 141 ,y: 61,width: 170, height: 178"
+frame1923.jpg,1,"name:rect,x: 141 ,y: 60,width: 171, height: 178"
+frame1924.jpg,1,"name:rect,x: 141 ,y: 60,width: 173, height: 178"
+frame1925.jpg,1,"name:rect,x: 141 ,y: 59,width: 171, height: 180"
+frame1926.jpg,1,"name:rect,x: 141 ,y: 59,width: 167, height: 180"
+frame1927.jpg,1,"name:rect,x: 142 ,y: 57,width: 170, height: 182"
+frame1928.jpg,1,"name:rect,x: 141 ,y: 56,width: 166, height: 183"
+frame1929.jpg,1,"name:rect,x: 144 ,y: 52,width: 164, height: 189"
+frame1930.jpg,1,"name:rect,x: 144 ,y: 52,width: 166, height: 189"
+frame1931.jpg,1,"name:rect,x: 144 ,y: 51,width: 167, height: 190"
+frame1932.jpg,1,"name:rect,x: 142 ,y: 49,width: 168, height: 192"
+frame1933.jpg,1,"name:rect,x: 142 ,y: 49,width: 170, height: 191"
+frame1934.jpg,1,"name:rect,x: 142 ,y: 48,width: 166, height: 192"
+frame1935.jpg,1,"name:rect,x: 142 ,y: 47,width: 163, height: 193"
+frame1936.jpg,1,"name:rect,x: 142 ,y: 48,width: 157, height: 191"
+frame1937.jpg,1,"name:rect,x: 135 ,y: 50,width: 149, height: 190"
+frame1938.jpg,1,"name:rect,x: 138 ,y: 49,width: 138, height: 189"
+frame1939.jpg,1,"name:rect,x: 140 ,y: 49,width: 123, height: 192"
+frame1940.jpg,1,"name:rect,x: 134 ,y: 50,width: 121, height: 192"
+frame1941.jpg,1,"name:rect,x: 135 ,y: 47,width: 118, height: 193"
+frame1942.jpg,1,"name:rect,x: 133 ,y: 45,width: 117, height: 193"
+frame1943.jpg,1,"name:rect,x: 134 ,y: 46,width: 113, height: 192"
+frame1944.jpg,1,"name:rect,x: 136 ,y: 44,width: 111, height: 197"
+frame1945.jpg,1,"name:rect,x: 131 ,y: 48,width: 111, height: 193"
+frame1946.jpg,1,"name:rect,x: 129 ,y: 46,width: 98, height: 195"
+frame1947.jpg,1,"name:rect,x: 126 ,y: 42,width: 97, height: 196"
+frame1948.jpg,1,"name:rect,x: 123 ,y: 39,width: 92, height: 199"
+frame1949.jpg,1,"name:rect,x: 121 ,y: 39,width: 89, height: 174"
+frame1950.jpg,1,"name:rect,x: 114 ,y: 38,width: 94, height: 177"
+frame1951.jpg,1,"name:rect,x: 107 ,y: 39,width: 100, height: 176"
+frame1952.jpg,1,"name:rect,x: 103 ,y: 39,width: 102, height: 173"
+frame1953.jpg,1,"name:rect,x: 100 ,y: 38,width: 104, height: 177"
+frame1954.jpg,1,"name:rect,x: 96 ,y: 33,width: 112, height: 198"
+frame1955.jpg,1,"name:rect,x: 94 ,y: 36,width: 107, height: 174"
+frame1956.jpg,1,"name:rect,x: 91 ,y: 35,width: 107, height: 204"
+frame1957.jpg,1,"name:rect,x: 85 ,y: 36,width: 115, height: 169"
+frame1958.jpg,1,"name:rect,x: 77 ,y: 33,width: 121, height: 191"
+frame1959.jpg,1,"name:rect,x: 78 ,y: 33,width: 119, height: 187"
+frame1960.jpg,1,"name:rect,x: 77 ,y: 33,width: 119, height: 181"
+frame1961.jpg,1,"name:rect,x: 82 ,y: 35,width: 113, height: 166"
+frame1962.jpg,1,"name:rect,x: 76 ,y: 36,width: 117, height: 167"
+frame1963.jpg,1,"name:rect,x: 77 ,y: 37,width: 114, height: 165"
+frame1964.jpg,1,"name:rect,x: 77 ,y: 39,width: 111, height: 157"
+frame1965.jpg,1,"name:rect,x: 76 ,y: 40,width: 111, height: 156"
+frame1966.jpg,1,"name:rect,x: 77 ,y: 40,width: 107, height: 155"
+frame1967.jpg,1,"name:rect,x: 78 ,y: 42,width: 106, height: 153"
+frame1968.jpg,1,"name:rect,x: 77 ,y: 42,width: 105, height: 151"
+frame1969.jpg,1,"name:rect,x: 77 ,y: 44,width: 104, height: 150"
+frame1970.jpg,1,"name:rect,x: 77 ,y: 45,width: 104, height: 147"
+frame1971.jpg,1,"name:rect,x: 76 ,y: 44,width: 104, height: 149"
+frame1972.jpg,1,"name:rect,x: 77 ,y: 44,width: 100, height: 148"
+frame1973.jpg,1,"name:rect,x: 77 ,y: 43,width: 99, height: 150"
+frame1974.jpg,1,"name:rect,x: 77 ,y: 44,width: 99, height: 149"
+frame1975.jpg,1,"name:rect,x: 76 ,y: 44,width: 99, height: 149"
+frame1976.jpg,1,"name:rect,x: 77 ,y: 44,width: 97, height: 148"
+frame1977.jpg,1,"name:rect,x: 77 ,y: 44,width: 95, height: 148"
+frame1978.jpg,1,"name:rect,x: 78 ,y: 43,width: 93, height: 150"
+frame1979.jpg,1,"name:rect,x: 77 ,y: 43,width: 93, height: 150"
+frame1980.jpg,1,"name:rect,x: 78 ,y: 44,width: 90, height: 148"
+frame1981.jpg,1,"name:rect,x: 76 ,y: 44,width: 91, height: 149"
+frame1982.jpg,1,"name:rect,x: 75 ,y: 43,width: 90, height: 150"
+frame1983.jpg,1,"name:rect,x: 74 ,y: 45,width: 91, height: 148"
+frame1984.jpg,1,"name:rect,x: 71 ,y: 45,width: 93, height: 148"
+frame1985.jpg,1,"name:rect,x: 69 ,y: 45,width: 89, height: 149"
+frame1986.jpg,1,"name:rect,x: 68 ,y: 46,width: 89, height: 148"
+frame1987.jpg,1,"name:rect,x: 67 ,y: 49,width: 89, height: 144"
+frame1988.jpg,1,"name:rect,x: 66 ,y: 49,width: 89, height: 143"
+frame1989.jpg,1,"name:rect,x: 64 ,y: 50,width: 88, height: 142"
+frame1990.jpg,1,"name:rect,x: 66 ,y: 49,width: 82, height: 140"
+frame1991.jpg,1,"name:rect,x: 62 ,y: 50,width: 83, height: 138"
+frame1992.jpg,1,"name:rect,x: 59 ,y: 50,width: 85, height: 138"
+frame1993.jpg,1,"name:rect,x: 57 ,y: 51,width: 86, height: 136"
+frame1994.jpg,1,"name:rect,x: 56 ,y: 51,width: 85, height: 138"
+frame1995.jpg,1,"name:rect,x: 55 ,y: 50,width: 83, height: 141"
+frame1996.jpg,1,"name:rect,x: 52 ,y: 50,width: 84, height: 138"
+frame1997.jpg,1,"name:rect,x: 50 ,y: 50,width: 85, height: 140"
+frame1998.jpg,1,"name:rect,x: 49 ,y: 50,width: 84, height: 137"
+frame1999.jpg,1,"name:rect,x: 48 ,y: 50,width: 84, height: 137"
+frame2000.jpg,1,"name:rect,x: 48 ,y: 50,width: 83, height: 140"
+frame2001.jpg,1,"name:rect,x: 47 ,y: 50,width: 83, height: 139"
+frame2002.jpg,1,"name:rect,x: 46 ,y: 52,width: 83, height: 138"
+frame2003.jpg,1,"name:rect,x: 45 ,y: 52,width: 80, height: 139"
+frame2004.jpg,1,"name:rect,x: 45 ,y: 51,width: 79, height: 139"
+frame2005.jpg,1,"name:rect,x: 43 ,y: 53,width: 80, height: 136"
+frame2006.jpg,1,"name:rect,x: 42 ,y: 56,width: 78, height: 132"
+frame2007.jpg,1,"name:rect,x: 41 ,y: 55,width: 78, height: 133"
+frame2008.jpg,1,"name:rect,x: 40 ,y: 57,width: 76, height: 128"
+frame2009.jpg,1,"name:rect,x: 40 ,y: 58,width: 75, height: 129"
+frame2010.jpg,1,"name:rect,x: 39 ,y: 58,width: 75, height: 130"
+frame2011.jpg,1,"name:rect,x: 39 ,y: 58,width: 74, height: 129"
+frame2012.jpg,1,"name:rect,x: 40 ,y: 58,width: 69, height: 129"
+frame2013.jpg,1,"name:rect,x: 41 ,y: 58,width: 68, height: 129"
+frame2014.jpg,1,"name:rect,x: 40 ,y: 58,width: 68, height: 129"
+frame2015.jpg,1,"name:rect,x: 41 ,y: 56,width: 67, height: 131"
+frame2016.jpg,1,"name:rect,x: 41 ,y: 57,width: 65, height: 130"
+frame2017.jpg,1,"name:rect,x: 40 ,y: 56,width: 63, height: 131"
+frame2018.jpg,1,"name:rect,x: 41 ,y: 56,width: 60, height: 131"
+frame2019.jpg,1,"name:rect,x: 41 ,y: 57,width: 58, height: 128"
+frame2020.jpg,1,"name:rect,x: 36 ,y: 57,width: 61, height: 128"
+frame2021.jpg,1,"name:rect,x: 35 ,y: 59,width: 62, height: 125"
+frame2022.jpg,1,"name:rect,x: 36 ,y: 61,width: 61, height: 123"
+frame2023.jpg,1,"name:rect,x: 39 ,y: 59,width: 58, height: 126"
+frame2024.jpg,1,"name:rect,x: 38 ,y: 60,width: 58, height: 124"
+frame2025.jpg,1,"name:rect,x: 37 ,y: 61,width: 57, height: 124"
+frame2026.jpg,1,"name:rect,x: 40 ,y: 58,width: 49, height: 126"
+frame2027.jpg,1,"name:rect,x: 37 ,y: 60,width: 52, height: 124"
+frame2028.jpg,1,"name:rect,x: 35 ,y: 59,width: 48, height: 125"
+frame2029.jpg,1,"name:rect,x: 28 ,y: 61,width: 52, height: 124"
+frame2030.jpg,0,
+frame2031.jpg,0,
+frame2032.jpg,0,
+frame2033.jpg,0,
+frame2034.jpg,0,
+frame2035.jpg,0,
+frame2036.jpg,0,
+frame2037.jpg,0,
+frame2038.jpg,0,
+frame2039.jpg,0,
+frame2040.jpg,0,
+frame2041.jpg,0,
+frame2042.jpg,0,
+frame2043.jpg,0,
+frame2044.jpg,0,
+frame2045.jpg,0,
+frame2046.jpg,0,
+frame2047.jpg,0,
+frame2048.jpg,0,
+frame2049.jpg,0,
+frame2050.jpg,0,

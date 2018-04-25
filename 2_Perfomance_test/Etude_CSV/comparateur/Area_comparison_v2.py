@@ -99,14 +99,17 @@ def Cordonnes_extractor(enter_cordonnes):
 
 
 def Maximun_selector(valeurs_list):
+	maximun_index = 0
 	maximun = valeurs_list[0]
+	if len(valeurs_list) == 1:
+		return maximun ,valeurs_list
 	for i in range(0, len(valeurs_list)):
 		if maximun < valeurs_list[i]:
 			maximun = valeurs_list[i]
+			maximun_index = i
 	new_valeurs_list = []
 	for j in range(0, len(valeurs_list)):
-		
-		if valeurs_list[j] == maximun:
+		if j == maximun_index:
 			continue
 		new_valeurs_list.append(valeurs_list[j])  	
 	return maximun, new_valeurs_list
@@ -148,10 +151,15 @@ for i in range(0, len(cordones_GT)):
 	GT_cordonnes_traites.append(Cordonnes_extractor(cordones_GT[i]))
 GT_valeurs = np.column_stack((GT_frame_number, GT_cordonnes_traites))
 
-
+#Comparation
 input_objects_per_frame = []
 gt_objects_per_frame = []
 precision_final = []
+final_porcentage = 0
+objects_counter = 0
+l = 1
+
+#selecteur du frame correct (faire la selection du frame e prend les cordones des objects identifies sur cette frame)
 for i in range(1, Frame_Compter(Input_n_objects)):
 	for j in range(0, len(GT_valeurs)):
 		if GT_valeurs[j][0] == i:
@@ -159,32 +167,38 @@ for i in range(1, Frame_Compter(Input_n_objects)):
 	for k in range(0, len(Input_valeurs)):
 		if Input_valeurs[k][0] == i:
 			input_objects_per_frame.append(Input_valeurs[k][1])
-	
+	# Realise tout les comparison posibles entre les objects du frame
 	resultad = Precision(gt_objects_per_frame, input_objects_per_frame)
-	
+
+	#selectione les detections avec le plus grand valeur entre les comparisons des detections
 	for i in range(0,len(input_objects_per_frame)):
 		precision_final.append(Maximun_selector(resultad)[0])
-		print(resultad)
-		#resultad = Maximun_selector(resultad)[1]
+		resultad = Maximun_selector(resultad)[1]
+	# if there is a difference between the number of detections on the input and on the GT, add the zeros to the vector of comparisons
+	if len(input_objects_per_frame) != len(gt_objects_per_frame):
+		for i in range(0, abs(len(input_objects_per_frame) - len(gt_objects_per_frame))):
+			precision_final.append(0)
+	
+	print(l, precision_final)
 
-	#print(precision_final)
-	#print(precision_final)
+	#make the sum of all the comparisons 
+	for i in range(0, len(precision_final)):
+		final_porcentage = final_porcentage + precision_final[i]
+		objects_counter = objects_counter + 1
+
 	resultad = []
 	precision_final = []
 	gt_objects_per_frame = []
 	input_objects_per_frame = []
 
-	
+	l = l + 1
 
+print(final_porcentage/objects_counter)
 
 
 
 
 
-# test = [2, 5, 8, 25, 1, 0]
-# print(Maximun_selector(test))
-# test = Maximun_selector(test)[1]
-# print(test)
 
 
 
@@ -214,409 +228,6 @@ for i in range(1, Frame_Compter(Input_n_objects)):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# splited_Input_cordonnes = cordones_Input.str.split(',', expand = True)
-# splited_GT_cordonnes = cordones_GT.str.split(',', expand = True)
-
-# input_temp_cordonnes = []
-# gt_temp_cordonnes = []
-# precision_porcentage = []
-# objects_input = []
-# objects_gt = []
-
-# Xin = []
-# Yin = []
-# Win = []
-# Hin = []
-
-# Xgt = []
-# Ygt = []
-# Wgt = []
-# Hgt = []
-
-
-
-
-
-# # print(splited_GT_cordonnes[1][i] + splited_GT_cordonnes[2][i] + splited_GT_cordonnes[3][i] + splited_GT_cordonnes[4][i])
-# # print(splited_Input_cordonnes[1][j] + splited_Input_cordonnes[2][j] + splited_Input_cordonnes[3][j] + splited_Input_cordonnes[4][j])
-# i = 0
-# k = 0
-# l = 0
-# reading = True
-# while reading == True:
-
-# 	if Input_n_objects[i] == 0:
-# 		i = i + 1
-# 		Xin.append(None)
-# 		Yin.append(None)
-# 		Win.append(None)
-# 		Hin.append(None)
-# 		continue
-# 	else:
-
-# 		for k in range(0, Input_n_objects[i]):
-# 			input_temp_cordonnes.append(splited_Input_cordonnes[1][i])
-# 			input_temp_cordonnes.append(splited_Input_cordonnes[2][i])
-# 			input_temp_cordonnes.append(splited_Input_cordonnes[3][i])
-# 			input_temp_cordonnes.append(splited_Input_cordonnes[4][i])
-
-# 		for l in range(0, Input_n_objects[i]):
-# 			cord_valor = input_temp_cordonnes[0+(4*l)].split(':')
-# 			Xin.append(cord_valor[1])
-# 			cord_valor = input_temp_cordonnes[1+(4*l)].split(':')
-# 			Yin.append(cord_valor[1])
-# 			cord_valor = input_temp_cordonnes[2+(4*l)].split(':')
-# 			Win.append(cord_valor[1])
-# 			cord_valor = input_temp_cordonnes[3+(4*l)].split(':')
-# 			Hin.append(cord_valor[1].replace("}", " "))
-
-# 		i = i + Input_n_objects[i]
-# 		if i == len(Input_n_objects):
-#  			reading = False
-#  			continue
-
-# 	input_temp_cordonnes = []
-
-
-# j = 0
-# k = 0
-# l = 0
-# reading = True
-# while reading == True:
-
-# 	if GT_n_objects[j] == 0:
-# 		j = j + 1
-# 		Xgt.append(None)
-# 		Ygt.append(None)
-# 		Wgt.append(None)
-# 		Hgt.append(None)
-# 		continue
-# 	else:
-
-# 		for m in range(0, GT_n_objects[j]):
-# 			gt_temp_cordonnes.append(splited_GT_cordonnes[1][j])
-# 			gt_temp_cordonnes.append(splited_GT_cordonnes[2][j])
-# 			gt_temp_cordonnes.append(splited_GT_cordonnes[3][j])
-# 			gt_temp_cordonnes.append(splited_GT_cordonnes[4][j])
-
-# 		print(gt_temp_cordonnes)
-# 		for n in range(0, GT_n_objects[j]):
-# 			cord_valor = gt_temp_cordonnes[0+(4*n)].split(':')
-# 			Xgt.append(cord_valor[1])
-# 			cord_valor = gt_temp_cordonnes[1+(4*n)].split(':')
-# 			Ygt.append(cord_valor[1])
-# 			cord_valor = gt_temp_cordonnes[2+(4*n)].split(':')
-# 			Wgt.append(cord_valor[1])
-# 			cord_valor = gt_temp_cordonnes[3+(4*n)].split(':')
-# 			Hgt.append(cord_valor[1].replace("}", " "))
-
-# 		j = j + GT_n_objects[j]
-# 		if j == len(GT_n_objects):
-#  			reading = False
-#  			continue
-
-# 	gt_temp_cordonnes = []
-
-
-
-# #fazer arquivo de saida com os dados brutos
-# #usar o nome (numero dos frames) para calcular a precisao
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# while reading == True:
-# 	if Input_n_objects[i] == GT_n_objects[j]:
-# 		if Input_n_objects[i] == 0:# case 1: Input and GT number of objects equals to zero. 
-# 			i = i + 1
-# 			j = j + 1
-# 			Xin.append(None)
-# 			Yin.append(None)
-# 			Win.append(None)
-# 			Hin.append(None)
-
-# 			Xgt.append(None)
-# 			Ygt.append(None)
-# 			Wgt.append(None)
-# 			Hgt.append(None)
-# 			continue
-# 		else:#case 2: Input and GT same number of objects, but not equal to zero.
-# 			k=0
-# 			for k in range(0, Input_n_objects[i]):
-# 				input_temp_cordonnes.append(splited_Input_cordonnes[1][i])
-# 				input_temp_cordonnes.append(splited_Input_cordonnes[2][i])
-# 				input_temp_cordonnes.append(splited_Input_cordonnes[3][i])
-# 				input_temp_cordonnes.append(splited_Input_cordonnes[4][i])
-			
-# 			for l in range(0, Input_n_objects[i]):
-# 				cord_valor = input_temp_cordonnes[0+(4*l)].split(':')
-# 				Xin.append(cord_valor[1])
-# 				cord_valor = input_temp_cordonnes[1+(4*l)].split(':')
-# 				Yin.append(cord_valor[1])
-# 				cord_valor = input_temp_cordonnes[2+(4*l)].split(':')
-# 				Win.append(cord_valor[1])
-# 				cord_valor = input_temp_cordonnes[3+(4*l)].split(':')
-# 				Hin.append(cord_valor[1].replace("}", " "))
-
-# 				i = i + Input_n_objects[i]
-# 				if i == len(Input_n_objects):
-# 					reading = False
-# 					continue
-# 			print()
-			
-			
-# 			k=0
-# 			for k in range(0, GT_n_objects[j]):
-# 				gt_temp_cordonnes.append(splited_GT_cordonnes[1][j])
-# 				gt_temp_cordonnes.append(splited_GT_cordonnes[2][j])
-# 				gt_temp_cordonnes.append(splited_GT_cordonnes[3][j])
-# 				gt_temp_cordonnes.append(splited_GT_cordonnes[4][j])
-				
-# 			for m in range(0, GT_n_objects[j]):
-# 				cord_valor = gt_temp_cordonnes[0+4*m].split(':')
-# 				Xgt.append(cord_valor[1])
-# 				cord_valor = gt_temp_cordonnes[1+4*m].split(':')
-# 				Ygt.append(cord_valor[1])
-# 				cord_valor = gt_temp_cordonnes[2+4*m].split(':')
-# 				Wgt.append(cord_valor[1])
-# 				cord_valor = gt_temp_cordonnes[3+4*m].split(':')
-# 				Hgt.append(cord_valor[1].replace("}", " "))
-
-# 				j = j + GT_n_objects[j]
-# 				if j == len(GT_n_objects):
-# 					reading = False
-# 					continue
-
-
-	
-# 	else:#case 3: Input and GT diffe(rents numbers of objects
-
-# 		i = i + 1
-# 		j = j + 1
-# 		print("ERRO")
-
-# 	input_temp_cordonnes = []
-# 	gt_temp_cordonnes = []
-
-
-# while True:
-
-
-
-
-
-
-
-
-
-# 	if Input_n_objects[i] == GT_n_objects[j]:
-
-# 		if Input_n_objects[i] == 0:
-# 			i = i + 1
-# 			j = j + 1
-# 			continue
-# 		else:
-# 			k=0
-# 			for k in range(0, Input_n_objects[i]):
-# 				input_temp_cordonnes.append(splited_Input_cordonnes[1][j])
-# 				input_temp_cordonnes.append(splited_Input_cordonnes[2][j])
-# 				input_temp_cordonnes.append(splited_Input_cordonnes[3][j])
-# 				input_temp_cordonnes.append(splited_Input_cordonnes[4][j])
-# 				i = i + 1
-			
-# 			k=0
-# 			for k in range(0, GT_n_objects[j]):
-# 				gt_temp_cordonnes.append(splited_GT_cordonnes[1][i])
-# 				gt_temp_cordonnes.append(splited_GT_cordonnes[2][i])
-# 				gt_temp_cordonnes.append(splited_GT_cordonnes[3][i])
-# 				gt_temp_cordonnes.append(splited_GT_cordonnes[4][i])
-# 				j = j + 1
-			
-# 			cord_valor = input_temp_cordonnes[0].split(':')
-# 			Xin = cord_valor[1]
-# 			cord_valor = input_temp_cordonnes[1].split(':')
-# 			Yin = cord_valor[1]
-# 			cord_valor = input_temp_cordonnes[2].split(':')
-# 			Win = cord_valor[1]
-# 			cord_valor = input_temp_cordonnes[3].split(':')
-# 			Hin = cord_valor[1].replace("}", " ")
-# 			#print(Xin, Yin, Win, Hin)
-
-# 			cord_valor = gt_temp_cordonnes[0].split(':')
-# 			Xgt = cord_valor[1]
-# 			cord_valor = gt_temp_cordonnes[1].split(':')
-# 			Ygt = cord_valor[1]
-# 			cord_valor = gt_temp_cordonnes[2].split(':')
-# 			Wgt = cord_valor[1]
-# 			cord_valor = gt_temp_cordonnes[3].split(':')
-# 			Hgt = cord_valor[1].replace("}", " ")
-
-
-# 			#print(Xin, Yin, Win,Hin)
-
-
-# 			# print(int(Xin)+int(Yin)+int(Win)+int(Hin))
-# 			# print(int(Xgt)+int(Ygt)+int(Wgt)+int(Hgt))
-
-			
-
-# 			rectA = Rectangle(int(Xin), int(Yin), int(Win), int(Hin))
-# 			rectB = Rectangle(int(Xgt), int(Ygt), int(Wgt), int(Hgt))
-
-# 			# print("Area rect A:  ", Area(rectA))
-# 			# print("Area rect B:  ", Area(rectB))
-# 			# print("Intersection rect A and B:  ", IntersecArea(rectA, rectB))
-# 			# print("Union rect A and B:  ", UnionAreas(rectA, rectB))
-
-# 			# print("Precision between rect A and B:  ", Precision(rectA, rectB), "%")
-
-# 			precision_porcentage.append(Precision(rectA, rectB))
-
-
-
-
-
-
-# 		i = i + Input_n_objects[i]
-# 		j = j + GT_n_objects[j]
-
-# 	else:
-# 		i = i + 1
-# 		j = j + 1
-
-
-
-	# for i in range(0, len(region_shape_column)):
-	# 	if n_objects[i] == 0:
-	# 		continue
-	# 	j = 1
-	# 	cord_valor = cords[j][i].split(':')
-	# 	Xin = cord_valor[1]
-	# 	j = j + 1
-	# 	cord_valor = cords[j][i].split(':')
-	# 	Yin = cord_valor[1]
-	# 	j = j + 1
-	# 	cord_valor = cords[j][i].split(':')
-	# 	Win = cord_valor[1]
-	# 	j = j + 1
-	# 	cord_valor = cords[j][i].split(':')
-	# 	Hin = cord_valor[1]
-	# 	j = j + 1
-
-
-#cord_valor = cords[1][0].split(':')
-
-
-
-
-
-# print(read[1])
-# #print(len(read))
-# #print(cords[1][0])
-#print(Xin, " ", Yin, " ", Win, " ", Hin)
-
-
-
-#####################################################################################################
-############################## Precision porcentage calculation #####################################
-#####################################################################################################
-
-# def Area(rect):
-# 	a, b, c, d = rect
-# 	altura = int(d) - int(b)
-# 	largura = int(c) - int(a)
-# 	return altura * largura
-
-# def IntersecArea(a, b):  # returns None if rectangles don't intersect
-# 	dx = int(min(a.xmax, b.xmax)) - int(max(a.xmin, b.xmin))
-# 	dy = int(min(a.ymax, b.ymax)) - int(max(a.ymin, b.ymin))
-# 	if (dx>=0) and (dy>=0):
-# 		return int(dx*dy)
-
-# def UnionAreas(rect1, rect2):
-# 	somareas = Area(rect1) + Area(rect2)
-# 	return somareas - IntersecArea(rect1, rect2)
-
-# def Precision(rect1, rect2):
-# 	return (IntersecArea(rect1, rect2)/UnionAreas(rect1, rect2))*100
-
-# Rectangle = namedtuple('Rectangle', 'xmin ymin xmax ymax')
-
-# Xin = 0
-# Yin = 0
-# Win = 50
-# Hin = 50
-
-# Xgt = 1
-# Ygt = 1
-# Wgt = 3
-# Hgt = 3
-
-# rectA = Rectangle(Xin, Yin, Win, Hin)
-# rectB = Rectangle(Xgt, Ygt, Wgt, Hgt)
-
-# print("Area rect A:  ", Area(rectA))
-# print("Area rect A:  ", Area(rectB))
-# print("Intersection rect A and B:  ", IntersecArea(rectA, rectB))
-# print("Union rect A and B:  ", UnionAreas(rectA, rectB))
-# print("Precision between rect A and B:  ", Precision(rectA, rectB), "%")
 
 
 
