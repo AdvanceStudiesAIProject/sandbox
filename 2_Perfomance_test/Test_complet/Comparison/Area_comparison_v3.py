@@ -119,7 +119,7 @@ def Maximun_selector(valeurs_list):
 
 vs = cv2.VideoCapture("./in00%4d.jpg")
 
-Inputfile = r'Input_Cordonnes.csv'
+Inputfile = r'Input_Cordonnes_FPS.csv'
 GTfile = r'GT_cordonnes.csv'
 Input = pd.read_csv(Inputfile)
 GT = pd.read_csv(GTfile)
@@ -161,7 +161,7 @@ precision_final = []
 final_porcentage = 0
 objects_counter = 0
 l = 1
-
+CSV_precision = []
 #selecteur du frame correct (faire la selection du frame e prend les cordones des objects identifies sur cette frame)
 for i in range(1, Frame_Compter(Input_n_objects)):
 	for j in range(0, len(GT_valeurs)):
@@ -190,7 +190,9 @@ for i in range(1, Frame_Compter(Input_n_objects)):
 
 			precision_final.append(0)
 	
-	print(l, precision_final)
+	#print(l, precision_final)
+
+	CSV_precision.append(precision_final)
 
 	#make the sum of all the comparisons 
 	for i in range(0, len(precision_final)):
@@ -218,7 +220,9 @@ for i in range(1, Frame_Compter(Input_n_objects)):
 	cv2.imshow("Frame", frame)
 
 
-	input("Press Enter to continue...")
+
+
+	#input("Press Enter to continue...")
 
 
 	resultad = []
@@ -235,7 +239,36 @@ for i in range(1, Frame_Compter(Input_n_objects)):
 	if key == ord("q"):
 		break
 
+CSV_precision_list = []
+#print(CSV_precision)
+for i in range(0, len(CSV_precision)):
+	for j in range(0, len(CSV_precision[i])):
+		CSV_precision_list.append(CSV_precision[i][j])
 
+#print(CSV_precision_list[2005])
+
+#print(len(CSV_precision_list))
+
+i = 0
+with open('Input_Cordonnes_FPS.csv','r') as csvinput:
+    with open('Resultad_comparison.csv', 'w') as csvoutput:
+        writer = csv.writer(csvoutput, lineterminator='\n')
+        reader = csv.reader(csvinput)
+
+        all = []
+        row = next(reader)
+        row.append('Precision (%)')
+        row.append('Mean Precision (%)')
+        all.append(row)
+
+        for row in reader:
+            row.append(CSV_precision_list[i-1])
+            row.append(final_porcentage/objects_counter)
+            all.append(row)
+            i = i + 1
+            
+
+        writer.writerows(all)
 
 
 print(final_porcentage/objects_counter)
