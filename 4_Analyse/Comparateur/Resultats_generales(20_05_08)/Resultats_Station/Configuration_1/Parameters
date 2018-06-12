@@ -1,0 +1,9 @@
+signal, frame = vs.read() 
+blob = cv2.dnn.blobFromImage(frame,	0.007843, (300, 300), (104, 117, 123)) 
+
+- No rotation
+- No Resize
+- No Crop
+- With Blob
+- Colored
+- No swap R for B

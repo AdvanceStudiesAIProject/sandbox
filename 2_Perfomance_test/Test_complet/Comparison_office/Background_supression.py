@@ -63,7 +63,7 @@ net = cv2.dnn.readNetFromCaffe(args["prototxt"], args["model"])
 vs = cv2.VideoCapture("./in00%04d.jpg")
 
 fgbg = cv2.createBackgroundSubtractorMOG2()
-fgbg.setBackgroundRatio(0.01)
+fgbg.setBackgroundRatio(1)
 #fgbg = cv2.bgsegm.createBackgroundSubtractorMOG()
 
 
@@ -77,6 +77,11 @@ while(1):
 	thresh = cv2.erode(thresh,None,iterations = 1)
 	thresh = cv2.dilate(thresh, None, iterations=1)
 	(test, contour, _) = cv2.findContours(thresh.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+	
+	
+	cv2.imshow("background supression",fgmask)
+	input("top")
+
 	for c in contour:
 		if cv2.contourArea(c) > 700:
 			(x, y, w, h) = cv2.boundingRect(c)
@@ -135,7 +140,7 @@ while(1):
 					y = startY - 15 if startY - 15 > 15 else startY + 15
 					cv2.putText(frame, label, (startX, y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, COLORS[idx], 2)
 					cv2.imshow("final", frame)
-
+	
 	else:
 		cv2.destroyAllWindows()
 	#input("Press enter to continue")

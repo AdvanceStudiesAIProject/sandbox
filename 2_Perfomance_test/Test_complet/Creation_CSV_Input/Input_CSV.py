@@ -155,7 +155,7 @@ while True:
 			
 
 				
-				#with open(csvfile, "a") as fp: #grava os novos dados no mesmo arquivo, mantendo os dados gravados anteriormente. graças ao "a"
+				# with open(csvfile, "a") as fp: #grava os novos dados no mesmo arquivo, mantendo os dados gravados anteriormente. graças ao "a"
 				# with open(csvfile, "a") as fp:
 				# 	wr = csv.writer(fp, dialect='excel')
 				# 	wr.writerow(cordinates)
