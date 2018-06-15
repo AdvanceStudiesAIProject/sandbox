@@ -20,6 +20,7 @@ from pandas import ExcelFile
 from collections import namedtuple
 import itertools, sys
 
+
 #----------------------------------------------------------------------
 def str2bool(v):
     if v.lower() in ('yes', 'true', 't', 'y', '1'):
@@ -38,10 +39,6 @@ def csv_writer(data, path):
         writer = csv.writer(csv_file, delimiter=',')
         for line in data:
             writer.writerow(line)
-
-#Function for count the nu,ber of files in the folder
-def filecount(dir_name):
-	return len([f for f in os.listdir(dir_name) if os.path.isfile(f)])
 
 #Definition of the rectangles
 Rectangle = namedtuple('Rectangle', 'xmin ymin xmax ymax')
@@ -66,39 +63,6 @@ def Create_row_for_CSV(row_name, frame_name, object_number, cordinates,
 	return row_name
 
 
-def Cut_selector(input_frame, found_contours):
-	(hlimit, wlimit) = frame.shape[:2]
-
-	for c in found_contours:
-		if cv2.contourArea(c) > 700:
-			(x, y, w, h) = cv2.boundingRect(c)
-			rects = Rectangle(x, y, w, h)
-			squares.append(rects)
-
-	xfinal = wlimit
-	yfinal = hlimit
-	wfinal = 0
-	hfinal = 0									
-
-	for i in range(0, len(squares)):
-		x, y, w, h = squares[i]
-		w = w + x
-		h = h + y
-
-		# print(x, y, w, h)
-		if xfinal > x:
-			xfinal = x
-		if yfinal > y:
-			yfinal = y
-		if wfinal < w:
-			wfinal = w
-		if hfinal < h:
-			hfinal = h
-	
-	useful_image = frame[yfinal:hfinal, xfinal:wfinal]
-	return useful_image, xfinal, yfinal, squares
-
-
 
 #----------------------------------------------------------------------
 #Initialization of variables
@@ -121,8 +85,6 @@ ap.add_argument("-d", "--data", required=True,
 	help="path to data")
 args = vars(ap.parse_args())
  
-
-
 # initialize the list of class labels MobileNet SSD was trained to
 # detect, then generate a set of bounding box colors for each class
 CLASSES = ["background", "aeroplane", "bicycle", "bird", "boat",
@@ -147,12 +109,6 @@ else:
 	vs = cv2.VideoCapture(args["data"] + "in00%04d.jpg")
 #Defines the Dataset for reading
 # vs = cv2.VideoCapture("./in00%04d.jpg")
-
-
-#Number of files on the folder
-n = filecount("./../Datasets_Test/Office")
-
-n = n / 100
 
 #Create the menu of the CSV file
 menu = []
@@ -205,9 +161,6 @@ while (1):
 		frame_number = frame_number + 1
 
 		#cv2.imshow("Frame", frame)# show the output frame
-		
-		sys.stdout.write("Progress: %d%%   \r" % (frame_number/n) )
-		sys.stdout.flush()
 		continue
 	
 	for i in np.arange(0, detections.shape[2]):

@@ -13,32 +13,27 @@ from keras.layers import Dense, Dropout, Activation, Flatten
 from keras.layers import Conv2D, MaxPooling2D
 import os
 
-batch_size = 32 #the number of training examples in one forward/backward pass. The higher the batch size, the more memory space you’ll need
-                #32 examples in a mini-batch, smaller batch size means more updates in one epoch
-num_classes = 10 # number of cifar-10 data set classes
-epochs = 100 # repeat 100 times
+batch_size = 32
+num_classes = 10
+epochs = 100
 data_augmentation = True
 num_predictions = 20
 save_dir = os.path.join(os.getcwd(), 'saved_models')
 model_name = 'keras_cifar10_trained_model.h5'
 
-# The data, split between train and test sets: _train and _test
-(x_train, y_train), (x_test, y_test) = cifar10.load_data() # x_train => training data(images), y_train => labels(digits)
-
+# The data, split between train and test sets:
+(x_train, y_train), (x_test, y_test) = cifar10.load_data()
 print('x_train shape:', x_train.shape)
 print(x_train.shape[0], 'train samples')
 print(x_test.shape[0], 'test samples')
 
 # Convert class vectors to binary class matrices.
-y_train = keras.utils.to_categorical(y_train, num_classes)#Realize the encoding of the input images (in that case 500000 images 32x32x3(RGB) splited on 10 classes
-                                                          #for train, a,d the same for testing) into a binary class matrix
-y_test = keras.utils.to_categorical(y_test, num_classes)  #for further explanaition: https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
+y_train = keras.utils.to_categorical(y_train, num_classes)
+y_test = keras.utils.to_categorical(y_test, num_classes)
 
-model = Sequential() # Charge the model, The Sequential model is a linear stack of layers
-                     # for further information: https://faroit.github.io/keras-docs/1.0.0/getting-started/sequential-model-guide/
-model.add(Conv2D(32, (3, 3), padding='same', #pass an input_shape argument to the first layer. This is a shape tuple (a tuple of integers or None entries, where None 
-                 input_shape=x_train.shape[1:])) #indicates that any positive integer may be expected). In input_shape, the batch dimension is not included
-
+model = Sequential()
+model.add(Conv2D(32, (3, 3), padding='same',
+                 input_shape=x_train.shape[1:]))
 model.add(Activation('relu'))
 model.add(Conv2D(32, (3, 3)))
 model.add(Activation('relu'))

@@ -1,129 +1,17 @@
 from collections import namedtuple
 import csv
 import math
-import numpy as np
 from pandas import DataFrame, read_csv
-import re
 import pandas as pd 
 from pandas import ExcelWriter
 from pandas import ExcelFile
 import cv2
-import imutils
 import time
 import argparse
+import Precision_module as PM
+import Data_Processing as DP
+
 Rectangle = namedtuple('Rectangle', 'xmin ymin xmax ymax')
-
-def Area(rect):
-	if rect == None:
-		return 0
-	else:
-		a, b, c, d = rect
-		return c * d
-
-def IntersecArea(recta, rectb):  # returns None if rectangles don't intersect  (enter the cornones of initial point and the height ang width)
-	if recta == None:
-		return 0
-	elif rectb == None:
-		return 0
-	else:
-		xa, ya, wa, ha = recta
-		a = Rectangle(xa, ya, xa+wa, ya+ha)
-		xb, yb, wb, hb = rectb
-		b = Rectangle(xb, yb, xb+wb, yb+hb)
-		dx = int(min(a.xmax, b.xmax)) - int(max(a.xmin, b.xmin))
-		dy = int(min(a.ymax, b.ymax)) - int(max(a.ymin, b.ymin))
-		if (dx>=0) and (dy>=0):
-			return int(dx*dy)
-		else:
-			return 0
-
-def UnionAreas(rect1, rect2):
-	intersection = IntersecArea(rect1, rect2)
-	if intersection == None:
-		return Area(rect1) + Area(rect2)
-	elif intersection == 0:
-		return Area(rect1) + Area(rect2)
-	else:	
-		somareas = Area(rect1) + Area(rect2)
-		return somareas - intersection
-
-def Precision(rect_input, rect_GT):
-	#Aways respct the orther of input on the function
-	porcetages = []
-	for i in range(0, len(rect_input)):
-		for j in range(0, len(rect_GT)):
-			if UnionAreas(rect_input[i], rect_GT[j]) == 0:
-				return [100] #case where there is no detectin in both, Input and GT
-			porcetages.append((IntersecArea(rect_input[i], rect_GT[j])/UnionAreas(rect_input[i], rect_GT[j]))*100)
-	return porcetages
-
-def Frame_Compter(Number_of_objects_column):
-	number_of_frames = 0
-	frame_conter = True
-	l = 0
-	while frame_conter == True:
-		if l == len(Number_of_objects_column):
-			frame_conter = False
-
-		elif int(Number_of_objects_column[l]) > 1:
-			number_of_frames = number_of_frames + 1
-			l = l + int(Number_of_objects_column[l])	
-		else:
-			number_of_frames = number_of_frames + 1
-			l = l + 1	 
-	return number_of_frames
-
-def Frame_Number_Reader(enter_lecture):
-	lecture = enter_lecture.split('.')
-	match = re.match(r"([a-z]+)([0-9]+)", lecture[0], re.I)
-	if match:
-	 	items = match.groups()
-	return int(items[1])
-
-def Cordonnes_extractor(enter_cordonnes):
-	if isinstance(enter_cordonnes, float):
-		return None
-	elif enter_cordonnes == "{}":
-		return None
-
-	else:
-		splited = enter_cordonnes.split(',')
-		cord_valor = splited[1].split(':')
-		X = cord_valor[1]
-		cord_valor = splited[2].split(':')
-		Y = cord_valor[1]
-		cord_valor = splited[3].split(':')
-		W = cord_valor[1]
-		cord_valor = splited[4].split(':')
-		H = cord_valor[1].replace("}", " ")
-		rect = Rectangle(int(X), int(Y), int(W), int(H))
-		return rect
-
-def Maximun_selector(valeurs_list):
-	maximun_index = 0
-	maximun = valeurs_list[0]
-	if len(valeurs_list) == 1:
-		return maximun ,valeurs_list
-	for i in range(0, len(valeurs_list)):
-		if maximun < valeurs_list[i]:
-			maximun = valeurs_list[i]
-			maximun_index = i
-	new_valeurs_list = []
-	for j in range(0, len(valeurs_list)):
-		if j == maximun_index:
-			continue
-		new_valeurs_list.append(valeurs_list[j])  	
-	return maximun, new_valeurs_list
-
-def Data_treatment(frame_number, cordinates):
-	Input_frame_number = []
-	for i in range(0, len(frame_number)):
-		Input_frame_number.append(Frame_Number_Reader(frame_number[i]))
-	Input_cordonnes_traites = []
-	for i in range(0, len(cordinates)):
-		Input_cordonnes_traites.append(Cordonnes_extractor(cordinates[i]))
-	Input_valeurs = np.column_stack((Input_frame_number, Input_cordonnes_traites))
-	return Input_valeurs
 
 def Show_comparison(input_objects_per_frame, gt_objects_per_frame):
 	signal, frame = vs.read()
@@ -141,15 +29,12 @@ def Show_comparison(input_objects_per_frame, gt_objects_per_frame):
 			cv2.putText(frame, "GT", (x, Ylabel),cv2.FONT_HERSHEY_SIMPLEX, 0.5, 255, 2)
 	return frame
 
-
-
 def write_CSV(input_to_write, csv_file):
 	with open(csv_file, "a") as fp:
 		wr = csv.writer(fp, dialect='excel')
 		wr.writerow(input_to_write)
 		input_to_write = []
 	return input_to_write 
-
 
 #Atribuition des arguments d'entrée
 ap = argparse.ArgumentParser()
@@ -160,7 +45,6 @@ ap.add_argument("-g", "--groundtruth", required=True,
 ap.add_argument("-i", "--input", required=True,
 	help="path to input")
 args = vars(ap.parse_args())
-
 
 #Verification to correct the name of the images on dataset, (must put all the dataset with the same nomenclature)
 a = "../Datasets_Test/Corridor/"
@@ -185,9 +69,8 @@ cordones_GT = GT['region_shape_attributes']
 
 #Input tratment, associates the frame number and the cordinates to simplify the calculations.
 
-Input_valeurs = Data_treatment(Input_frame_name, cordones_Input)
-GT_valeurs = Data_treatment(GT_frame_name, cordones_GT)
-
+Input_valeurs = DP.Data_treatment(Input_frame_name, cordones_Input)
+GT_valeurs = DP.Data_treatment(GT_frame_name, cordones_GT)
 
 #Comparation
 input_objects_per_frame = [None]
@@ -205,9 +88,8 @@ FP_list = []
 FN_list = []
 TP_val = 0
 
-
 # makes sure to take the grounstruth correspondent to the detection 
-for i in range(0, Frame_Compter(Input_n_objects)):
+for i in range(0, DP.Frame_Compter(Input_n_objects)):
 	# Will create a list with all the objects on the frame
 	for j in range(0, len(GT_valeurs)):
 		if GT_valeurs[j][0] == i:
@@ -217,9 +99,7 @@ for i in range(0, Frame_Compter(Input_n_objects)):
 			input_objects_per_frame.append(Input_valeurs[k][1])
 
 	#Make all possible matchs between the detection and the groundtruth 
-	# print(input_objects_per_frame)
-	# print(gt_objects_per_frame)
-	resultad = Precision(input_objects_per_frame, gt_objects_per_frame)
+	resultad = PM.Precision(input_objects_per_frame, gt_objects_per_frame)
 
 	#Takes the detections with best precision
 	if input_objects_per_frame[0] == None:
@@ -233,12 +113,12 @@ for i in range(0, Frame_Compter(Input_n_objects)):
 
 	if input_objects_per_frame_number >= gt_objects_per_frame_number:
 		for i in range(0,gt_objects_per_frame_number):
-			precision_final.append(Maximun_selector(resultad)[0])
-			resultad = Maximun_selector(resultad)[1]
+			precision_final.append(DP.Maximun_selector(resultad)[0])
+			resultad = DP.Maximun_selector(resultad)[1]
 	elif input_objects_per_frame_number < gt_objects_per_frame_number:
 		for i in range(0,input_objects_per_frame_number):
-			precision_final.append(Maximun_selector(resultad)[0])
-			resultad = Maximun_selector(resultad)[1]
+			precision_final.append(DP.Maximun_selector(resultad)[0])
+			resultad = DP.Maximun_selector(resultad)[1]
 
 	if input_objects_per_frame_number != gt_objects_per_frame_number:
 		for i in range(0, abs(input_objects_per_frame_number - gt_objects_per_frame_number)):
@@ -282,45 +162,31 @@ for i in range(0, Frame_Compter(Input_n_objects)):
 	FN_list.append(number_of_gt_detections - TP_val)
 	TP_val = 0
 
-	#realize the calcule but, multiple times, if there is more then 1 object (to fill the CSV file in the correct way (with multiple lines in case of multiple objects))
-	
-
 	# if there is a difference between the number of detections on the input and on the GT, add the zeros to the vector of comparisons
-
-
 	if gt_objects_per_frame[0] == None:
 			gt_objects_per_frame_number = 0
 	else:
 		gt_objects_per_frame_number = len(gt_objects_per_frame)
 	
-	# print(TP_list)
-	# #print(FP)
-	# #print(FN)
-	# input("TOP")
 	CSV_precision.append(precision_final)
-
+	
 	#make the sum of all the comparisons 
-
 	for i in range(0, len(precision_final)):
 		final_porcentage = final_porcentage + precision_final[i]
 		objects_counter = objects_counter + 1
 
 	#Show the detections on the respective frame to compare thes results
 	cv2.imshow("Frame", Show_comparison(input_objects_per_frame, gt_objects_per_frame))
-	#input("Press Enter to continue...")
-
 
 	resultad = []
 	precision_final = []
 	gt_objects_per_frame = []
 	input_objects_per_frame = []
 
-
 	key = cv2.waitKey(1) & 0xFF
 	# if the "q" key was pressed, break from the loop
 	if key == ord("q"):
 		break
-	#input("Press Enter to continue...")
 
 CSV_precision_list = []
 #print(CSV_precision)
@@ -339,11 +205,9 @@ for i in range(0, len(FP_list)):
 for i in range(0, len(FN_list)):
 	FN_total = FN_total + FN_list[i]
 
-TP_mean = TP_total / Frame_Compter(Input_n_objects)
-FP_mean = FP_total / Frame_Compter(Input_n_objects)
-FN_mean = FN_total / Frame_Compter(Input_n_objects)
-
-
+TP_mean = TP_total / DP.Frame_Compter(Input_n_objects)
+FP_mean = FP_total / DP.Frame_Compter(Input_n_objects)
+FN_mean = FN_total / DP.Frame_Compter(Input_n_objects)
 
 i = 0
 
@@ -375,10 +239,8 @@ with open(args["input"],'r') as csvinput:
             row.append(FN_total)
             all.append(row)
             i = i + 1
-            
 
         writer.writerows(all)
-
 
 print(final_porcentage/objects_counter)
 
