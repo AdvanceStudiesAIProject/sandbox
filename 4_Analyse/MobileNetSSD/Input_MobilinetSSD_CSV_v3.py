@@ -62,8 +62,6 @@ def Create_row_for_CSV(row_name, frame_name, object_number, cordinates,
 	row_name.append(accumulated_elapsed_time)
 	return row_name
 
-
-
 #----------------------------------------------------------------------
 #Initialization of variables
 accumulated_elapsed_time = 0
@@ -107,8 +105,6 @@ if a == b:
 	vs = cv2.VideoCapture(args["data"] + "frame%d.jpg")
 else:
 	vs = cv2.VideoCapture(args["data"] + "in00%04d.jpg")
-#Defines the Dataset for reading
-# vs = cv2.VideoCapture("./in00%04d.jpg")
 
 #Create the menu of the CSV file
 menu = []
@@ -139,7 +135,9 @@ while (1):
 	#DETECTION--------------------------------------------------------------------------------
 	
 	(h, w) = frame.shape[:2]
-	blob = cv2.dnn.blobFromImage(frame,	0.007843, (320, 240), (104, 117, 123)) 
+	
+	resized =  cv2.resize(frame, (300,300))
+	blob = cv2.dnn.blobFromImage(resized,	0.007843, (300, 300), (104, 117, 123)) 
 	net.setInput(blob)
 	detections = net.forward()
 	detection_time = time.time() - start_time

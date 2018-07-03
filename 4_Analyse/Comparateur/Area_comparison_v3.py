@@ -44,6 +44,8 @@ ap.add_argument("-g", "--groundtruth", required=True,
 	help="path to groundtruth")
 ap.add_argument("-i", "--input", required=True,
 	help="path to input")
+ap.add_argument("-c", "--confidence", type=float, default=0.5,
+	help="minimum probability to filter weak detections")
 args = vars(ap.parse_args())
 
 #Verification to correct the name of the images on dataset, (must put all the dataset with the same nomenclature)
@@ -89,13 +91,13 @@ FN_list = []
 TP_val = 0
 
 # makes sure to take the grounstruth correspondent to the detection 
-for i in range(0, DP.Frame_Compter(Input_n_objects)):
+for o in range(0, DP.Frame_Compter(Input_n_objects)):
 	# Will create a list with all the objects on the frame
 	for j in range(0, len(GT_valeurs)):
-		if GT_valeurs[j][0] == i:
+		if GT_valeurs[j][0] == o:
 			gt_objects_per_frame.append(GT_valeurs[j][1])
 	for k in range(0, len(Input_valeurs)):
-		if Input_valeurs[k][0] == i:
+		if Input_valeurs[k][0] == o:
 			input_objects_per_frame.append(Input_valeurs[k][1])
 
 	#Make all possible matchs between the detection and the groundtruth 
@@ -125,7 +127,8 @@ for i in range(0, DP.Frame_Compter(Input_n_objects)):
 			precision_final.append(0)	
 
 	if input_objects_per_frame[0] == None:
-		#TP_list.append(0)
+		TP_list.append(0)
+		FP_list.append(0)
 		TP_val = 0
 		number_of_input_detections = 0
 
@@ -142,21 +145,23 @@ for i in range(0, DP.Frame_Compter(Input_n_objects)):
 			TP_list.append(k)
 			TP.append(k)
 			TP_val = k
+			FP_list.append(l)
 		else:
 			TP.append(0)
-			#TP_list.append(0)
-		if l > 0:
+			TP_list.append(0)
 			FP_list.append(l)
+		# if l > 0:
+		# 	FP_list.append(l)
+		
 		number_of_input_detections = len(input_objects_per_frame)
 
 	if gt_objects_per_frame[0] == None:
 		number_of_gt_detections = 0
+
 	else:
 		number_of_gt_detections = len(gt_objects_per_frame)
-	# print("TP" + str(TP_list))
-	# print("FP" + str(FP_list))
-	# print("FN" + str(FN_list))
-	# input("top")
+	
+
 
 	#FP_list.append(number_of_input_detections - TP_val)
 	FN_list.append(number_of_gt_detections - TP_val)
@@ -175,8 +180,20 @@ for i in range(0, DP.Frame_Compter(Input_n_objects)):
 		final_porcentage = final_porcentage + precision_final[i]
 		objects_counter = objects_counter + 1
 
+
+
+	
 	#Show the detections on the respective frame to compare thes results
+
 	cv2.imshow("Frame", Show_comparison(input_objects_per_frame, gt_objects_per_frame))
+
+	print("FRAME NUMBER: " + str(len(TP_list)))	
+	# if o>0:
+	print("TP: " + str(TP_list[o-1]))
+	print("FP: " + str(FP_list[o-1]))
+	print("FN: " + str(FN_list[o-1]))
+	print("Precision" + str(CSV_precision[o-1]))
+	# input("Press enter to continue to the next frame")
 
 	resultad = []
 	precision_final = []
@@ -243,6 +260,9 @@ with open(args["input"],'r') as csvinput:
         writer.writerows(all)
 
 print(final_porcentage/objects_counter)
+print("TP Total: " + str(TP_total))
+print("FP Total: " + str(FP_total))
+print("FN Total: " + str(FN_total))
 
 
 
