@@ -1,0 +1,8 @@
+Here you will find each stage of the analysis process.
+1 - MobileNetSSD folder --> Pre-processing and detection stage
+2 - Comparateur folder --> Comparison btw the CSV created by the detection and the CSV created from the groundtruth
+
+Complement:
+
+* The Dataset and the Groundtruth CSV files are in the "Datases_Test" folder.
+* The "MobileNet_classifcator" folder have some tests made with a pure classificator the idea was to use it with the images generates after the Background supression process in the "background_supression" folder. 
